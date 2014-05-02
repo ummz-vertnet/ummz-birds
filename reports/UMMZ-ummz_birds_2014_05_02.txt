@@ -1,0 +1,231 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 3040
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 18
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 116
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 4
+	Date: 2014-04-03 ; Times: 8
+	Date: 2014-04-04 ; Times: 2
+	Date: 2014-04-05 ; Times: 1
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 9
+	Date: 2014-04-08 ; Times: 2
+	Date: 2014-04-09 ; Times: 20
+	Date: 2014-04-10 ; Times: 7
+	Date: 2014-04-11 ; Times: 9
+	Date: 2014-04-12 ; Times: 1
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-14 ; Times: 23
+	Date: 2014-04-15 ; Times: 18
+	Date: 2014-04-16 ; Times: 5
+	Date: 2014-04-17 ; Times: 18
+	Date: 2014-04-18 ; Times: 1
+	Date: 2014-04-19 ; Times: 6
+	Date: 2014-04-21 ; Times: 6
+	Date: 2014-04-22 ; Times: 2
+	Date: 2014-04-23 ; Times: 5
+	Date: 2014-04-24 ; Times: 6
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-26 ; Times: 2
+	Date: 2014-04-27 ; Times: 3
+	Date: 2014-04-28 ; Times: 2
+	Date: 2014-04-29 ; Times: 1
+	Date: 2014-04-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "taiwan institutioncode:ummz" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "1265" ; Times: 1
+	Query: "country:"guatemala" institutioncode:ummz" ; Times: 1
+	Query: "cincinnati museum center" ; Times: 1
+	Query: "catalognumber:242000 institutioncode:UMMZ" ; Times: 2
+	Query: "verrill dominica" ; Times: 1
+	Query: "242504 institutioncode:UMMZ" ; Times: 1
+	Query: "country:"italy" institutioncode:ummz" ; Times: 1
+	Query: "catalognumber:242001 institutioncode:UMMZ" ; Times: 1
+	Query: "Anas institutioncode:UMMZ year >= 2008 year <= 2008" ; Times: 1
+	Query: "Melanerpes institutioncode:UMMZ year >= 2011 year <= 2011" ; Times: 1
+	Query: "amazon" ; Times: 1
+	Query: "gulgula" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus institutioncode:ummz" ; Times: 1
+	Query: "genus:Vultur institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:240999 institutioncode:UMMZ" ; Times: 1
+	Query: "china institutioncode:ummz" ; Times: 1
+	Query: "rachael" ; Times: 1
+	Query: "genus:vultur" ; Times: 4
+	Query: "year >= 2014" ; Times: 1
+	Query: "distance(location,geopoint(35.460669951495305,-90.87890625))<100000" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<3240" ; Times: 1
+	Query: "Geotrygon" ; Times: 1
+	Query: "cicada" ; Times: 1
+	Query: "jacana" ; Times: 3
+	Query: "molothrus ater wyoming" ; Times: 1
+	Query: "catalognumber:196641" ; Times: 1
+	Query: "specificepithet:coronata. year >= 1892 year <= 1892" ; Times: 1
+	Query: "ocreatus" ; Times: 1
+	Query: "kirtlandii" ; Times: 1
+	Query: "stateprovince:"Nevada" (Otus)" ; Times: 4
+	Query: "genus:vultur institutioncode:ummz" ; Times: 1
+	Query: "specificepithet:migratorius genus:ectopistes" ; Times: 1
+	Query: "Rhoades" ; Times: 1
+	Query: "Gallirallus australis" ; Times: 1
+	Query: "piaya cayana" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 3
+	Query: "recordedby:lacey" ; Times: 3
+	Query: "africa institutioncode:ummz" ; Times: 1
+	Query: "Northern Michigan University" ; Times: 2
+	Query: "Doris" ; Times: 2
+	Query: "Pachycephala pectoralis" ; Times: 1
+	Query: "Ectopistes" ; Times: 1
+	Query: "Cabinda" ; Times: 1
+	Query: "anous minutus" ; Times: 1
+	Query: "catalognumber:242022 institutioncode:ummz" ; Times: 1
+	Query: ""male" "3232"" ; Times: 2
+	Query: ""3232" sex:male" ; Times: 3
+	Query: "class:Aves institutioncode:UMMZ" ; Times: 2
+	Query: "country:"panama" institutioncode:ummz" ; Times: 1
+	Query: "Podiceps taczanowskii" ; Times: 1
+	Query: "stiphrornis" ; Times: 1
+	Query: "limosa fedoa" ; Times: 1
+	Query: "country:"zambia" institutioncode:ummz" ; Times: 1
+	Query: "country:"spain" institutioncode:ummz" ; Times: 1
+	Query: "Icterus cucullatus riverside" ; Times: 1
+	Query: "country:"france" institutioncode:ummz" ; Times: 1
+	Query: "(evelynae) year <= 2014" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 12
+	Query: "sex:male 3232" ; Times: 1
+	Query: "hammock camp" ; Times: 1
+	Query: "male : 3232" ; Times: 1
+	Query: ""male" (3232)" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 6
+	Query: "balaeniceps" ; Times: 1
+	Query: "country:"honduras" institutioncode:ummz" ; Times: 1
+	Query: "Meleagris institutioncode:UMMZ year >= 2010 year <= 2010" ; Times: 1
+	Query: "piaya minuta" ; Times: 2
+	Query: "mice" ; Times: 1
+	Query: "Vireo olivaceus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Atlantic type:specimen stateprovince:"Massachusetts" country:"United States"" ; Times: 2
+	Query: "rufous hummingbird" ; Times: 1
+	Query: "philodice" ; Times: 3
+	Query: "zonotrichia capensis country:"Peru"" ; Times: 2
+	Query: "Calyptorhynchus type:specimen (preserved)" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "Pachycephala melanura" ; Times: 1
+	Query: "country:"brazil" institutioncode:ummz" ; Times: 1
+	Query: "specificepithet:platypterus genus:buteo institutioncode:ummz" ; Times: 1
+	Query: "Aves: Dendroica discolor" ; Times: 1
+	Query: "country:"south africa" institutioncode:ummz" ; Times: 1
+	Query: "catalognumber:241500 institutioncode:UMMZ" ; Times: 1
+	Query: ""3232" AND "male"" ; Times: 1
+	Query: "Syndactyla rufosuperciliata" ; Times: 1
+	Query: "ant" ; Times: 2
+	Query: "ectopistes" ; Times: 1
+	Query: "recordedBy:Lacey" ; Times: 3
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "iran institutioncode:ummz" ; Times: 1
+	Query: "Calliphlox evelynae" ; Times: 2
+	Query: "class:Aves hastypestatus:1 distance(location,geopoint(43.70759350405294,-104.94140625))<504426" ; Times: 1
+	Query: "BD-8983 institutioncode:UMMZ" ; Times: 1
+	Query: "Ninox philippensis" ; Times: 2
+	Query: "recordedby:Lacey" ; Times: 2
+	Query: "Agamia agami" ; Times: 1
+	Query: "type:specimen (Bailey) year >= 1945 year <= 1959" ; Times: 2
+	Query: "formicivora grisea" ; Times: 1
+	Query: "class:aves catalognumber:196641" ; Times: 1
+	Query: "IU" ; Times: 1
+	Query: "india institutioncode:ummz" ; Times: 1
+	Query: "genus:Vultur" ; Times: 6
+	Query: "country:"ecuador" institutioncode:ummz" ; Times: 1
+	Query: "Gallirallus owstoni" ; Times: 1
+	Query: "Gallirallus okinawae" ; Times: 2
+	Query: "male : 3232 sex" ; Times: 1
+	Query: "rhoades" ; Times: 1
+	Query: "catalognumber:241501 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:240001 institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:ummz year:2010 class:aves" ; Times: 2
+	Query: "Gallirallus owstoni (skin OR feather OR fluid)" ; Times: 1
+	Query: "country:"mexico" institutioncode:ummz" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 433 download events in this period)
+Total number of records downloaded: 213864 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 209537
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 1
+	Date: 2014-04-02 ; Times: 1
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 4
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-15 ; Times: 1
+	Date: 2014-04-17 ; Times: 5
+	Date: 2014-04-18 ; Times: 2
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "University of Michigan Museum Zoology" ; Times: 1
+	Query: "genus:Vultur" ; Times: 3
+	Query: "Perisoreus canadensis type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Picoides villosus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "genus:Vultur institutioncode:UMMZ" ; Times: 1
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "genus:vultur" ; Times: 1
+	Query: "Tachycineta bicolor institutioncode:FMNH OR CAS OR MVZ OR UMMZ" ; Times: 1
+	Query: "male : 3232 recordnumber sex" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "Vireo olivaceus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Tachycineta bicolor type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "Valladares" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 170
+Total number of records retrieved from searches: 3040
+Number of download events that retrieved data from the resource: 85
+Total number of records downloaded: 256373
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 170
+Total number of records retrieved from searches: 3040
+Number of download events that retrieved data from the resource: 154
+Total number of records downloaded: 291678
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
