@@ -1,0 +1,341 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 295
+Number of records retrieved in searches: 3805
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 12
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: Cyprus ; Times: 1
+	Country: Czech Republic ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Guam ; Times: 6
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Romania ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 230
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 16
+	Date: 2014-09-03 ; Times: 9
+	Date: 2014-09-04 ; Times: 8
+	Date: 2014-09-05 ; Times: 21
+	Date: 2014-09-06 ; Times: 28
+	Date: 2014-09-08 ; Times: 19
+	Date: 2014-09-09 ; Times: 4
+	Date: 2014-09-10 ; Times: 4
+	Date: 2014-09-11 ; Times: 9
+	Date: 2014-09-12 ; Times: 14
+	Date: 2014-09-13 ; Times: 2
+	Date: 2014-09-14 ; Times: 2
+	Date: 2014-09-15 ; Times: 32
+	Date: 2014-09-16 ; Times: 23
+	Date: 2014-09-17 ; Times: 23
+	Date: 2014-09-19 ; Times: 8
+	Date: 2014-09-22 ; Times: 64
+	Date: 2014-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 13
+	Query: ""BD-9034" institutioncode:UMMZ" ; Times: 2
+	Query: ""taeniopygia guttata" tissue:1" ; Times: 1
+	Query: ""BD-9039" institutioncode:UMMZ" ; Times: 1
+	Query: "Anthus type:specimen tissue:1" ; Times: 1
+	Query: ""BD-9723" institutioncode:UMMZ" ; Times: 2
+	Query: "genus:zoothera" ; Times: 1
+	Query: "crocodile" ; Times: 1
+	Query: "Spheniscidae" ; Times: 1
+	Query: "recordedby:j. grinnell" ; Times: 5
+	Query: "murie" ; Times: 2
+	Query: "Pavo muticus (tissue)" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: ""BD-9022" institutioncode:UMMZ" ; Times: 3
+	Query: "genus:Pheucticus institutioncode:UMMZ year >= 2003 year <= 2003" ; Times: 1
+	Query: ""BD-9016" institutioncode:UMMZ" ; Times: 1
+	Query: "Treron type:specimen tissue:1" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Pterocles alchata "Pterocles alchata" type:specimen (tissue)" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "institutioncode:ummz" ; Times: 1
+	Query: ""BD-2236" institutioncode:UMMZ" ; Times: 2
+	Query: "distance(location,geopoint(16.720385051693988,-96.558837890625))<8055" ; Times: 1
+	Query: "oradea" ; Times: 1
+	Query: "sturnella militaris tissue" ; Times: 1
+	Query: "genus:Sturnella institutioncode:UMMZ year >= 2011 year <= 2011" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Oenanthe tissue:1" ; Times: 1
+	Query: "sephanoides" ; Times: 1
+	Query: "elaenia chiriquensis" ; Times: 3
+	Query: "turdoides affinis" ; Times: 1
+	Query: ""BD-9093" institutioncode:UMMZ" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States" year >= 1980 year <= 2010" ; Times: 1
+	Query: "lonchura cantans" ; Times: 7
+	Query: "Frank Gill" ; Times: 3
+	Query: "ammodramus humeralis tissue" ; Times: 3
+	Query: ""BD-9096" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-9705" institutioncode:UMMZ" ; Times: 1
+	Query: "233102" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014 mappable:1" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "rallus crepitans" ; Times: 7
+	Query: ""Falco rufigularis" type:specimen mappable:1" ; Times: 2
+	Query: ""BD-9098" institutioncode:UMMZ" ; Times: 1
+	Query: "geothlypis velata tissue" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: ""BD-9809" institutioncode:UMMZ" ; Times: 2
+	Query: "sporophila plumbea tissue" ; Times: 1
+	Query: "institutioncode:UMMZ AND (NOT Aves) year >= 1700 year <= 1860" ; Times: 1
+	Query: "Pterocles alchata type:specimen" ; Times: 2
+	Query: "contopus virens type:specimen tissue:1" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1870 year <= 1940" ; Times: 1
+	Query: "Sphyrapicus ruber AND California AND (Mexico)" ; Times: 1
+	Query: "231191" ; Times: 1
+	Query: ""BD-9081" institutioncode:UMMZ" ; Times: 1
+	Query: "Lanius type:specimen tissue:1" ; Times: 3
+	Query: "syndactyla rufosuperciliata" ; Times: 2
+	Query: ""BD-9090" institutioncode:UMMZ" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: ""BD-9042" institutioncode:UMMZ" ; Times: 2
+	Query: "emberizoides herbicola tissue" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1974 year <= 2014" ; Times: 2
+	Query: ""BD-9010" institutioncode:UMMZ" ; Times: 1
+	Query: "Trowbridge institutioncode:UMMZ" ; Times: 3
+	Query: ""BD-9049" institutioncode:UMMZ" ; Times: 1
+	Query: "falco peregrinus type:specimen year >= 1800 year <= 1940" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: ""BD-9051" institutioncode:UMMZ" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "sheppardia tissue:1" ; Times: 1
+	Query: "sporophila leucoptera tissue" ; Times: 1
+	Query: ""BD-9311" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-9099" institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Zonotrichia institutioncode:UMMZ tissue:1" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 1
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "230400" ; Times: 1
+	Query: "eudyptula minor" ; Times: 3
+	Query: "genus:zoothera AND (NOT observation)" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1850 year <= 1940" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1980 year <= 2014" ; Times: 1
+	Query: ""BD-9725" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-9107" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-9008" institutioncode:UMMZ" ; Times: 1
+	Query: "ammodramus humeralis" ; Times: 1
+	Query: "Crocodile" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"new york"" ; Times: 1
+	Query: ""BD-9091" institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:UMMZ (Trowbridge)" ; Times: 1
+	Query: "Pterocles" ; Times: 1
+	Query: "Sporophila pileata mappable:1" ; Times: 1
+	Query: "Merops type:specimen tissue:1" ; Times: 1
+	Query: ""BD-9101" institutioncode:UMMZ" ; Times: 1
+	Query: "Sporophila bouvreuil mappable:1" ; Times: 1
+	Query: "caprimulgus tissue:1" ; Times: 2
+	Query: ""BD-9660" institutioncode:UMMZ" ; Times: 1
+	Query: "Pteroglossus" ; Times: 1
+	Query: "Corythaixoides" ; Times: 1
+	Query: ""BD-9707" institutioncode:UMMZ" ; Times: 1
+	Query: "Pithecophaga jefferyi" ; Times: 8
+	Query: "sturnella superciliaris tissue" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 2
+	Query: "brotogeris versicolurus" ; Times: 1
+	Query: "Kirtland rockport" ; Times: 2
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "Ptilinopus" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Lagopus Newfoundland" ; Times: 1
+	Query: ""BD-9083" institutioncode:UMMZ" ; Times: 1
+	Query: "Big Island Reid" ; Times: 2
+	Query: "231042" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "Asthenes" ; Times: 1
+	Query: "Prunella type:specimen tissue:1" ; Times: 2
+	Query: "institutioncode:UMMZ tissue:1" ; Times: 1
+	Query: ""BD-9089" institutioncode:UMMZ" ; Times: 1
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "tangara cayana tissue" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "formicivora rufa tissue" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: ""BD-9037" institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen institutioncode:UMMZ" ; Times: 1
+	Query: "Empidonax virescens type:specimen tissue:1" ; Times: 1
+	Query: "Ptilinopus tissue:1" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: ""BD-9097" institutioncode:UMMZ" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: "Lanius tissue:1" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 5
+	Query: ""BD-9100" institutioncode:UMMZ" ; Times: 1
+	Query: "pipra filicauda type:specimen" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2010" ; Times: 2
+	Query: ""BD-9092" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-9724" institutioncode:UMMZ" ; Times: 2
+	Query: "country:"japan" class:aves year >= 1910 year <= 1910" ; Times: 2
+	Query: "buteo jamaicensis fuertesi type:specimen country:"United States"" ; Times: 1
+	Query: "Anthreptes tissue:1" ; Times: 1
+	Query: "Prunella rubida tissue:1" ; Times: 1
+	Query: "type:specimen genus:aphelocoma institutioncode:UMMZ" ; Times: 1
+	Query: "Ploceus type:specimen tissue:1" ; Times: 1
+	Query: "Aphelocoma Santa Barbara county" ; Times: 2
+	Query: ""BD-9094" institutioncode:UMMZ" ; Times: 2
+	Query: "ptilinopus type:specimen tissue:1" ; Times: 2
+	Query: "specificepithet:albicollis genus:Zonotrichia institutioncode:UMMZ tissue:1" ; Times: 3
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "haussarum" ; Times: 1
+	Query: "institutioncode:UMMZ year >= 1700 year <= 1860" ; Times: 1
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 4
+	Query: "polytmus guainumbi tissue" ; Times: 1
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 2
+	Query: ""BD-9055" institutioncode:UMMZ" ; Times: 1
+	Query: "picumnus cirratus tissue" ; Times: 1
+	Query: "dicaeum australe" ; Times: 1
+	Query: "oenanthe tissue:1" ; Times: 1
+	Query: "specificepithet:tristis institutioncode:UMMZ year >= 2013 year <= 2013" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: ""BD-9085" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-9693" institutioncode:UMMZ" ; Times: 2
+	Query: ""BD-9102" institutioncode:UMMZ" ; Times: 2
+	Query: "Rostrhamus sociabilis paraguay" ; Times: 1
+	Query: "236424" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen mappable:1" ; Times: 2
+	Query: ""BD-9704" institutioncode:UMMZ" ; Times: 1
+	Query: "Psittacidae tissue:1" ; Times: 2
+	Query: "223937" ; Times: 1
+	Query: "Aphelocoma Santa Barbara" ; Times: 1
+	Query: "Coracias tissue:1" ; Times: 2
+	Query: "Ptilinopus type:specimen tissue:1" ; Times: 1
+	Query: "aagaard" ; Times: 2
+	Query: "sublegatus arenarum tissue" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 2
+	Query: "specificepithet:tristis institutioncode:UMMZ year >= 2012 year <= 2012" ; Times: 1
+	Query: ""BD-9722" institutioncode:UMMZ" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "223631" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "spizella arborea stateprovince:"indiana"" ; Times: 1
+	Query: "type:specimen (Prunella) mappable:1" ; Times: 1
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: ""BD-9082" institutioncode:UMMZ" ; Times: 2
+	Query: ""Falco deiroleucus" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1890 year <= 1940" ; Times: 1
+	Query: ""BD-9069" institutioncode:UMMZ" ; Times: 1
+	Query: "sicalis luteola tissue" ; Times: 2
+	Query: ""BD-9015" institutioncode:UMMZ" ; Times: 1
+	Query: "Psittacidae mappable:1 tissue:1" ; Times: 1
+	Query: "Pipra" ; Times: 1
+	Query: ""BD-9077" institutioncode:UMMZ" ; Times: 2
+	Query: "NCSM" ; Times: 1
+	Query: "catalognumber:62427 institutioncode:ummz" ; Times: 1
+	Query: "elaenia chiriquensis tissue" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 164 download events in this period)
+Total number of records downloaded: 27138 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 25458
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-05 ; Times: 2
+	Date: 2014-09-08 ; Times: 3
+	Date: 2014-09-09 ; Times: 2
+	Date: 2014-09-11 ; Times: 1
+	Date: 2014-09-12 ; Times: 7
+	Date: 2014-09-13 ; Times: 2
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 8
+	Date: 2014-09-16 ; Times: 1
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "ptilinopus type:specimen tissue:1" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1870 year <= 1940" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"california"" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "type:specimen stateprovince:"TEXAS" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1974 year <= 2014" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1980 year <= 2003" ; Times: 2
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "type:specimen genus:aphelocoma institutioncode:UMMZ" ; Times: 1
+	Query: "Spizaetus tyrannus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"ARIZONA" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"new york"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1628
+Total number of records retrieved from searches: 21966
+Number of download events that retrieved data from the resource: 257
+Total number of records downloaded: 317456
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1628
+Total number of records retrieved from searches: 21966
+Number of download events that retrieved data from the resource: 326
+Total number of records downloaded: 352761
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
