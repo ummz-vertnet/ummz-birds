@@ -1,0 +1,303 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 318
+Number of records retrieved in searches: 5364
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Chile ; Times: 2
+	Country: China ; Times: 1
+	Country: France ; Times: 9
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 92
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 186
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 18
+	Date: 2014-10-11 ; Times: 8
+	Date: 2014-10-13 ; Times: 3
+	Date: 2014-10-14 ; Times: 8
+	Date: 2014-10-15 ; Times: 7
+	Date: 2014-10-16 ; Times: 3
+	Date: 2014-10-17 ; Times: 8
+	Date: 2014-10-18 ; Times: 1
+	Date: 2014-10-19 ; Times: 9
+	Date: 2014-10-20 ; Times: 67
+	Date: 2014-10-21 ; Times: 44
+	Date: 2014-10-22 ; Times: 13
+	Date: 2014-10-23 ; Times: 13
+	Date: 2014-10-24 ; Times: 13
+	Date: 2014-10-25 ; Times: 13
+	Date: 2014-10-27 ; Times: 17
+	Date: 2014-10-28 ; Times: 14
+	Date: 2014-10-29 ; Times: 6
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "argusianus captive" ; Times: 10
+	Query: "Calocitta formosa pompata" ; Times: 3
+	Query: "type:specimen genus:Spizella institutioncode:Ummz year >= 2010 year <= 2010" ; Times: 1
+	Query: "county:"Ingham" genus:Cardinalis institutioncode:Ummz" ; Times: 1
+	Query: "Veniliornis nigriceps" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 4
+	Query: "county:"Washtenaw" genus:Chordeiles institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "gallinula panama" ; Times: 3
+	Query: "Morus" ; Times: 1
+	Query: "institutioncode:Ummz (9885) year >= 2013 year <= 2013" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: ""chlorocichla simplex" tissue:1" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (Steere) year >= 1930 year <= 1953" ; Times: 1
+	Query: "Aves stateprovince:"Michigan" institutioncode:UMMZ year >= 1837 year <= 1845" ; Times: 1
+	Query: "Pyrrhura panama" ; Times: 7
+	Query: "elf" ; Times: 2
+	Query: "institutioncode:Ummz (9880) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Porphyrio martinicus panama" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "119318" mappable:1" ; Times: 1
+	Query: "Perdicula argoondah" ; Times: 1
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: ""urn:lsid:biocol.org:col:34917" mappable:1" ; Times: 1
+	Query: "tlalpan" ; Times: 1
+	Query: "leptotila panama" ; Times: 6
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus" ; Times: 1
+	Query: "county:"Washtenaw" genus:Archilochus institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "stateprovince:"Oregon" recordedby:Braly" ; Times: 3
+	Query: "Cyanocorax affinis zeledoni" ; Times: 2
+	Query: "institutioncode:Ummz (9945) year >= 1990 year <= 2014" ; Times: 1
+	Query: "contopus tissue:1" ; Times: 1
+	Query: "Semnornis" ; Times: 1
+	Query: "county:"Washtenaw" genus:Carpodacus institutioncode:Ummz year >= 2011 year <= 2013" ; Times: 1
+	Query: "coryphospingus pileatus tissue" ; Times: 1
+	Query: "catalognumber:118438 institutioncode:ummz" ; Times: 1
+	Query: "Aves stateprovince:"Michigan" institutioncode:UMMZ (Sager OR Hubbard OR Houghton OR Wright OR Bull) year >= 1837 year <= 1845" ; Times: 1
+	Query: "institutioncode:Ummz (9837) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Catharus guttatus auduboni" ; Times: 1
+	Query: "institutioncode:UMMZ" ; Times: 2
+	Query: "columbina minuta panama" ; Times: 1
+	Query: "ernest doane AND (not ummz)" ; Times: 1
+	Query: "semnornis" ; Times: 1
+	Query: "Columba cayennensis pallidicrissa panama" ; Times: 2
+	Query: "institutioncode:Ummz (9977) year >= 1990 year <= 2014" ; Times: 1
+	Query: "columba panama" ; Times: 13
+	Query: "institutioncode:Ummz (9799) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Catharus guttatus auduboni year >= 1929 year <= 1929" ; Times: 1
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "county:"Mecosta" genus:Parus institutioncode:Ummz year >= 2012 year <= 2012" ; Times: 1
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "county:"Wayne" genus:Archilochus institutioncode:Ummz year >= 2012 year <= 2012" ; Times: 1
+	Query: "ara panama" ; Times: 3
+	Query: "crax rubra panama" ; Times: 1
+	Query: "institutioncode:Ummz (9901) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (Koelz OR Chand) AND (NOT USA) year >= 1930 year <= 1953" ; Times: 6
+	Query: "Aratinga panama" ; Times: 13
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "institutioncode:Ummz (9947) year >= 1990 year <= 2014" ; Times: 1
+	Query: "ramphotrigon" ; Times: 3
+	Query: "Lacedo pulchella" ; Times: 1
+	Query: "cracidae" ; Times: 2
+	Query: "stateprovince:"new mexico" specificepithet:corax genus:corvus year >= 1800 year <= 1894" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "type:specimen genus:Junco institutioncode:Ummz year >= 2011 year <= 2011" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "institutioncode:Ummz (9195) year >= 1990 year <= 2014" ; Times: 1
+	Query: "country:"panama" (barro colorado) year >= 1925 year <= 1925" ; Times: 1
+	Query: "Dendrocincla tyrannina" ; Times: 1
+	Query: "county:"Ingham" genus:Mniotilta institutioncode:Ummz year >= 1999 year <= 2013" ; Times: 1
+	Query: ""Thamnophilus nigrocinereus"" ; Times: 3
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "sporophila leucoptera tissue" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "institutioncode:Ummz (9452) year >= 1990 year <= 2014" ; Times: 1
+	Query: "bubalornis" ; Times: 1
+	Query: "county:"Livingston" genus:Thryothorus institutioncode:Ummz year >= 2011 year <= 2011" ; Times: 1
+	Query: "type:specimen genus:Anas institutioncode:Ummz year >= 2010 year <= 2010" ; Times: 1
+	Query: "genus:Archilochus institutioncode:Ummz year >= 2012 year <= 2012" ; Times: 1
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 2
+	Query: "catharus minimus" ; Times: 2
+	Query: "Crax rubra panama" ; Times: 1
+	Query: "institutioncode:UMMZ (Koelz OR Chand) AND (NOT USA) year >= 1930 year <= 1953" ; Times: 9
+	Query: "Asthenes wyatti" ; Times: 1
+	Query: "stateprovince:"north dakota" recordedby:judd" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "Crypturellus noctivagus" ; Times: 1
+	Query: "institutioncode:Ummz (5195) year >= 1990 year <= 2014" ; Times: 1
+	Query: "county:"Jackson" genus:Archilochus institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "institutioncode:Ummz (9751) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Aves institutioncode:UMMZ year >= 1837 year <= 1845" ; Times: 1
+	Query: "Sialia mexicana utah" ; Times: 1
+	Query: "Aves AND Steere AND Beal institutioncode:UMMZ" ; Times: 2
+	Query: "chamaepetes unicolor" ; Times: 10
+	Query: "Accipiter striatus suttoni" ; Times: 1
+	Query: "AN 830" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina"" ; Times: 1
+	Query: "Ammoperdix griseogularis" ; Times: 3
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "institutioncode:Ummz (8604) year >= 1990 year <= 2014" ; Times: 1
+	Query: "nepal type:specimen class:aves" ; Times: 2
+	Query: "Ara panama" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "119318"" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (Koelz OR Chand) year >= 1930 year <= 1935" ; Times: 1
+	Query: "sturnella superciliaris tissue" ; Times: 1
+	Query: "county:"Washtenaw" genus:Seiurus institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "Parulidae institutioncode:UMMZ" ; Times: 1
+	Query: "Cyanocorax violaceus" ; Times: 2
+	Query: "institutioncode:Ummz (9665) year >= 1990 year <= 2014" ; Times: 1
+	Query: "county:"Livingston" genus:Agelaius institutioncode:Ummz year >= 2012 year <= 2012" ; Times: 1
+	Query: "family:turdidae country:"colombia" mappable:1" ; Times: 1
+	Query: "institutioncode:Ummz (9946) year >= 1990 year <= 2014" ; Times: 1
+	Query: "hosner" ; Times: 1
+	Query: "institutioncode:Ummz (9836) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 2
+	Query: "lafresnayi" ; Times: 1
+	Query: "Damophila julie panamensis panama" ; Times: 1
+	Query: "ernest doane AND (ummz)" ; Times: 1
+	Query: "type:specimen genus:Junco institutioncode:Ummz year >= 2008 year <= 2008" ; Times: 1
+	Query: "Zosterops erythropleurus" ; Times: 3
+	Query: "institutioncode:Ummz (9818) year >= 1990 year <= 2014" ; Times: 1
+	Query: "institutioncode:Ummz (9912) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Ortygospiza gabonensis dorsostriata" ; Times: 1
+	Query: "type:specimen genus:Spizella institutioncode:Ummz year >= 2012 year <= 2012" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (Koelz OR Chand)" ; Times: 2
+	Query: "institutioncode:Ummz (9822) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Lacedo pulchella type:specimen" ; Times: 1
+	Query: ""Tadorna"" ; Times: 1
+	Query: "Aratinga pertinax ocularis panama" ; Times: 1
+	Query: "Chordeiles minor aserriensis" ; Times: 1
+	Query: "genus:Buteo institutioncode:Ummz year >= 2009 year <= 2009" ; Times: 1
+	Query: "Glaucis hirsuta affinis panama" ; Times: 2
+	Query: "rallidae panama" ; Times: 1
+	Query: "type:specimen specificepithet:Platyrhynchos genus:Anas institutioncode:Ummz year >= 2010 year <= 2014" ; Times: 1
+	Query: "Columba cayennensis panama" ; Times: 1
+	Query: "Columba speciosa panama" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "90778"" ; Times: 1
+	Query: "odontophorus panama" ; Times: 1
+	Query: "fuliginosa meruloides" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "specificepithet:genei genus:larus" ; Times: 8
+	Query: "dendrortyx" ; Times: 1
+	Query: "vanellus chilensis tissue" ; Times: 1
+	Query: "Dendrocincla anabatina" ; Times: 3
+	Query: "institutioncode:Ummz (9928) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (Koelz OR Chand) year >= 1930 year <= 1953" ; Times: 2
+	Query: "county:"Washtenaw" genus:Columba institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "cracidae panama" ; Times: 9
+	Query: "Campylopterus hemileucurus panama" ; Times: 2
+	Query: "institutioncode:Ummz (9760) year >= 1990 year <= 2014" ; Times: 1
+	Query: "nothoprocta" ; Times: 1
+	Query: "coryphospingus cucullatus tissue" ; Times: 1
+	Query: "county:"Livingston" genus:Cardinalis institutioncode:Ummz year >= 2011 year <= 2011" ; Times: 1
+	Query: "odontophorus gujanensis panama" ; Times: 1
+	Query: "county:"Washtenaw" genus:Vermivora institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "Formicarius colma" ; Times: 2
+	Query: "LACM 67542" ; Times: 1
+	Query: "Foulehaio carunculata" ; Times: 1
+	Query: "Cardinalis cardinalis superbus" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (Steere)" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "institutioncode:UMMZ (Koelz OR Chand) AND (Aves) year >= 1930 year <= 1953" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "90779"" ; Times: 1
+	Query: "institutioncode:Ummz (9894) year >= 2013 year <= 2013" ; Times: 1
+	Query: "Zosterops tissue:1" ; Times: 2
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "grus canadensis (alaska)" ; Times: 1
+	Query: "pionus" ; Times: 3
+	Query: ""119318" "urn:lsid:biocol.org:col:34917"" ; Times: 1
+	Query: "county:"Wayne" genus:Falco institutioncode:Ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "fulica panama" ; Times: 1
+	Query: "Empidonax alnorum tissue:1" ; Times: 1
+	Query: "Heliornis fulica panama" ; Times: 1
+	Query: "ernest doane" ; Times: 4
+	Query: "county:"Mecosta" genus:Pheucticus institutioncode:Ummz year >= 2010 year <= 2010" ; Times: 1
+	Query: "Atthis tissue:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 2
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "Granatellus venustus" ; Times: 1
+	Query: "Hemicircus" ; Times: 2
+	Query: "crax rubra" ; Times: 3
+	Query: "salmon stateprovince:"Alaska" institutioncode:UMMZ" ; Times: 1
+	Query: "Pyrrhura hoffmanni gaudens panama" ; Times: 1
+	Query: "stateprovince:"veracruz" country:"mexico" year >= 1912 year <= 1912" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"Kansas"" ; Times: 1
+	Query: "cyanocorax luxuosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 166 download events in this period)
+Total number of records downloaded: 227940 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 209998
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 3
+	Date: 2014-10-16 ; Times: 1
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-29 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "MINDORO" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Parulidae institutioncode:UMMZ" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "contopus tissue:1" ; Times: 2
+	Query: "passer montanus" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "momotus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1946
+Total number of records retrieved from searches: 27330
+Number of download events that retrieved data from the resource: 275
+Total number of records downloaded: 545396
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1946
+Total number of records retrieved from searches: 27330
+Number of download events that retrieved data from the resource: 344
+Total number of records downloaded: 580701
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
