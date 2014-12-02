@@ -1,0 +1,194 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 2055
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Germany ; Times: 23
+	Country: Italy ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Tanzania ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 100
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 3
+	Date: 2014-11-02 ; Times: 6
+	Date: 2014-11-03 ; Times: 6
+	Date: 2014-11-04 ; Times: 6
+	Date: 2014-11-05 ; Times: 5
+	Date: 2014-11-06 ; Times: 3
+	Date: 2014-11-07 ; Times: 5
+	Date: 2014-11-08 ; Times: 3
+	Date: 2014-11-11 ; Times: 3
+	Date: 2014-11-12 ; Times: 10
+	Date: 2014-11-13 ; Times: 5
+	Date: 2014-11-14 ; Times: 6
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-16 ; Times: 21
+	Date: 2014-11-17 ; Times: 6
+	Date: 2014-11-18 ; Times: 5
+	Date: 2014-11-19 ; Times: 6
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 14
+	Date: 2014-11-22 ; Times: 5
+	Date: 2014-11-23 ; Times: 2
+	Date: 2014-11-24 ; Times: 9
+	Date: 2014-11-25 ; Times: 6
+	Date: 2014-11-26 ; Times: 2
+	Date: 2014-11-27 ; Times: 2
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-29 ; Times: 3
+	Date: 2014-11-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "egg "Larus glaucescens" institutioncode:UMMZ (egg)" ; Times: 1
+	Query: ""BD-5101" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-8737" institutioncode:UMMZ" ; Times: 1
+	Query: "Callipepla californica canfieldae" ; Times: 1
+	Query: "catalognumber:162552 institutioncode:UMMZ" ; Times: 1
+	Query: "BD-6633 institutioncode:UMMZ" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "institutioncode:ummz" ; Times: 2
+	Query: "type:specimen stateprovince:"minnesota" (nest egg)" ; Times: 1
+	Query: "Hypocnemoides" ; Times: 2
+	Query: "gymnopithys rufigula" ; Times: 3
+	Query: ""BD-8617" institutioncode:UMMZ" ; Times: 3
+	Query: "egg specificepithet:glaucescens genus:larus institutioncode:ummz" ; Times: 2
+	Query: "elaenia chiriquensis" ; Times: 1
+	Query: "gull wings" ; Times: 3
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "geotrygon violacea" ; Times: 1
+	Query: ""BD-6893" institutioncode:UMMZ" ; Times: 1
+	Query: "Big Sandy River" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 2
+	Query: "todidae type:specimen" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:vociferus genus:caprimulgus" ; Times: 1
+	Query: "anthus chacoensis" ; Times: 3
+	Query: "Vireo pallens angulensis" ; Times: 1
+	Query: ""BD-8932" institutioncode:UMMZ" ; Times: 2
+	Query: "Fulica tissue:1" ; Times: 1
+	Query: ""BD-6885" institutioncode:UMMZ" ; Times: 2
+	Query: "Henshaw" ; Times: 1
+	Query: ""BD-9162" institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:glaucescens genus:larus institutioncode:ummz (egg)" ; Times: 1
+	Query: "labradorius" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 3
+	Query: "mesitornithidae" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "todidae" ; Times: 2
+	Query: "vireo idaho" ; Times: 1
+	Query: "Somateria mollissima skin" ; Times: 1
+	Query: ""Pinguinus impennis"" ; Times: 1
+	Query: "Big Sandy River West Virginia" ; Times: 1
+	Query: "ninox randi" ; Times: 1
+	Query: "cyanocorax maya" ; Times: 1
+	Query: "institutioncode:UMMZ (Koelz OR Chand) AND (NOT USA) year >= 1930 year <= 1953" ; Times: 1
+	Query: "Agelaius phoeniceus grinnelli" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 2
+	Query: "Barnardius" ; Times: 1
+	Query: "specificepithet:glaucescens genus:larus institutioncode:ummz (eggset)" ; Times: 2
+	Query: ""BD-9158" institutioncode:UMMZ" ; Times: 2
+	Query: "Pipra iris" ; Times: 1
+	Query: "Morelia" ; Times: 3
+	Query: ""BD-6898" institutioncode:UMMZ" ; Times: 1
+	Query: "Greenwich" ; Times: 1
+	Query: ""BD-6897" institutioncode:UMMZ" ; Times: 1
+	Query: "melanerpes erythrocephalus" ; Times: 1
+	Query: "mellivora" ; Times: 2
+	Query: "Ptilinopus" ; Times: 2
+	Query: "type:specimen specificepithet:tucanus genus:ramphastos class:aves" ; Times: 1
+	Query: ""BD-9177" institutioncode:UMMZ" ; Times: 1
+	Query: "bangsia" ; Times: 1
+	Query: ""BD-4831" institutioncode:UMMZ" ; Times: 1
+	Query: "ives lake" ; Times: 1
+	Query: "Poospiza garleppi" ; Times: 1
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: ""BD-8736" institutioncode:UMMZ" ; Times: 1
+	Query: ""BD-6825" institutioncode:UMMZ" ; Times: 1
+	Query: "aegithalos" ; Times: 2
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Prunella himalayana" ; Times: 1
+	Query: "ninox scutulata philippines" ; Times: 2
+	Query: "Anas andium" ; Times: 1
+	Query: "BD-6634 institutioncode:UMMZ" ; Times: 2
+	Query: "Zosterops japonicus tissue:1" ; Times: 1
+	Query: "USNM 776" ; Times: 1
+	Query: "UMMZ 200750" ; Times: 1
+	Query: "wildlife in tanzania" ; Times: 1
+	Query: ""BD-6830" institutioncode:UMMZ" ; Times: 2
+	Query: "Molothrus ater artemisiae year <= 1909" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "Telespiza ultima" ; Times: 7
+	Query: "parula tissue" ; Times: 1
+	Query: "micrura institutioncode:ummz" ; Times: 3
+	Query: ""BD-5104" institutioncode:UMMZ" ; Times: 1
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: ""BD-9156" institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Platycercus recordedby:Fisher year >= 1955 year <= 1975" ; Times: 2
+	Query: "Big Sandy River Wayne County West Virginia" ; Times: 1
+	Query: "egg "Larus glaucescens" institutioncode:UMMZ" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: ""BD-8739" institutioncode:UMMZ" ; Times: 1
+	Query: "pionus" ; Times: 2
+	Query: "ninox scutulata" ; Times: 1
+	Query: "41223 institutioncode:ummz" ; Times: 1
+	Query: "catalognumber:162553 institutioncode:UMMZ" ; Times: 1
+	Query: "Ceyx fallax" ; Times: 1
+	Query: "elaenia ruficeps" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1937" ; Times: 1
+	Query: ""BD-9316" institutioncode:UMMZ" ; Times: 2
+	Query: "gibbon" ; Times: 1
+	Query: "catalognumber:242533 institutioncode:UMMZ" ; Times: 3
+	Query: "egg institutioncode:UMMZ" ; Times: 2
+	Query: ""BD-6827" institutioncode:UMMZ" ; Times: 2
+	Query: "Sapayoa aenigma" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2100
+Total number of records retrieved from searches: 29385
+Number of download events that retrieved data from the resource: 275
+Total number of records downloaded: 545396
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2100
+Total number of records retrieved from searches: 29385
+Number of download events that retrieved data from the resource: 344
+Total number of records downloaded: 580701
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
