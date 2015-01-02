@@ -1,0 +1,265 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 225
+Number of records retrieved in searches: 2958
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Austria ; Times: 3
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Italy ; Times: 6
+	Country: Japan ; Times: 4
+	Country: Mexico ; Times: 15
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 148
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 8
+	Date: 2014-12-02 ; Times: 4
+	Date: 2014-12-03 ; Times: 9
+	Date: 2014-12-04 ; Times: 18
+	Date: 2014-12-05 ; Times: 8
+	Date: 2014-12-06 ; Times: 11
+	Date: 2014-12-07 ; Times: 3
+	Date: 2014-12-08 ; Times: 24
+	Date: 2014-12-09 ; Times: 8
+	Date: 2014-12-10 ; Times: 4
+	Date: 2014-12-11 ; Times: 13
+	Date: 2014-12-12 ; Times: 20
+	Date: 2014-12-13 ; Times: 2
+	Date: 2014-12-14 ; Times: 7
+	Date: 2014-12-15 ; Times: 3
+	Date: 2014-12-16 ; Times: 25
+	Date: 2014-12-17 ; Times: 8
+	Date: 2014-12-18 ; Times: 6
+	Date: 2014-12-19 ; Times: 14
+	Date: 2014-12-20 ; Times: 4
+	Date: 2014-12-22 ; Times: 6
+	Date: 2014-12-23 ; Times: 2
+	Date: 2014-12-26 ; Times: 3
+	Date: 2014-12-28 ; Times: 3
+	Date: 2014-12-29 ; Times: 4
+	Date: 2014-12-30 ; Times: 7
+	Date: 2014-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sittasomus griseicapillus sylvioides year <= 1901" ; Times: 1
+	Query: "BD-8939 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:pionus" ; Times: 8
+	Query: "feather Cuculiformes" ; Times: 4
+	Query: "Bradypterus mandelli type:specimen catalognumber:230816 institutioncode:UMMZ" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 12
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 11
+	Query: "type:specimen country:"guatemala" (cuculiformes)" ; Times: 1
+	Query: "chamaeza" ; Times: 3
+	Query: "Bonasa umbellus monticola year <= 1939" ; Times: 1
+	Query: "country:"costa rica" (passerina ciris)" ; Times: 1
+	Query: "BD-9166 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Remiz (nest)" ; Times: 3
+	Query: "catalognumber:242628 institutioncode:UMMZ" ; Times: 1
+	Query: "R. Turnbull" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Aves type:specimen (uo united states) AND (NOT OMNH)" ; Times: 3
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "institutioncode:ummz" ; Times: 2
+	Query: "type:specimen country:"costa rica" (cuculiformes)" ; Times: 1
+	Query: "specificepithet:alle genus:alle" ; Times: 1
+	Query: "Aves type:specimen (ou united states) AND (NOT OMNH NOT Tonga NOT Taiwan)" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "genus:xenospiza year >= 1962 year <= 1962" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 3
+	Query: "aphelocoma coerulescens" ; Times: 7
+	Query: "Aves type:specimen (ou) AND (NOT OMNH)" ; Times: 1
+	Query: "Cyanocitta stelleri carbonacea year <= 1900" ; Times: 1
+	Query: "Cyrtonyx" ; Times: 2
+	Query: "Serinus canaria year >= 1990 year <= 2014" ; Times: 1
+	Query: ""Vireo huttoni" year >= 1960 year <= 1970" ; Times: 2
+	Query: "craveri skeleton" ; Times: 2
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "(shelton pc)" ; Times: 3
+	Query: "distance(location,geopoint(37.38120676237962,-121.95768356323242))<983.9556608450865" ; Times: 1
+	Query: "falco deiroleucus" ; Times: 8
+	Query: "Bradypterus mandelli type:specimen catalognumber:230814 institutioncode:UMMZ" ; Times: 1
+	Query: "Bradypterus mandelli type:specimen catalognumber:230776 institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:UMMZ" ; Times: 1
+	Query: "plegadis falcinellus" ; Times: 1
+	Query: "sublegatus modestus" ; Times: 3
+	Query: "Serinus canaria" ; Times: 3
+	Query: "synthliboramphus craveri" ; Times: 2
+	Query: "craveri" ; Times: 1
+	Query: "rollo beck and california and santa clara" ; Times: 6
+	Query: "specificepithet:mississippiensis genus:Ictinia institutioncode:UMMZ" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 4
+	Query: "ummz Nevada burleigh" ; Times: 1
+	Query: "emigrans" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 1
+	Query: "Schultz type:specimen" ; Times: 1
+	Query: "(Shelton PC) year >= 1950 year <= 1965" ; Times: 1
+	Query: "villa bernardo" ; Times: 1
+	Query: "type:specimen country:"nicaragua" (cuculiformes)" ; Times: 1
+	Query: "catalognumber:166707 institutioncode:ummz" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 3
+	Query: "Euplectes macroura" ; Times: 1
+	Query: "Rausch type:specimen stateprovince:"Alaska" class:aves institutioncode:ummz" ; Times: 2
+	Query: "distance(location,geopoint(37.34941777989473,-121.94686889648438))<2275" ; Times: 1
+	Query: "ummz vireo huttoni" ; Times: 1
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "synthliboramphus" ; Times: 1
+	Query: "oenanthe leucura" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 1
+	Query: "stateprovince:"Alaska" class:aves year >= 1949 year <= 1949" ; Times: 1
+	Query: "colombia "manacus"" ; Times: 1
+	Query: "type:specimen county:"lincoln" stateprovince:"maine"" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:ICTERUS" ; Times: 1
+	Query: "ESCUINAPA" ; Times: 2
+	Query: "cyrtonyx sallei" ; Times: 7
+	Query: "passerina rositae" ; Times: 1
+	Query: "aphelocoma coerulescens stateprovince:"Florida"" ; Times: 1
+	Query: ""bell museum"" ; Times: 2
+	Query: "mino new year >= 1990 year <= 2014" ; Times: 1
+	Query: "ummz vireo" ; Times: 1
+	Query: "Aves type:specimen genus:Otus AND (NOT OMNH) year >= 1910 year <= 1910" ; Times: 1
+	Query: "ummz burleigh" ; Times: 3
+	Query: "catalognumber:157617 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:174829 institutioncode:ummz" ; Times: 1
+	Query: ""Vireo huttoni"" ; Times: 1
+	Query: "Empidonax difficilis from New Mexico" ; Times: 1
+	Query: "genus:Turdus merula" ; Times: 1
+	Query: "emberiza spodocephala" ; Times: 3
+	Query: "elaenia frantzii" ; Times: 1
+	Query: "country:"bahamas" recordedby:maynard" ; Times: 2
+	Query: "Rausch type:specimen stateprovince:"Alaska" class:aves year >= 1949 year <= 1949" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (OU)" ; Times: 1
+	Query: "Rausch institutioncode:ummz" ; Times: 1
+	Query: "Campephilus principalis stateprovince:"Florida"" ; Times: 1
+	Query: "specificepithet:mississippiensis genus:Ictinia year >= 1914 year <= 1914" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:mississippiensis genus:Ictinia" ; Times: 1
+	Query: "Aves institutioncode:UMMZ (UO)" ; Times: 1
+	Query: "genus:empidonax specificepithet:difficilis stateprovince:new mexico" ; Times: 2
+	Query: "urocissa" ; Times: 1
+	Query: "Falco sparverius (oregon)" ; Times: 4
+	Query: "birds distance(location,geopoint(-4.915832801313164,-53.173828125))<100000" ; Times: 1
+	Query: "stateprovince:"Nunavut" class:Aves" ; Times: 3
+	Query: "type:specimen county:"Big Horn" stateprovince:"Montana"" ; Times: 1
+	Query: "7323 Birds (skeleton OR skull)" ; Times: 1
+	Query: "Mimodes graysoni" ; Times: 2
+	Query: "Diomedea sanfordi" ; Times: 1
+	Query: ""Puerto Rico" specificepithet:Dominicensis genus:Icterus AND (NOT prosthemelas)" ; Times: 2
+	Query: "formicivora rufa" ; Times: 1
+	Query: "distance(location,geopoint(37.36360851770409,-121.9478988647461))<2274.9392071535494" ; Times: 1
+	Query: "mino year >= 1990 year <= 2014 tissue:1" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "pionus" ; Times: 2
+	Query: "sturnus vulgaris type:specimen country:"United States" year >= 1890 year <= 1920" ; Times: 2
+	Query: "virus" ; Times: 2
+	Query: "birds distance(location,geopoint(-4.915832801313164,-61.787109375))<100000" ; Times: 1
+	Query: "catalognumber:174820 institutioncode:ummz" ; Times: 2
+	Query: "mino year >= 1990 year <= 2014" ; Times: 2
+	Query: "partida type:specimen" ; Times: 1
+	Query: "country:"guatemala" (picidae)" ; Times: 1
+	Query: "specificepithet:lachrymosa genus:euthlypis year >= 1965 year <= 1967" ; Times: 1
+	Query: "Rynchops niger tissue:1" ; Times: 1
+	Query: "(Shelton) year >= 1950 year <= 1965" ; Times: 1
+	Query: "Chile type:specimen country:"Chile" (preserved) year <= 1950 mappable:1" ; Times: 1
+	Query: "recordedby:maynard" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 238 download events in this period)
+Total number of records downloaded: 14219 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 10404
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-04 ; Times: 6
+	Date: 2014-12-07 ; Times: 1
+	Date: 2014-12-08 ; Times: 12
+	Date: 2014-12-10 ; Times: 3
+	Date: 2014-12-16 ; Times: 2
+	Date: 2014-12-20 ; Times: 1
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-24 ; Times: 9
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-27 ; Times: 1
+	Date: 2014-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves mappable:1" ; Times: 1
+	Query: "type:specimen country:"costa rica" (passeriformes)" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "type:specimen country:"guatemala" (cuculiformes)" ; Times: 1
+	Query: "type:specimen country:"honduras" (picidae)" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "type:specimen country:"el salvador" (passeriformes)" ; Times: 1
+	Query: "type:specimen country:"costa rica" (picidae)" ; Times: 1
+	Query: "type:specimen country:"panama" (passeriformes)" ; Times: 1
+	Query: "type:specimen country:"panama" (cuculiformes)" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves" ; Times: 1
+	Query: "country:"kiribati" year >= 1800 year <= 1962" ; Times: 1
+	Query: "type:specimen country:"costa rica" (cuculiformes)" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "stateprovince:"Ohio" class:Aves" ; Times: 1
+	Query: "nevada vireo" ; Times: 1
+	Query: "type:specimen country:"nicaragua" (cuculiformes)" ; Times: 1
+	Query: "aphelocoma coerulescens stateprovince:"Florida"" ; Times: 1
+	Query: "sturnus vulgaris type:specimen country:"United States" year >= 1890 year <= 1920" ; Times: 1
+	Query: "type:specimen country:"guatemala" (picidae)" ; Times: 1
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "county:"Cibola" stateprovince:"New Mexico"" ; Times: 1
+	Query: "type:specimen country:"Guatemala" (Passeriformes)" ; Times: 1
+	Query: "bombycilla garrulus type:specimen year >= 1800 year <= 1900" ; Times: 2
+	Query: "burleigh nevada" ; Times: 1
+	Query: "genus:passerella (tissue)" ; Times: 1
+	Query: "county:"Navajo" stateprovince:"Arizona"" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "type:specimen county:"Big Horn" stateprovince:"Montana"" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "elaenia frantzii" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+	Query: "type:specimen country:"honduras" (cuculiformes)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2325
+Total number of records retrieved from searches: 32343
+Number of download events that retrieved data from the resource: 327
+Total number of records downloaded: 569942
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2325
+Total number of records retrieved from searches: 32343
+Number of download events that retrieved data from the resource: 396
+Total number of records downloaded: 605247
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
