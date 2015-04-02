@@ -1,0 +1,492 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 425
+Number of records retrieved in searches: 5205
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 68
+	Country: Canada ; Times: 12
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 11
+	Country: Germany ; Times: 31
+	Country: India ; Times: 5
+	Country: Israel ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Panama ; Times: 1
+	Country: Thailand ; Times: 7
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 244
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 5
+	Date: 2015-03-02 ; Times: 18
+	Date: 2015-03-03 ; Times: 14
+	Date: 2015-03-04 ; Times: 16
+	Date: 2015-03-05 ; Times: 25
+	Date: 2015-03-06 ; Times: 28
+	Date: 2015-03-07 ; Times: 12
+	Date: 2015-03-08 ; Times: 5
+	Date: 2015-03-09 ; Times: 10
+	Date: 2015-03-10 ; Times: 19
+	Date: 2015-03-11 ; Times: 19
+	Date: 2015-03-12 ; Times: 27
+	Date: 2015-03-13 ; Times: 35
+	Date: 2015-03-14 ; Times: 6
+	Date: 2015-03-15 ; Times: 9
+	Date: 2015-03-16 ; Times: 21
+	Date: 2015-03-17 ; Times: 9
+	Date: 2015-03-18 ; Times: 16
+	Date: 2015-03-19 ; Times: 11
+	Date: 2015-03-20 ; Times: 14
+	Date: 2015-03-21 ; Times: 9
+	Date: 2015-03-22 ; Times: 12
+	Date: 2015-03-23 ; Times: 13
+	Date: 2015-03-24 ; Times: 7
+	Date: 2015-03-25 ; Times: 13
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 15
+	Date: 2015-03-28 ; Times: 7
+	Date: 2015-03-29 ; Times: 7
+	Date: 2015-03-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Dinemelli" ; Times: 1
+	Query: "Lanius excubitor tissue:1" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "ramphastos vitellinus ariel" ; Times: 1
+	Query: "dactylortyx thoracicus tamaulipas" ; Times: 1
+	Query: "finca esperanza specificepithet:poliocephala genus:geothlypis year >= 1940 year <= 1940" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: "country:"Trinidad and tobago" class:Aves year >= 1900 year <= 1905" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "Phegornis mitchellii" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "chamaeza" ; Times: 1
+	Query: "country:"greece"" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 2
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "Hylophylax poecilonota" ; Times: 1
+	Query: "type:specimen specificepithet:formosa genus:pipreola" ; Times: 1
+	Query: "Machaeropterus deliciosus" ; Times: 1
+	Query: "Buru" ; Times: 1
+	Query: "type:specimen specificepithet:gurneyi genus:pitta" ; Times: 1
+	Query: "institutioncode:ummz" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 4
+	Query: "stateprovince:"michigan" class:aves recordedby:sager institutioncode:ummz year >= 1837 year <= 1837" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen mappable:1" ; Times: 1
+	Query: "paradoxornis nipalensis" ; Times: 6
+	Query: "erythrura trichroa tissue:1" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua (Tissue) tissue:1" ; Times: 1
+	Query: "type:specimen country:"bangladesh" recordedby:Primrose" ; Times: 1
+	Query: "Criniger pallidus FMNH" ; Times: 1
+	Query: "specificepithet:baudi genus:Pitta" ; Times: 1
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Neomorphus" ; Times: 1
+	Query: "specificepithet:poliocephala genus:geothlypis year >= 1940 year <= 1940" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:poliocephala genus:geothlypis year >= 1926 year <= 1927" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "manacus manacus country:"brazil"" ; Times: 1
+	Query: "Cyrtonyx montezumae stateprovince:"Chihuahua" country:"Mexico" year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "country:"india" specificepithet:bicolor genus:amaurornis institutioncode:ummz" ; Times: 1
+	Query: "type:specimen specificepithet:nobilis genus:chamaeza" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "paradoxornis poliotis" ; Times: 1
+	Query: "catalognumber:61412 institutioncode:UMMZ" ; Times: 2
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "CM 2007" ; Times: 1
+	Query: "Megapodius eremita" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "harpagus diodon" ; Times: 1
+	Query: "Odontophorus melanotis" ; Times: 2
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "sager" ; Times: 1
+	Query: "vidua macroura specificepithet:macroura genus:vidua tissue:1" ; Times: 1
+	Query: "Cyrtonyx ocellatus" ; Times: 2
+	Query: "colinus atriceps" ; Times: 1
+	Query: "Arborophila atrogularis" ; Times: 1
+	Query: "trogon tenellus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "Lanius bucephalus tissue:1" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 3
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "type:specimen stateprovince:"Nunavut" country:"Canada"" ; Times: 1
+	Query: "Pitta granatina" ; Times: 1
+	Query: "tricholestes" ; Times: 1
+	Query: "motacilla tissue:1" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "florence arizona" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "gyps" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "rhodopechys" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "pacoima" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "sharpii" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 2
+	Query: "(Menage)" ; Times: 1
+	Query: "myrmoborus lugubris" ; Times: 1
+	Query: "Pulsatrix institutioncode:ummz" ; Times: 5
+	Query: "Trogon rufus type:specimen year >= 1800 year <= 1914" ; Times: 1
+	Query: "type:specimen specificepithet:cubensis genus:Tyrannus" ; Times: 1
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "type:specimen specificepithet:vilissimus genus:zimmerius" ; Times: 1
+	Query: "Conopophaga melanogaster" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "coracina leucopygia" ; Times: 1
+	Query: "Hypsipetes leucocephalus FMNH" ; Times: 1
+	Query: "georgia aves united states 1850" ; Times: 1
+	Query: "type:specimen specificepithet:oberi genus:myiarchus" ; Times: 2
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 2
+	Query: "type:specimen specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "cinnyricinclus leucogaster" ; Times: 3
+	Query: "lamprotornis splendidus" ; Times: 3
+	Query: "Poicephalus kenya" ; Times: 2
+	Query: "Dasypus" ; Times: 1
+	Query: "Cercomacra laeta brazil" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Lanius bucephalus" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "Numenius tenuirostris" ; Times: 4
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:vermivorus genus:helmitheros year >= 1800 year <= 2015" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "dendrortyx macroura jalisco" ; Times: 1
+	Query: "country:"Trinidad" class:Aves (pasea) year >= 1903 year <= 1903" ; Times: 1
+	Query: "Drymophila squamata" ; Times: 1
+	Query: "Rynchops niger" ; Times: 2
+	Query: "Cotinga" ; Times: 1
+	Query: "genus:thryomanes institutioncode:ummz (michigan)" ; Times: 1
+	Query: "manacus manacus abditivus" ; Times: 1
+	Query: "type:specimen specificepithet:sagrae genus:Myiarchus" ; Times: 1
+	Query: "aves birds georgia united states ummz" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "geothlypis poliocephala stateprovince:"texas"" ; Times: 1
+	Query: "Molothrus oryzivora" ; Times: 2
+	Query: "campephilus principalis" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen (Skin) mappable:1" ; Times: 1
+	Query: "specificepithet:granatina genus:Pitta" ; Times: 1
+	Query: "irena puella type:specimen country:"india"" ; Times: 1
+	Query: "stateprovince:"michigan" recordedby:sager institutioncode:ummz year >= 1837 year <= 1837" ; Times: 1
+	Query: "mitu salvini" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "Hypocnemis peruviana" ; Times: 1
+	Query: "Rhegmatorhina melanosticta" ; Times: 1
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "mexico FMNH" ; Times: 1
+	Query: "muscicapa striata" ; Times: 1
+	Query: "syria" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:rosea genus:Rhodinocichla (skel)" ; Times: 1
+	Query: "CALIDRIS MAURI (MICHIGAN)" ; Times: 3
+	Query: "stateprovince:michigan institutioncode:ummz (sager)" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "athene cunicularia tissue:1" ; Times: 1
+	Query: "Anhinga anhinga type:specimen (fluid)" ; Times: 1
+	Query: "Sclerurus rufigularis brazil" ; Times: 1
+	Query: "pipra pipra anthracina country:"costa rica"" ; Times: 1
+	Query: "Conopophaga peruviana brazil" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "Scaphidura" ; Times: 2
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "stateprovince:"michigan" class:Aves year >= 1800 year <= 1836" ; Times: 1
+	Query: "Zosterops japonicus FMNH" ; Times: 1
+	Query: "furnarius minor" ; Times: 2
+	Query: "poeoptera lugubris" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax" ; Times: 1
+	Query: "anomalospiza tissue:1" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "Hylophylax vidua" ; Times: 1
+	Query: "formicivora grisea tissue" ; Times: 1
+	Query: "country:"pakistan" genus:pluvialis class:aves institutioncode:ummz" ; Times: 1
+	Query: "passer domesticus county:"Washtenaw" stateprovince:"Michigan"" ; Times: 1
+	Query: "aquila United States (United States) tissue:1" ; Times: 1
+	Query: "heliodoxa imperatrix" ; Times: 1
+	Query: "bulla" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "type:specimen recordedby:Primrose" ; Times: 2
+	Query: "pulsatrix" ; Times: 4
+	Query: "colinus oaxaca" ; Times: 2
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "pulsatrix institutioncode:ummz" ; Times: 1
+	Query: "specificepithet:gigantea genus:grallaria" ; Times: 1
+	Query: "pipra pipra anthracina" ; Times: 1
+	Query: "zombensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "corvus corone" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "pteroglossus inscriptus inscriptus" ; Times: 1
+	Query: "colinus maculatus" ; Times: 1
+	Query: "Otus leucotis institutioncode:UMMZ tissue:1" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "type:specimen specificepithet:anhinga genus:Anhinga (spirit OR fluid)" ; Times: 1
+	Query: "cotinga caerulea" ; Times: 1
+	Query: "xenospiza (dickerman) year >= 1962 year <= 1962" ; Times: 2
+	Query: ""channel islands" Melanerpes formicivorus type:specimen" ; Times: 1
+	Query: "brachygalba lugubris" ; Times: 1
+	Query: "strigilatus" ; Times: 1
+	Query: "Chordeiles minor chapmani" ; Times: 1
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "Hylophylax poecilinota" ; Times: 4
+	Query: "collin county" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "isle royale" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:discolor genus:dendroica year >= 1800 year <= 1899" ; Times: 1
+	Query: "rallus longirostris" ; Times: 1
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+	Query: "institutioncode:ummz year >= 2014 year <= 2014" ; Times: 1
+	Query: "Sterna repressa type:specimen" ; Times: 1
+	Query: "Agapornis weight" ; Times: 3
+	Query: "country:"Trinidad" class:Aves year >= 1903 year <= 1903" ; Times: 2
+	Query: "passerina versicolor" ; Times: 1
+	Query: "machaeropterus" ; Times: 1
+	Query: "Lesbia nuna country:"Colombia"" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Eudynamys Bangkok" ; Times: 1
+	Query: "specificepithet:cristata genus:Calyptura" ; Times: 2
+	Query: "cyanocitta cristata tissue:1" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 5
+	Query: "Trogon melanocephalus" ; Times: 2
+	Query: "oriolus basilanicus" ; Times: 1
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+	Query: "Chamaeza nobilis brazil" ; Times: 1
+	Query: "lophozosterops malindangensis" ; Times: 1
+	Query: "machaeropterus deliciosus" ; Times: 1
+	Query: "Synthliboramphus" ; Times: 1
+	Query: "Dendrocopos major country:"India"" ; Times: 1
+	Query: "Charadrius melodus type:specimen tissue:1" ; Times: 2
+	Query: "tricholaema" ; Times: 1
+	Query: "odontophorus melanotis" ; Times: 2
+	Query: "Pyriglena atra" ; Times: 1
+	Query: "Hypocnemoides melanopogon brazil" ; Times: 1
+	Query: "saltator rufiventris" ; Times: 2
+	Query: "Sayornis saya type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Psittacula weight" ; Times: 6
+	Query: ""channel islands" picidae type:specimen" ; Times: 1
+	Query: ""Hylopezus ochroleucus"" ; Times: 1
+	Query: "specificepithet:brachyura genus:Chaetura" ; Times: 7
+	Query: "leptoptilos dubius type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:fossii genus:caprimulgus" ; Times: 1
+	Query: "veniliornis" ; Times: 1
+	Query: "colinus dickeyi year >= 1950 year <= 2015" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"India"" ; Times: 2
+	Query: "(Menage OR Worcester OR Bourns) year <= 1900" ; Times: 2
+	Query: "crax daubentoni" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "Hidalgo County AND squamata distance(location,geopoint(31.930409004471134,-108.9349365234375))<23772.698294372032" ; Times: 1
+	Query: "colinus dickeyi" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Cyrtonyx montezumae mexico" ; Times: 1
+	Query: "Jynx" ; Times: 1
+	Query: "onychognathus morio" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "genus:thryomanes stateprovince:"michigan"" ; Times: 1
+	Query: "myrmornis brazil" ; Times: 2
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "type:specimen stateprovince:"Para" country:"Brazil" specificepithet:fasciicauda genus:Pipra" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "stateprovince:"michigan" recordedby:sager" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "hypocnemoides" ; Times: 2
+	Query: "type:specimen country:"Brazil" specificepithet:fasciicauda genus:Pipra" ; Times: 1
+	Query: "Aplonis metallica" ; Times: 2
+	Query: "Trogon rufus" ; Times: 2
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 2
+	Query: "aquila tissue:1" ; Times: 1
+	Query: "colinus insignis year >= 1950 year <= 2015" ; Times: 1
+	Query: "gomez specificepithet:poliocephala genus:geothlypis year >= 1940 year <= 1940" ; Times: 1
+	Query: "saudi arabia" ; Times: 2
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Pitta" ; Times: 1
+	Query: "recordedby:salley" ; Times: 1
+	Query: "andropadus virens" ; Times: 1
+	Query: "anomalospiza 219690" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: "Megalaima faiostricta Thailand" ; Times: 1
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 2
+	Query: "Pluvianellus type:specimen" ; Times: 3
+	Query: "Coale country:"India"" ; Times: 2
+	Query: "Salley" ; Times: 1
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: ""grus grus"" ; Times: 1
+	Query: "cyanopica tissue:1" ; Times: 2
+	Query: ""Chaetura vauxi" country:"Venezuela"" ; Times: 1
+	Query: "Lanius cristatus Thailand" ; Times: 1
+	Query: "francolinus bicalcaratus year >= 1950 year <= 2015" ; Times: 2
+	Query: "Otus leucotis" ; Times: 1
+	Query: "Chloropsis hardwickei FMNH" ; Times: 1
+	Query: "Tarsiger cyanurus" ; Times: 1
+	Query: "schiffornis major brazil" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "saroglossa aurata" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:corapipo" ; Times: 1
+	Query: "institutioncode:ummz year >= 2013 year <= 2013" ; Times: 1
+	Query: "ramphastos ariel" ; Times: 2
+	Query: "227991" ; Times: 1
+	Query: "scrippsi" ; Times: 2
+	Query: "Greece" ; Times: 1
+	Query: "type:specimen specificepithet:curtata genus:cranioleuca" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax" ; Times: 1
+	Query: "Myrmeciza berlepschi" ; Times: 1
+	Query: "Conopophaga peruviana" ; Times: 1
+	Query: "calyptura cristata" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 298 download events in this period)
+Total number of records downloaded: 222673 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 209998
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 9
+	Country: Canada ; Times: 6
+	Country: Cyprus ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 8
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 3
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-24 ; Times: 7
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "stateprovince:"michigan" recordedby:sager" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "Molothrus ater obscurus county:"San diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: ""coccyzus americanus occidentalis" stateprovince:"california"" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Oriolus traillii FMNH" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3485
+Total number of records retrieved from searches: 47507
+Number of download events that retrieved data from the resource: 176
+Total number of records downloaded: 271134
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4107
+Total number of records retrieved from searches: 52704
+Number of download events that retrieved data from the resource: 572
+Total number of records downloaded: 876381
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
