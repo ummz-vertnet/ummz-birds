@@ -1,0 +1,417 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 394
+Number of records retrieved in searches: 5633
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 10
+	Country: Ukraine ; Times: 1
+	Country: Australia ; Times: 16
+	Country: Colombia ; Times: 12
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 55
+	Country: Denmark ; Times: 5
+	Country: India ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 212
+	Country: Netherlands ; Times: 6
+	Country: Germany ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 17
+	Country: China ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 16
+	Date: 2016-05-18 ; Times: 22
+	Date: 2016-05-17 ; Times: 17
+	Date: 2016-05-16 ; Times: 14
+	Date: 2016-05-15 ; Times: 19
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 13
+	Date: 2016-05-12 ; Times: 21
+	Date: 2016-05-11 ; Times: 20
+	Date: 2016-05-10 ; Times: 12
+	Date: 2016-05-31 ; Times: 37
+	Date: 2016-05-30 ; Times: 19
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 8
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 9
+	Date: 2016-05-03 ; Times: 8
+	Date: 2016-05-04 ; Times: 14
+	Date: 2016-05-05 ; Times: 13
+	Date: 2016-05-06 ; Times: 6
+	Date: 2016-05-07 ; Times: 6
+	Date: 2016-05-26 ; Times: 30
+	Date: 2016-05-27 ; Times: 15
+	Date: 2016-05-24 ; Times: 7
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 6
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 6
+	Date: 2016-05-21 ; Times: 5
+	Date: 2016-05-28 ; Times: 7
+	Date: 2016-05-29 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 6
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34; recordedby:covert year &gt;= 1837 year &lt;= 1920" ; Times: 1
+	Query: "tyto detorta" ; Times: 2
+	Query: "Myzomela nigrita" ; Times: 2
+	Query: "specificepithet:cyanocephalus stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "Amazilia beryllina" ; Times: 2
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1880 year &lt;= 1880" ; Times: 1
+	Query: "Agelaius AND Santa Rosa Island" ; Times: 1
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "neophema" ; Times: 2
+	Query: "specificepithet:acuta genus:anas class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1916" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 8
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "catalognumber:199498" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "genus:porzana class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "genus:accipiter class:aves stateprovince:&#34;michigan&#34; (eggset) year &gt;= 1850 year &lt;= 1910" ; Times: 1
+	Query: "antigone testis" ; Times: 2
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "sialia belize" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "Agelaius AND Santa Cruz Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1856 year &lt;= 1860" ; Times: 1
+	Query: "UMMZ Birds 80539" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830 year &lt;= 1900" ; Times: 1
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1837" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1837" ; Times: 1
+	Query: "Illadopsis" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 3
+	Query: "specificepithet:passerina genus:spizella class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1879 year &lt;= 1879" ; Times: 1
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:pusilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "philomachus pugnax" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "anser" ; Times: 1
+	Query: "specificepithet:fedoa stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "genus:riparia class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "genus:ectopistes stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "UMMZ 101016" ; Times: 1
+	Query: "Pedionomus torquatus" ; Times: 1
+	Query: "Colius striatus Tanzania" ; Times: 1
+	Query: "genus:plegadis stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 2016" ; Times: 1
+	Query: "Neophema" ; Times: 1
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34; year &gt;= 1830 year &lt;= 1839" ; Times: 1
+	Query: "aramus guarauna" ; Times: 2
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "curruca" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1881 year &lt;= 1881" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "Echo Lake" ; Times: 1
+	Query: "specificepithet:pinus genus:carduelis class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; catalognumber:158256 institutioncode:UMMZ" ; Times: 1
+	Query: "nipponia nippon" ; Times: 5
+	Query: "187364" ; Times: 1
+	Query: "Picus chlorolophus stateprovince:&#34;MAdhya&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island" ; Times: 1
+	Query: "specificepithet:cyanocephalus genus:Gymnorhinus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1896 year &lt;= 1896" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Ortygospiza tissue:1" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "polysticta" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1936 year &lt;= 1936 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "BRENINGER AND SAN CLEMENTE ISLAND" ; Times: 1
+	Query: "specificepithet:DOMESTICUS genus:PASSER continent:Africa" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1868 year &lt;= 1868" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "bird preparations:eggset institutioncode:UMMZ" ; Times: 1
+	Query: "Eremophila alpestris AND Catalina Island" ; Times: 2
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1936 year &lt;= 1936" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "oxyura new mexico" ; Times: 1
+	Query: "Agelaius AND Santa Barbara Island" ; Times: 1
+	Query: "Agelaius tricolor AND Santa Rosa Island" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1932 year &lt;= 1932" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "Aythya americana AND hybrid" ; Times: 1
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "euscarthmus meloryphus country:&#34;colombia&#34;" ; Times: 2
+	Query: "frogs" ; Times: 1
+	Query: "UMMZ 121899" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 2
+	Query: "ummz 101019" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1861 year &lt;= 1870" ; Times: 1
+	Query: "melanerpes santacruzi" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "Myzomela adolphinae" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "birds of bc" ; Times: 1
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "genus:crotophaga stateprovince:&#34;michigan&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutchsize)" ; Times: 1
+	Query: "catalognumber:199499" ; Times: 1
+	Query: "catalognumber:199497" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island NOT Mexico" ; Times: 1
+	Query: "Ocreatus" ; Times: 4
+	Query: "orthotomus mearnsi" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Kenopia" ; Times: 1
+	Query: "Pycnonotus Tanzania" ; Times: 1
+	Query: "bird type:specimen specificepithet:domesticus genus:passer preparations:eggset institutioncode:UMMZ" ; Times: 1
+	Query: "genus:quiscalus class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "crane testis" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 2
+	Query: "Pandion AND Island" ; Times: 1
+	Query: "ummz 101017" ; Times: 1
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "Aves nasutus Kenya" ; Times: 1
+	Query: "Tympanuchus cupido (Canada)" ; Times: 2
+	Query: "genus:Lipaugus stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "grus testis" ; Times: 5
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "specificepithet:occidentalis stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "Eremophila alpestris AND San Miguel Island" ; Times: 1
+	Query: "bird genus:passer preparations:eggset institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:alba genus:TYTO stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1850" ; Times: 1
+	Query: "Picus chlorolophus" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1877 year &lt;= 1877" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "falco sparverius (british columbia)" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "BRENINGER AND ISLAND" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1882 year &lt;= 1882" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "specificepithet:minutilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Ardea AND Island AND California" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1869 year &lt;= 1869" ; Times: 2
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "Ardea AND Santa Barbara Island" ; Times: 1
+	Query: "catalognumber:199500" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34; recordedby:covert year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "8107 country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "catalognumber:199502" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "gray wolf" ; Times: 2
+	Query: "Megaceryle AND Island AND California" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "specificepithet:haemastica stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "galbula tombacea" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "genus:sialia class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "catalognumber:206369 institutioncode:UMMZ" ; Times: 3
+	Query: "squirrel institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 2
+	Query: "Coracopsis tissue:1" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "Lanius cristatus" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "Witch" ; Times: 1
+	Query: "specificepithet:caerulea stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "distance(location,geopoint(29.095036,-110.033516))&lt;15000" ; Times: 1
+	Query: "specificepithet:penelope class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 2016" ; Times: 1
+	Query: "Pycnonotus tricolor Tanzania" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "Anas AND Catalina" ; Times: 1
+	Query: "aleuticus AND Cruz Island" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; (egg) year &gt;= 1850 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; recordedby:morris year &gt;= 1837 year &lt;= 1916" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1951 year &lt;= 1959" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Eremophila alpestris AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 2016" ; Times: 1
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "aves catalognumber:144583 institutioncode:UMMZ" ; Times: 1
+	Query: "communis" ; Times: 1
+	Query: "saw whet owl" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "albicaudatus" ; Times: 1
+	Query: "catalognumber:199501" ; Times: 1
+	Query: "Texas Brewster type:specimen genus:vireo class:Aves" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1878 year &lt;= 1878" ; Times: 1
+	Query: "Liocichla" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "Alcippe" ; Times: 1
+	Query: "genus:certhia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:himantopus stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "asio madagascariensis" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1937 year &lt;= 1937" ; Times: 2
+	Query: "&#34;Spizella pusilla pusilla&#34;" ; Times: 1
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 5
+	Query: "distance(location,geopoint(26.131036,-111.671516))&lt;15000" ; Times: 1
+	Query: "anhima cornuta" ; Times: 4
+	Query: "antrostomus cubanensis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 327 download events in this period)
+Total number of records downloaded: 12414
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 10
+	Country: Chile ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 5
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 5
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;michigan&#34; year &gt;= 1830 year &lt;= 1839" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "UMMZ 166526" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+
+
+End of report.
