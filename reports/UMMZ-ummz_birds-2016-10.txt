@@ -1,0 +1,70 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 598
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: Portugal ; Times: 15
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-24 ; Times: 5
+	Date: 2016-10-26 ; Times: 1
+	Date: 2016-10-15 ; Times: 1
+	Date: 2016-10-14 ; Times: 6
+	Date: 2016-10-05 ; Times: 3
+	Date: 2016-10-11 ; Times: 1
+	Date: 2016-10-03 ; Times: 16
+	Date: 2016-10-13 ; Times: 1
+	Date: 2016-10-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 1
+	Query: " specificepithet:tristis genus:Acridotheres" ; Times: 1
+	Query: "Pandion haliaetus mappable:1" ; Times: 6
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Geositta saxicolina " ; Times: 1
+	Query: "Thryothorus euophrys " ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 1
+	Query: "Lophotriccus vitiosus " ; Times: 1
+	Query: "Galbalcyrhynchus purusianus " ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Aulacorhynchus coeruleicinctis " ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
