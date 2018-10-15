@@ -1,0 +1,1699 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2843
+Number of records retrieved in searches: 59255
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 136
+	Country: Brazil ; Times: 56
+	Country: Italy ; Times: 4
+	Country: Unknown ; Times: 113
+	Country: France ; Times: 26
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 29
+	Country: Venezuela ; Times: 2
+	Country: Israel ; Times: 8
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 3
+	Country: China ; Times: 6
+	Country: Thailand ; Times: 3
+	Country: Germany ; Times: 8
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 1181
+	Country: Sweden ; Times: 6
+	Country: Switzerland ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1017
+	Country: Mexico ; Times: 42
+	Country: South Africa ; Times: 4
+	Country: India ; Times: 21
+	Country: United Kingdom ; Times: 19
+	Country: Colombia ; Times: 68
+	Country: Japan ; Times: 76
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 74
+	Date: 2018-02-08 ; Times: 206
+	Date: 2018-02-03 ; Times: 10
+	Date: 2018-02-02 ; Times: 32
+	Date: 2018-02-01 ; Times: 75
+	Date: 2018-02-07 ; Times: 90
+	Date: 2018-02-06 ; Times: 301
+	Date: 2018-02-05 ; Times: 147
+	Date: 2018-02-04 ; Times: 17
+	Date: 2018-02-21 ; Times: 35
+	Date: 2018-02-20 ; Times: 558
+	Date: 2018-02-23 ; Times: 58
+	Date: 2018-02-22 ; Times: 54
+	Date: 2018-02-25 ; Times: 36
+	Date: 2018-02-24 ; Times: 28
+	Date: 2018-02-27 ; Times: 557
+	Date: 2018-02-26 ; Times: 50
+	Date: 2018-02-28 ; Times: 18
+	Date: 2018-02-14 ; Times: 108
+	Date: 2018-02-15 ; Times: 98
+	Date: 2018-02-16 ; Times: 62
+	Date: 2018-02-17 ; Times: 21
+	Date: 2018-02-10 ; Times: 12
+	Date: 2018-02-11 ; Times: 33
+	Date: 2018-02-12 ; Times: 40
+	Date: 2018-02-13 ; Times: 25
+	Date: 2018-02-18 ; Times: 13
+	Date: 2018-02-19 ; Times: 85
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.9394632175,-94.9810641095))&lt;22927" ; Times: 4
+	Query: "specificepithet:occipitalis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "Vidua paradisaea mappable:1" ; Times: 5
+	Query: "Phoenicopterus chilensis mappable:1" ; Times: 4
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34;" ; Times: 1
+	Query: "UMMZ 178008" ; Times: 1
+	Query: "genus:Ardeotis preparations:Skel institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:leucopyga genus:tachycineta" ; Times: 1
+	Query: "Columbina cruziana mappable:1" ; Times: 4
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "mnh" ; Times: 1
+	Query: "specificepithet:grisegena genus:Podiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:fucata genus:alopochelidon country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Ara macao Mexico" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "catalognumber:77994 institutioncode:UMMZ" ; Times: 1
+	Query: "delichon urbicum" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ummz eudynamys scolopaceus skel" ; Times: 1
+	Query: "pharomachrus mocinno Guatemala" ; Times: 1
+	Query: "Radjah radjah mappable:1" ; Times: 5
+	Query: "Picoides villosus alberta" ; Times: 1
+	Query: "Momotus momota" ; Times: 1
+	Query: "specificepithet:passerinus genus:Veniliornis hasmass:1" ; Times: 1
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Prunella hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.3817092765,-95.075834517))&lt;14195" ; Times: 4
+	Query: "specificepithet:ornatus genus:Myioborus" ; Times: 1
+	Query: "specificepithet:pyrrhophrys genus:Chlorophonia hastissue:0" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "wingspan genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:maccormicki class:aves" ; Times: 6
+	Query: "wingspan genus:Myiobius" ; Times: 2
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Coturnicops noveboracensis AND (mass OR weight)" ; Times: 1
+	Query: "specificepithet:schoenobaenus genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "ummz geokichla citrina skin" ; Times: 1
+	Query: "Euodice malabarica mappable:1" ; Times: 5
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "UMMZ 144632" ; Times: 1
+	Query: "distance(location,geopoint(43.3984812210001,-95.150234134))&lt;22083" ; Times: 4
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 4
+	Query: "genus:spinus preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:115168 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus hasmass:1" ; Times: 1
+	Query: "Spatula hottentota mappable:1" ; Times: 5
+	Query: "ummz muscicapa griseisticta" ; Times: 1
+	Query: "catalognumber:56073 institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 3
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "preparations:Skel catalognumber:242894 institutioncode:UMMZ" ; Times: 1
+	Query: "Dendrocygna javanica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "distance(location,geopoint(44.3725278565001,-84.341763293))&lt;4559" ; Times: 4
+	Query: "class:aves locality:moller stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "ummz hierococcyx sparveroides skin" ; Times: 1
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 4
+	Query: "ummz motacilla cinerea skel" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "specificepithet:atacamensis genus:cinclodes hasmass:1" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 3
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "Piranga leucoptera mappable:1" ; Times: 4
+	Query: "specificepithet:albeola genus:Bucephala class:Aves country:&#34;Canada&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:168357 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(39.6074941005,-93.185287453))&lt;6409" ; Times: 4
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:sinaloae genus:Progne" ; Times: 1
+	Query: "Anas poecilorhyncha mappable:1" ; Times: 4
+	Query: "genus:Diomedea lifestage:Adult preparations:Skel" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 10
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "Eclectus roratus mappable:1" ; Times: 3
+	Query: "Vultur gryphus mappable:1" ; Times: 4
+	Query: "ummz monticola solitarius skel" ; Times: 1
+	Query: "Chloephaga picta mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "class:Aves (Gilgit)" ; Times: 1
+	Query: "Oxyruncus cristatus" ; Times: 2
+	Query: "genus:Columba preparations:Skel" ; Times: 2
+	Query: "bird mortality" ; Times: 1
+	Query: "specificepithet:roseus genus:Phoenicopterus hastissue:1" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Emberiza cioides mappable:1" ; Times: 4
+	Query: "Locustellidae+Cameroon" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis mappable:1" ; Times: 4
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 1
+	Query: "224721" ; Times: 2
+	Query: "specificepithet:Henslowii institutioncode:UMMZ" ; Times: 3
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "loxia pierce county" ; Times: 1
+	Query: "Primolius maracana mappable:1" ; Times: 3
+	Query: "Oenanthe xanthoprymna weight" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 1
+	Query: "Aythya baeri basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:152814 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Gracupica nigricollis mappable:1" ; Times: 5
+	Query: "genus:Pogoniulus country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "Euplectes afer mappable:1" ; Times: 4
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "catalognumber:168356 institutioncode:UMMZ" ; Times: 1
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "Mergus merganser basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Melanitta perspicillata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "ummz lanius cristatus skin" ; Times: 1
+	Query: "Plectropterus gambensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "ummz todiramphus sanctus skin" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 4
+	Query: "specificepithet:delicatula institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "ummz motacilla alba skin" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "catalognumber:118304 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:117671 institutioncode:UMMZ" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 6
+	Query: "buteo jamaicensis mexico ummz" ; Times: 2
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "Chauna torquata mappable:1" ; Times: 4
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34; institutioncode:UMMZ" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo county:&#34;el dorado&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "ummz anthus cervinus" ; Times: 1
+	Query: "genus:Passer preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:gallardoi genus:Podiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:subminuta genus:calidris hasmass:1" ; Times: 1
+	Query: "locality:hyde stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "institutioncode:UMMZ (Koelz OR Chand) AND (NOT USA) year &gt;= 1930 year &lt;= 1953" ; Times: 2
+	Query: "Dendrocopos atratus India" ; Times: 2
+	Query: "genus:Sturnus preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "ummz turdus obscurus skin" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:melodia caurina genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pyrrhura" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 2
+	Query: "catalognumber:172267" ; Times: 1
+	Query: "fulvetta striaticollis" ; Times: 1
+	Query: "specificepithet:ruficauda genus:peucaea hasmass:1" ; Times: 1
+	Query: "progne elegans" ; Times: 1
+	Query: "aegithalos niveogularis" ; Times: 9
+	Query: "albino robin" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 4
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "wingspan vntype:specimen genus:Dendroplex basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:102340 institutioncode:UMMZ" ; Times: 1
+	Query: "Bostrychia hagedash mappable:1" ; Times: 4
+	Query: "catalognumber:243156" ; Times: 2
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 4
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "genus:Spinus lifestage:Adult preparations:Skel" ; Times: 1
+	Query: "penelope purpurascens" ; Times: 2
+	Query: "sicily" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "thamnistes saturatus" ; Times: 1
+	Query: "distance(location,geopoint(40.3761206225001,-89.9958485345))&lt;5309" ; Times: 4
+	Query: "genus:Meleagris preparations:Skel institutioncode:UMMZ" ; Times: 2
+	Query: "Viduidae+Cameroon" ; Times: 3
+	Query: "Ramphastidae+Cameroon" ; Times: 2
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "catalognumber:168358 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 4
+	Query: "distance(location,geopoint(43.5502462700001,-88.7569671335))&lt;6764" ; Times: 4
+	Query: "specificepithet:nigriceps genus:Veniliornis hasmass:1" ; Times: 1
+	Query: "genus:delichon hastissue:1" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "Euplectes macrourus mappable:1" ; Times: 3
+	Query: "ummz clamator coromandus skin" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 4
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "county:&#34;Richmond&#34; stateprovince:&#34;New York&#34; mappable:1" ; Times: 1
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "catalognumber:112011 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz motacilla flava skin" ; Times: 1
+	Query: "specificepithet:GIGAS genus:Podilymbus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(26.327607579,-98.6873090154999))&lt;17422" ; Times: 1
+	Query: "hemithraupis huambina" ; Times: 1
+	Query: "Tadorna variegata mappable:1" ; Times: 4
+	Query: "catalognumber:121123 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:chiriri genus:Brotogeris hasmass:1" ; Times: 1
+	Query: "Sturnia malabarica mappable:1" ; Times: 4
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Gyps bengalensis mappable:1" ; Times: 4
+	Query: "ummz dendronanthus indicus skin" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "Anas poecilorhyncha basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "ummz ficedula narcissina" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "Polysticta stelleri basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:224835" ; Times: 1
+	Query: "Vanellus senegallus mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "genus:Anser preparations:Skel massing &gt;= 100 massing &lt;= 10000" ; Times: 1
+	Query: "distance(location,geopoint(43.3497738238335,-83.8990685768335))&lt;2989" ; Times: 4
+	Query: "Dendragapus obscurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "genus:Archilochus lifestage:Adult preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "ummz hierococcyx hyperythrus" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 2
+	Query: "wingspan vntype:specimen genus:Xiphorhynchus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Streptopelia roseogrisea mappable:1" ; Times: 4
+	Query: "Ara macao" ; Times: 5
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Oxyura maccoa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "usnm trochilidae" ; Times: 1
+	Query: "ummz lanius tigrinus" ; Times: 2
+	Query: "specificepithet:capitata genus:paroaria hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(45.7550869125,-85.5708632605))&lt;22392" ; Times: 9
+	Query: "lacm galapagos" ; Times: 1
+	Query: "ummz hierococcyx sparveroides skel" ; Times: 1
+	Query: "specificepithet:gracilis institutioncode:UMMZ" ; Times: 7
+	Query: "catalognumber:129089 institutioncode:UMMZ" ; Times: 4
+	Query: "Procnias albus" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "UMMZ 200750" ; Times: 1
+	Query: "catalognumber:155600 institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:flavivertex genus:Myioborus" ; Times: 1
+	Query: "Psilopsiagon aymara mappable:1" ; Times: 3
+	Query: "genus:Strix lifestage:adult preparations:skel institutioncode:UMMZ" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "Lonchura maja mappable:1" ; Times: 4
+	Query: "Aratinga jandaya mappable:1" ; Times: 3
+	Query: "ramphastos toco" ; Times: 12
+	Query: "catalognumber:99749 institutioncode:UMMZ" ; Times: 1
+	Query: "Scolopacidae+Cameroon" ; Times: 2
+	Query: "catalognumber:117669 institutioncode:UMMZ" ; Times: 1
+	Query: "Anas laysanensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 4
+	Query: "Emberiza caesia mappable:1" ; Times: 4
+	Query: "123022" ; Times: 1
+	Query: "specificepithet:rolland genus:Rollandia hastissue:1" ; Times: 1
+	Query: "Erythrura prasina mappable:1" ; Times: 4
+	Query: "specificepithet:calurus genus:Criniger country:&#34;nigeria&#34;" ; Times: 2
+	Query: "catalognumber:123220 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "specificepithet:krameri genus:psittacula hasmass:1" ; Times: 1
+	Query: "saramacca" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "Mimus gilvus mappable:1" ; Times: 4
+	Query: "Amandava subflava mappable:1" ; Times: 5
+	Query: "prunella" ; Times: 3
+	Query: "distance(location,geopoint(44.0128904510001,-94.128736887))&lt;26613" ; Times: 4
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "class:Aves recordedby:William F. Palsson" ; Times: 2
+	Query: "ummz treron curvirostra" ; Times: 1
+	Query: "specificepithet:neglectus institutioncode:UMMZ" ; Times: 2
+	Query: "Caloenas nicobarica mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza haslength:1" ; Times: 2
+	Query: "Crithagra atrogularis mappable:1" ; Times: 5
+	Query: "Cisticolidae+Cameroon" ; Times: 2
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Picoides pubescens Edmonton" ; Times: 1
+	Query: "anderson 1896" ; Times: 1
+	Query: "ummz dendronanthus indicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "catalognumber:99750 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "carduelis carduelis brevirostris" ; Times: 2
+	Query: "preparations:Skel catalognumber:227860 institutioncode:UMMZ" ; Times: 1
+	Query: "Rallidae+Cameroon" ; Times: 2
+	Query: "ptyonoprogne concolor" ; Times: 2
+	Query: "specificepithet:finschi genus:Amazona hasmass:1" ; Times: 1
+	Query: "specificepithet:fucata genus:alopochelidon" ; Times: 2
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rupestris genus:Monticola hasmass:1" ; Times: 1
+	Query: "genus:Diomedea preparations:Skel" ; Times: 7
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "ummz cuculus micropterus" ; Times: 1
+	Query: "distance(location,geopoint(44.701347907,-84.3098242825))&lt;3537" ; Times: 4
+	Query: "Bubo africanus mappable:1" ; Times: 3
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 4
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "heliornis fulica chiapas" ; Times: 1
+	Query: "lifestage:Adult preparations:Skel catalognumber:220252 institutioncode:UMMZ" ; Times: 1
+	Query: "Amadina fasciata mappable:1" ; Times: 4
+	Query: "specificepithet:autumnalis genus:Amazona hasmass:1" ; Times: 1
+	Query: "catalognumber:115460 institutioncode:UMMZ" ; Times: 1
+	Query: "progne cryptoleuca" ; Times: 1
+	Query: "Larus fuscus" ; Times: 2
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 4
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "genus:Buteo country:&#34;Mexico&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "ummz halcyon pileata" ; Times: 1
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Icterus stateprovince:&#34;Coahuila&#34;" ; Times: 5
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "Plectropterus gambensis mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(48.7915492725,-96.49775502))&lt;18491" ; Times: 4
+	Query: "Vanellus armatus mappable:1" ; Times: 4
+	Query: "10066" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;sumatera barat&#34; country:&#34;indonesia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 4
+	Query: "Chenonetta jubata mappable:1" ; Times: 4
+	Query: "Balearica pavonina mappable:1" ; Times: 4
+	Query: "specificepithet:henslowii institutioncode:UMMZ" ; Times: 1
+	Query: "wingspan genus:Xiphorhynchus" ; Times: 1
+	Query: "Branta hutchinsii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "specificepithet:certhia genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "specificepithet:pallida institutioncode:UMMZ" ; Times: 3
+	Query: "genus:Spinus preparations:Skel" ; Times: 5
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 2
+	Query: "preparations:Skel catalognumber:118147 institutioncode:UMMZ" ; Times: 1
+	Query: "Sicalis luteocephala" ; Times: 1
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 4
+	Query: "wingspan genus:Gymnopithys" ; Times: 1
+	Query: "genus:carduelis country:&#34;iran&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "specificepithet:flavirostris genus:tockus hasmass:1" ; Times: 1
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Batis mixta" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 25
+	Query: "156047" ; Times: 1
+	Query: "Ploceus manyar mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(43.1568193015,-94.962755099))&lt;9126" ; Times: 7
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Mareca americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Anser serrirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta country:&#34;chile&#34;" ; Times: 1
+	Query: "ummz treron olax" ; Times: 1
+	Query: "Oxyura leucocephala basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "riparia diluta" ; Times: 2
+	Query: "distance(location,geopoint(36.994023142,-90.182407438))&lt;9468" ; Times: 4
+	Query: "Psittacula krameri mappable:1" ; Times: 3
+	Query: "catalognumber:117843 institutioncode:UMMZ" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "specificepithet:ferruginea genus:Calidris hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "ummz muscicapa dauurica" ; Times: 1
+	Query: "catalognumber:116489 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(44.0205308500001,-83.4492345135))&lt;2766" ; Times: 4
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "Dendrocopos medius mappable:1" ; Times: 3
+	Query: "specificepithet:microptera genus:Rollandia" ; Times: 2
+	Query: "anderson 1860" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "Grallaria varia" ; Times: 1
+	Query: "Antrostomus cubanensis" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Mergus serrator basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "pulcherrimus" ; Times: 1
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "Pyrrhura frontalis mappable:1" ; Times: 3
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "fulvetta cinereiceps" ; Times: 3
+	Query: "ummz geokichla citrina" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "ummz monticola solitarius skin" ; Times: 1
+	Query: "institutioncode:UMMZ" ; Times: 4
+	Query: "specificepithet:urbicum genus:delichon hastissue:1" ; Times: 2
+	Query: "specificepithet:flaveola genus:Coereba hasmass:1" ; Times: 2
+	Query: "ummz turdus obscurus" ; Times: 1
+	Query: "preparations:Skel catalognumber:118067 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 4
+	Query: "specificepithet:himantopus genus:Calidris hasmass:1" ; Times: 1
+	Query: "specificepithet:bivittata institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(46.956447829,-87.9780893605))&lt;2398" ; Times: 4
+	Query: "vntype:specimen institutioncode:UMMZ" ; Times: 6
+	Query: "Quelea quelea mappable:1" ; Times: 4
+	Query: "specificepithet:leucomelas genus:turdus hasmass:1" ; Times: 1
+	Query: "snakes" ; Times: 3
+	Query: "specificepithet:erythropleurus genus:Zosterops" ; Times: 1
+	Query: "Amazona albifrons mappable:1" ; Times: 3
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:prasina genus:hylia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Somateria mollissima basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 2
+	Query: "ummz lanius cristatus" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "genus:delichon continent:asia hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 4
+	Query: "108688" ; Times: 1
+	Query: "class:Aves country:&#34;Tajikistan&#34;" ; Times: 1
+	Query: "Oriolidae+Cameroon" ; Times: 1
+	Query: "ramsden" ; Times: 1
+	Query: "Toscana" ; Times: 1
+	Query: "riparia chinensis" ; Times: 2
+	Query: "Spermestes bicolor mappable:1" ; Times: 6
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+	Query: "specificepithet:anselli" ; Times: 1
+	Query: "196013" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "preparations:Skel catalognumber:202480 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz motacilla cinerea" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 3
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "patagioenas plumbea" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 11
+	Query: "catalognumber:103646 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(45.18647637,-84.1546901745))&lt;6380" ; Times: 4
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(43.6738092305001,-93.9502987805))&lt;29164" ; Times: 4
+	Query: "Euplectes hordeaceus mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(46.988734162,-95.625347563))&lt;12690" ; Times: 4
+	Query: "calliphlox evelynae" ; Times: 1
+	Query: "toscana" ; Times: 1
+	Query: "Quelea erythrops mappable:1" ; Times: 4
+	Query: "Ara macao mappable:1" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "locality:Uruguai Km 10 stateprovince:&#34;Misiones&#34; country:&#34;Argentina&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:118620 institutioncode:UMMZ" ; Times: 1
+	Query: "Ara severus mappable:1" ; Times: 3
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 4
+	Query: "WS vntype:specimen genus: Thryothorus" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Lamprotornis purpureus mappable:1" ; Times: 4
+	Query: "Anas bahamensis mappable:1" ; Times: 3
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Turdus rufitorques" ; Times: 5
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "Lophonetta specularoides basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 2
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pygmaea genus:calidris hasmass:1" ; Times: 1
+	Query: "ummz anthus cervinus skin" ; Times: 1
+	Query: "class:Aves country:&#34;Afghanistan&#34;" ; Times: 2
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "Estrilda troglodytes mappable:1" ; Times: 4
+	Query: "specificepithet:carolina institutioncode:UMMZ" ; Times: 7
+	Query: "wingspan genus:Pitangus" ; Times: 7
+	Query: "Musophagidae+Cameroon" ; Times: 2
+	Query: "Eupsittula aurea mappable:1" ; Times: 3
+	Query: "specificepithet:funereus genus:Aegolius country:&#34;United States&#34;" ; Times: 1
+	Query: "Synoicus chinensis mappable:1" ; Times: 5
+	Query: "Nettapus coromandelianus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "ummz locustella lanceolata" ; Times: 1
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "Bucephala clangula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Philentoma velata" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male preparations:skin" ; Times: 2
+	Query: "distance(location,geopoint(46.0547591460001,-83.758474761))&lt;1723" ; Times: 4
+	Query: "Passenger Pigeon" ; Times: 12
+	Query: "Ploceus melanocephalus mappable:1" ; Times: 4
+	Query: "catalognumber:231174 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves country:&#34;Niger&#34;" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "preparations:Skel catalognumber:68805 institutioncode:UMMZ" ; Times: 2
+	Query: "Anas aucklandica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "gypaetus" ; Times: 1
+	Query: "Heliornithidae+Cameroon" ; Times: 1
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:UMMZ" ; Times: 3
+	Query: "Cereopsis novaehollandiae mappable:1" ; Times: 4
+	Query: "Vidua chalybeata mappable:1" ; Times: 3
+	Query: "Malaconotidae+Cameroon" ; Times: 3
+	Query: "&#34;wingspan&#34; vntype:specimen genus: Glyphorynchus" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "genus:cecropis hastissue:1" ; Times: 2
+	Query: "specificepithet:brunnea institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "Estrilda rhodopyga mappable:1" ; Times: 4
+	Query: "Geopelia striata mappable:1" ; Times: 4
+	Query: "wingspan genus:Troglodytes continent:South America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aythya baeri basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 5
+	Query: "Crithagra dorsostriata mappable:1" ; Times: 5
+	Query: "specificepithet:carbo genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "delichon nipalensis" ; Times: 2
+	Query: "lacm birds galapagos" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Amazona oratrix mappable:1" ; Times: 3
+	Query: "hesperia specificepithet:subis genus:progne" ; Times: 1
+	Query: "genus:Strix preparations:Skel institutioncode:UMMZ" ; Times: 2
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 4
+	Query: "ummz hierococcyx sparveroides" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 2
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(45.7638797805,-96.6239940795))&lt;23445" ; Times: 4
+	Query: "Oxyura australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(44.9817493065001,-83.2618961995))&lt;9583" ; Times: 4
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "catalognumber:152815 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves catalognumber:74868" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "genus:Carpospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Netta peposaca mappable:1" ; Times: 4
+	Query: "catalognumber:103343 institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen preparations:Skin institutioncode:UMMZ" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.589535943,-95.44487865))&lt;31453" ; Times: 4
+	Query: "ummz ficedula mugimaki" ; Times: 1
+	Query: "preparations:Skel catalognumber:205539 institutioncode:UMMZ" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "Branta sandvicensis mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(41.829702842,-83.4164260875))&lt;1308" ; Times: 4
+	Query: "Eophona migratoria mappable:1" ; Times: 4
+	Query: "Eophona personata mappable:1" ; Times: 4
+	Query: "catalognumber:108610 institutioncode:UMMZ" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "ummz todiramphus sanctus" ; Times: 1
+	Query: "ummz pitta sordida skel" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittacula eupatria mappable:1" ; Times: 4
+	Query: "specificepithet:niger genus:Cypseloides month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Passer luteus mappable:1" ; Times: 4
+	Query: "222778" ; Times: 1
+	Query: "Euodice cantans mappable:1" ; Times: 3
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "specificepithet:simplex institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Bellary&#34; (Walter Koelz)" ; Times: 1
+	Query: "Branta canadensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Trichoglossus haematodus mappable:1" ; Times: 2
+	Query: "Acridotheres ginginianus mappable:1" ; Times: 4
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:leucorrhoa genus:tachycineta country:&#34;paraguay&#34;" ; Times: 1
+	Query: "distance(location,geopoint(41.9016215460001,-83.3795440335))&lt;1671" ; Times: 4
+	Query: "Zosterops griseonota" ; Times: 1
+	Query: "specificepithet:campestris institutioncode:UMMZ" ; Times: 2
+	Query: "distance(location,geopoint(41.774028974,-83.4546828674999))&lt;3374" ; Times: 4
+	Query: "Monachus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lamprotornis chloropterus mappable:1" ; Times: 4
+	Query: "Sylviidae+Cameroon" ; Times: 3
+	Query: "Amazona aestiva mappable:1" ; Times: 3
+	Query: "specificepithet:ornata institutioncode:UMMZ" ; Times: 3
+	Query: "Aythya marila basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 4
+	Query: "Alectoris graeca mappable:1" ; Times: 4
+	Query: "Sporophila ruficollis UMMZ" ; Times: 2
+	Query: "Geranoaetus melanoleucus mappable:1" ; Times: 4
+	Query: "Aythya valisineria mappable:1" ; Times: 4
+	Query: "Elanus caeruleus" ; Times: 18
+	Query: "catalognumber:121515 institutioncode:UMMZ" ; Times: 1
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "Columba livia dakota" ; Times: 2
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "specificepithet:dowii genus:tangara hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;Meghalaya&#34; country:&#34;India&#34; (Walter Koelz)" ; Times: 2
+	Query: "catalognumber:69566 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:160773 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz todiramphus sanctus skel" ; Times: 1
+	Query: "catalognumber:178172 institutioncode:UMMZ" ; Times: 1
+	Query: "Anas flavirostris mappable:1" ; Times: 4
+	Query: "Diomedea epomophora epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 1
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "pyrrhura stateprovince:&#34;Para&#34;" ; Times: 1
+	Query: "catalognumber:65275 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:122761 institutioncode:UMMZ" ; Times: 1
+	Query: "Mareca sibilatrix mappable:1" ; Times: 5
+	Query: "146501" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Ploceus luteolus mappable:1" ; Times: 4
+	Query: "indicator riggenbachi" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "catalognumber:118618 institutioncode:UMMZ" ; Times: 1
+	Query: "Vidua orientalis mappable:1" ; Times: 3
+	Query: "ummz acrocephalus orientalis" ; Times: 1
+	Query: "Spatula cyanoptera mappable:1" ; Times: 5
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 1
+	Query: "Platycercus icterotis mappable:1" ; Times: 3
+	Query: "setophaga citrina chiapas" ; Times: 1
+	Query: "Aplonis metallica mappable:1" ; Times: 4
+	Query: "Pionus maximiliani mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(44.1197688840001,-84.9460193675))&lt;6246" ; Times: 4
+	Query: "genus:Cacatua preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "ummz alcedo atthis skin" ; Times: 1
+	Query: "vancouver pubescens" ; Times: 2
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 7
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 4
+	Query: "Oceanites gracilis gracilis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 2
+	Query: "ummz anthus cervinus skel" ; Times: 1
+	Query: "pachycephala pavuvu" ; Times: 2
+	Query: "specificepithet:mariquensis genus:bradornis hasmass:1" ; Times: 1
+	Query: "specificepithet:pardalotus genus:xiphorhynchus hasmass:1" ; Times: 1
+	Query: "Euplectes nigroventris mappable:1" ; Times: 4
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "ortygospiza smithersi" ; Times: 3
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Dendrocopos atratus" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ghana&#34;" ; Times: 1
+	Query: "Accipiter badius mappable:1" ; Times: 4
+	Query: "Poicephalus stomach" ; Times: 1
+	Query: "class:Aves recordedby:*Cory*" ; Times: 2
+	Query: "Grus paradisea mappable:1" ; Times: 3
+	Query: "Ladakh" ; Times: 1
+	Query: "Celaenops" ; Times: 1
+	Query: "catalognumber:60033 institutioncode:UMMZ" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "catalognumber:118308 institutioncode:UMMZ" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1" ; Times: 3
+	Query: "Phoeniculus purpureus mappable:1" ; Times: 4
+	Query: "genus:parabuteo year &gt;= 10 year &lt;= 1982 month &gt;= 10 month &lt;= 1982" ; Times: 1
+	Query: "insecta" ; Times: 1
+	Query: "alopochelidon fucata" ; Times: 1
+	Query: "Aratinga nenday mappable:1" ; Times: 3
+	Query: "specificepithet:flavipes genus:platalea hasmass:1" ; Times: 1
+	Query: "ummz muscicapa sibirica skin" ; Times: 1
+	Query: "Caracara plancus mappable:1" ; Times: 5
+	Query: "Ramphastos sulfuratus mappable:1" ; Times: 4
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "chondrohierax uncinatus chiapas" ; Times: 1
+	Query: "Spatula discors basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 3
+	Query: "Eupsittula nana mappable:1" ; Times: 3
+	Query: "genus:Anser preparations:Skel" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:dendrocincla hasmass:1" ; Times: 2
+	Query: "strix mexico" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "B-1357" ; Times: 1
+	Query: "specificepithet:microptera genus:Rollandia hastissue:1" ; Times: 2
+	Query: "Anatidae+Cameroon" ; Times: 1
+	Query: "Euplectes axillaris mappable:1" ; Times: 4
+	Query: "Tadorna cana mappable:1" ; Times: 4
+	Query: "catalognumber:103644 institutioncode:UMMZ" ; Times: 1
+	Query: "Lonchura punctulata mappable:1" ; Times: 4
+	Query: "specificepithet:major genus:podiceps hastissue:1" ; Times: 1
+	Query: "Acrocephalidae Cameroon" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas class:Aves year &gt;= 2008 year &lt;= 2008 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz cuculus micropterus skin" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "ummz eudynamys scolopaceus" ; Times: 1
+	Query: "Paroaria capitata mappable:1" ; Times: 4
+	Query: "Monarchidae+Cameroon" ; Times: 2
+	Query: "distance(location,geopoint(44.784346686,-84.3576680185))&lt;5016" ; Times: 4
+	Query: "Cacatua sulphurea mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Scopidae+Cameroon" ; Times: 1
+	Query: "distance(location,geopoint(43.3308235321665,-84.0275076101665))&lt;2238" ; Times: 4
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "(Prunella) hastissue:1" ; Times: 1
+	Query: "ummz 123395" ; Times: 3
+	Query: "Spatula clypeata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "lifestage:adult preparations:skel massing &gt;= 10 massing &lt;= 100 institutioncode:UMMZ" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "specificepithet:taczanowskii genus:Podiceps hastissue:1" ; Times: 1
+	Query: "Spermestes cucullata mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(46.498434152,-96.4050047575))&lt;17556" ; Times: 4
+	Query: "chesapeake" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "catharus fuscescens month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(41.4408903360001,-95.9614737755))&lt;4743" ; Times: 4
+	Query: "Pionites melanocephalus mappable:1" ; Times: 3
+	Query: "Monarchidae Cameroon" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo hastissue:1" ; Times: 2
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "voles" ; Times: 3
+	Query: "Alameda County colaptes" ; Times: 1
+	Query: "wood turtle" ; Times: 4
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "ummz muscicapa ferruginea" ; Times: 2
+	Query: "distance(location,geopoint(45.0141613725,-95.721651943))&lt;22000" ; Times: 4
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "Acrocephalus arundinaceus" ; Times: 2
+	Query: "Aix sponsa mappable:1" ; Times: 3
+	Query: "Cygnus melancoryphus mappable:1" ; Times: 4
+	Query: "faroe" ; Times: 1
+	Query: "Melanerpes carolinus (Melanerpes carolinus) institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Amazona amazonica mappable:1" ; Times: 3
+	Query: "Actophilornis africanus mappable:1" ; Times: 5
+	Query: "Oliver Jones" ; Times: 1
+	Query: "specificepithet:zosterops genus:Xanthomixis hasmass:1" ; Times: 1
+	Query: "specificepithet:zosterops genus:Xanthomixis hasmass:0" ; Times: 1
+	Query: "specificepithet:sinaloae genus:progne" ; Times: 2
+	Query: "Arremonops conirostris conirostris" ; Times: 2
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 4
+	Query: "ummz cuculus optatus skel" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Corvus albus mappable:1" ; Times: 4
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "Lophophorus impejanus mappable:1" ; Times: 4
+	Query: "Ploceus cucullatus mappable:1" ; Times: 2
+	Query: "wingspan vntype:specimen genus:Xiphorhynchus" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Numenius madagascariensis" ; Times: 5
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 2
+	Query: "genus:Strix lifestage:adult preparations:skel massing &gt;= 300 massing &lt;= 2000 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:118751 institutioncode:UMMZ" ; Times: 1
+	Query: "174405" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "Paroaria dominicana mappable:1" ; Times: 4
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "preparations:skel catalognumber:201786 institutioncode:UMMZ" ; Times: 1
+	Query: "Bourns" ; Times: 1
+	Query: "mosquitoes" ; Times: 1
+	Query: "ummz alcedo atthis" ; Times: 1
+	Query: "specificepithet:cyaneoviridis genus:tachycineta" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 1
+	Query: "specificepithet:sparsa institutioncode:UMMZ" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "UMMZ 215126" ; Times: 3
+	Query: "Somateria fischeri basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "BD-9063 class:Aves institutioncode:UMMZ" ; Times: 1
+	Query: "lifestage:adult preparations:skel massing &gt;= 1 massing &lt;= 10 institutioncode:UMMZ" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 1
+	Query: "Antigone vipio mappable:1" ; Times: 5
+	Query: "specificepithet:caerulea genus:Passerina year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "ummz alcedo atthis skel" ; Times: 1
+	Query: "cecropis senegalensis" ; Times: 1
+	Query: "class:aves country:&#34;solomon&#34; (guadalcanal) year &gt;= 1950 year &lt;= 1960 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:155603 institutioncode:UMMZ" ; Times: 1
+	Query: "gbifdatasetid:be5507b9-7abf-4b69-afe1-5ca2b7561734" ; Times: 7
+	Query: "ummz rallina fasciata" ; Times: 1
+	Query: "Heteronetta atricapilla mappable:1" ; Times: 4
+	Query: "wingspan vntype:specimen genus:Pitangus" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1" ; Times: 2
+	Query: "specificepithet:flavirostris genus:anairetes hasmass:1" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 2
+	Query: "ummz pitta sordida" ; Times: 1
+	Query: "specificepithet:fumigatus genus:turdus hasmass:1" ; Times: 1
+	Query: "ummz larvivora cyane" ; Times: 1
+	Query: "wingspan vntype:specimen genus:Troglodytes continent:South America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laniidae+Cameroon" ; Times: 1
+	Query: "distance(location,geopoint(46.768171803,-84.957030002))&lt;549" ; Times: 4
+	Query: "Psittacara wagleri mappable:1" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "wing vntype:specimen family:cuculidae" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:cyanus genus:Cyanopica hastissue:1" ; Times: 1
+	Query: "Psittacara acuticaudatus mappable:1" ; Times: 3
+	Query: "Lophura nycthemera mappable:1" ; Times: 4
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male" ; Times: 1
+	Query: "distance(location,geopoint(43.198280134,-93.665024173))&lt;9598" ; Times: 4
+	Query: "Amazona leucocephala mappable:1" ; Times: 3
+	Query: "specificepithet:chiapensis genus:campylorhynchus hasmass:1" ; Times: 1
+	Query: "locality:Laguna county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "Merganetta armata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cyanocitta lifestage:Adult preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "lifestage:adult preparations:skel massing &gt;= 1000 massing &lt;= 10000 institutioncode:UMMZ" ; Times: 1
+	Query: "Sitta canadensis Mexico" ; Times: 2
+	Query: "scientificname:&#34;rhynchotus rufescens&#34;" ; Times: 1
+	Query: "114020" ; Times: 1
+	Query: "specificepithet:nitens genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "specificepithet:aalge genus:uria country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "183292" ; Times: 1
+	Query: "Anas erythrorhyncha mappable:1" ; Times: 4
+	Query: "Psittacus erithacus mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 4
+	Query: "Anas capensis mappable:1" ; Times: 4
+	Query: "institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ummz eudynamys scolopaceus skin" ; Times: 1
+	Query: "Anas gibberifrons basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tinamus major chiapas" ; Times: 1
+	Query: "Oliver V. Jones" ; Times: 1
+	Query: "distance(location,geopoint(43.5272107798635,-95.104608857))&lt;18048" ; Times: 4
+	Query: "Hirundinidae+Cameroon" ; Times: 2
+	Query: "Sagittariidae+Cameroon" ; Times: 1
+	Query: "Cyanocorax chrysops mappable:1" ; Times: 4
+	Query: "Cyanocorax mystacalis mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:olivacea genus:cyanomitra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Cyanocitta lifestage:Adult preparations:Skel" ; Times: 1
+	Query: "ummz ficedula narcissina skel" ; Times: 1
+	Query: "220969" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:granadensis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Bangladesh&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "columbina cyanopis" ; Times: 2
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 3
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "passenger pigeon" ; Times: 5
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 4
+	Query: "bicknelli" ; Times: 2
+	Query: "Lamprotornis superbus mappable:1" ; Times: 4
+	Query: "196029" ; Times: 2
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "lifestage:adult preparations:skel massing &gt;= 100 massing &lt;= 1000 institutioncode:UMMZ" ; Times: 2
+	Query: "Tockus deckeni mappable:1" ; Times: 4
+	Query: "specificepithet:Carolinensis genus:Conuropsis" ; Times: 2
+	Query: "Crax globulosa" ; Times: 1
+	Query: "catalognumber:109404 institutioncode:UMMZ" ; Times: 1
+	Query: "sporophila country:&#34;Argentina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.7991923775,-93.448599977))&lt;7419" ; Times: 4
+	Query: "Lonchura atricapilla mappable:1" ; Times: 4
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 3
+	Query: "specificepithet:nigricans genus:cercomacra hasmass:1" ; Times: 1
+	Query: "Padda oryzivora mappable:1" ; Times: 3
+	Query: "Euplectes ardens mappable:1" ; Times: 3
+	Query: "Tauraco hartlaubi mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 1
+	Query: "Ploceus castaneiceps mappable:1" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 3
+	Query: "Aythya americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 4
+	Query: "specificepithet:nigricans genus:Petrochelidon hasmass:1" ; Times: 1
+	Query: "pseudochelidon" ; Times: 2
+	Query: "catalognumber:118752 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "Gracula religiosa mappable:1" ; Times: 4
+	Query: "Rhyticeros undulatus mappable:1" ; Times: 5
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "ummz alcedo atthis fluid" ; Times: 1
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "specificepithet:riparia genus:riparia hastissue:1" ; Times: 1
+	Query: "139594" ; Times: 1
+	Query: "petrochelidon fluvicola" ; Times: 1
+	Query: "Sporophila ruficollis Y" ; Times: 1
+	Query: "zosterops borbonicus" ; Times: 3
+	Query: "Batis capensis" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "prinia inglisi" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "Tulare County colaptes" ; Times: 1
+	Query: "Hypsipetes leucocephalus mappable:1" ; Times: 4
+	Query: "ummz cuculus optatus skin" ; Times: 1
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "melospiza melodia insignis" ; Times: 1
+	Query: "Eos squamata mappable:1" ; Times: 3
+	Query: "Estrilda caerulescens mappable:1" ; Times: 4
+	Query: "ummz muscicapa sibirica" ; Times: 2
+	Query: "genus:Archilochus preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "ummz anthus richardi" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "Oxyruncus cristatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "specificepithet:castaneus genus:pteroptochos hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(43.3495345105,-84.0377572521665))&lt;2998" ; Times: 4
+	Query: "ummz anthus richardi skin" ; Times: 1
+	Query: "Ocyphaps lophotes mappable:1" ; Times: 2
+	Query: "Gyps coprotheres mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(45.23028028,-86.9702191465))&lt;2716" ; Times: 4
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 4
+	Query: "(Gilgit )" ; Times: 1
+	Query: "wingspan genus:Troglodytes" ; Times: 1
+	Query: "distance(location,geopoint(44.46763748,-84.264306106))&lt;8133" ; Times: 4
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "Pyrrhura molinae mappable:1" ; Times: 3
+	Query: "lophornis" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Tephrodornis sylvicola" ; Times: 1
+	Query: "Pleurostictus" ; Times: 3
+	Query: "ummz motacilla alba skel" ; Times: 1
+	Query: "Anas castanea mappable:1" ; Times: 4
+	Query: "class:aves (paul woodward)" ; Times: 1
+	Query: "BD-9064 class:Aves institutioncode:UMMZ" ; Times: 1
+	Query: "ummz pitta sordida skin" ; Times: 1
+	Query: "distance(location,geopoint(48.3463837135001,-95.9341020065))&lt;13553" ; Times: 7
+	Query: "Plectropterus gambensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Gilgit India)" ; Times: 1
+	Query: "mumford class:aves stateprovince:&#34;Minas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cacicus cela mappable:1" ; Times: 4
+	Query: "Polytelis swainsonii mappable:1" ; Times: 3
+	Query: "Spatula puna basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "ummz dendronanthus indicus skel" ; Times: 1
+	Query: "dicrurus hottentottus thailand" ; Times: 1
+	Query: "Chrysolophus pictus mappable:1" ; Times: 4
+	Query: "Chloebia gouldiae mappable:1" ; Times: 5
+	Query: "catalognumber:87623 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "Larvivora tanensis weight" ; Times: 1
+	Query: "Leiothrix lutea mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(44.1377106245001,-90.1674187625))&lt;13571" ; Times: 4
+	Query: "bubulcus ibis" ; Times: 13
+	Query: "Pytilia phoenicoptera mappable:1" ; Times: 4
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "lifestage:adult preparations:skel massing &gt;= 6000 massing &lt;= 10000 institutioncode:UMMZ" ; Times: 1
+	Query: "Euplectes orix mappable:1" ; Times: 4
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "distance(location,geopoint(42.0036984992376,-83.2359137238335))&lt;2965" ; Times: 4
+	Query: "Anas andium basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diopsittaca nobilis mappable:1" ; Times: 3
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "(Langara)" ; Times: 1
+	Query: "specificepithet:borbonicus genus:zosterops hasmass:1" ; Times: 1
+	Query: "carrikeri" ; Times: 2
+	Query: "ummz cyanoptila cyanomelana" ; Times: 1
+	Query: "Psittacara erythrogenys mappable:1" ; Times: 3
+	Query: "92661" ; Times: 1
+	Query: "county:&#34;Rockingham&#34; stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "genus:symposiachrus" ; Times: 1
+	Query: "wingspan genus:Glyphorynchus" ; Times: 4
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 30
+	Query: "Phoebastria" ; Times: 1
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "catalognumber:152813 institutioncode:UMMZ" ; Times: 1
+	Query: "Psittacara holochlorus mappable:1" ; Times: 3
+	Query: "Muscicapidae+Cameroon" ; Times: 5
+	Query: "ummz phylloscopus" ; Times: 1
+	Query: "Lonchura striata mappable:1" ; Times: 4
+	Query: "Diomedea epomophora sanfordi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rodent" ; Times: 3
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "trichastoma grisescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "Sylviidae Cameroon" ; Times: 1
+	Query: "Erythrura trichroa mappable:1" ; Times: 4
+	Query: "specificepithet:corvina genus:Sporophila continent:North America" ; Times: 1
+	Query: "class:aves country:&#34;french polynesia&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Bill frog" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Numenius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Icterus hasmass:1" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "BD-9469 class:Aves institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:95079 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Cacatua lifestage:Adult preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "ummz cuculus optatus" ; Times: 3
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Worcester year &gt;= 1890 year &lt;= 1893" ; Times: 1
+	Query: "Spatula rhynchotis mappable:1" ; Times: 5
+	Query: "catalognumber:103645 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:pelzelniI genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "ummz locustella ochotensis" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "Forpus passerinus mappable:1" ; Times: 3
+	Query: "catalognumber:124310 institutioncode:UMMZ" ; Times: 1
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "spatula discors chiapas" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ortygospiza" ; Times: 1
+	Query: "R-194073" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 2
+	Query: "catalognumber:77947 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba hasmass:1 haslength:1" ; Times: 1
+	Query: "Rhodospiza obsoleta mappable:1" ; Times: 6
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:clarkii genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "specificepithet:picumnus genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "specificepithet:leucomelaena hasmass:1" ; Times: 9
+	Query: "distance(location,geopoint(29.65864917475,-94.1034470685))&lt;5374" ; Times: 1
+	Query: "Necrosyrtes monachus mappable:1" ; Times: 4
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "Poicephalus senegalus mappable:1" ; Times: 3
+	Query: "Acridotheres cristatellus mappable:1" ; Times: 4
+	Query: "catalognumber:243156 institutioncode:UMMZ" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 12
+	Query: "Trichoglossus moluccanus mappable:1" ; Times: 3
+	Query: "chinensis specificepithet:paludicola genus:Riparia" ; Times: 1
+	Query: "Aythya affinis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Antigone canadensis mappable:1" ; Times: 5
+	Query: "stateprovince:&#34;alaska&#34; recordedby:stone year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Ara chloropterus mappable:1" ; Times: 3
+	Query: "Tachybaptus rufolavatus" ; Times: 1
+	Query: "Sarcogyps calvus mappable:1" ; Times: 4
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "genus:Fringilla preparations:Skel" ; Times: 7
+	Query: "Amandava amandava mappable:1" ; Times: 9
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "distance(location,geopoint(43.3495345105,-83.9684129145))&lt;2998" ; Times: 4
+	Query: "distance(location,geopoint(43.3682454888335,-84.0377280503301))&lt;2995" ; Times: 4
+	Query: "stoliczkae" ; Times: 1
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "Batis soror" ; Times: 1
+	Query: "Streptopelia orientalis mappable:1" ; Times: 4
+	Query: "vntype:specimen genus:Podiceps hastissue:1" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(46.4422339105001,-96.13322835))&lt;31668" ; Times: 4
+	Query: "Anser indicus mappable:1" ; Times: 4
+	Query: "Alcedinidae+Cameroon" ; Times: 2
+	Query: "distance(location,geopoint(29.69988994425,-94.1034701354581))&lt;5371" ; Times: 1
+	Query: "Nymphicus hollandicus mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "thamnophilus doliatus chiapas" ; Times: 2
+	Query: "specificepithet:chrysoparia genus:setophaga" ; Times: 1
+	Query: "specificepithet:parulus genus:anairetes hasmass:1" ; Times: 1
+	Query: "Mareca strepera basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "ummz monticola solitarius" ; Times: 1
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Tadorna radjah mappable:1" ; Times: 3
+	Query: "Eupsittula pertinax mappable:1" ; Times: 3
+	Query: "woodcock" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominicus genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Locustella major hastissue:1" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tephrodornis virgatus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "(Kashmir)" ; Times: 1
+	Query: "Bycanistes brevis mappable:1" ; Times: 5
+	Query: "specificepithet:temminckii genus:calidris hasmass:1" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Mergus octosetaceus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eudocimus albus Florida" ; Times: 1
+	Query: "malacensis" ; Times: 1
+	Query: "142457" ; Times: 1
+	Query: "specificepithet:hypoleucus hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Estrildidae+Cameroon" ; Times: 3
+	Query: "dixiphia pipra" ; Times: 1
+	Query: "Ploceus intermedius mappable:1" ; Times: 4
+	Query: "specificepithet:coronata genus:paroaria hasmass:1" ; Times: 1
+	Query: "catalognumber:77946 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nigroviridis genus:tangara hasmass:1" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "grampus" ; Times: 1
+	Query: "distance(location,geopoint(42.108422682857,-83.1761773494459))&lt;2182" ; Times: 4
+	Query: "Cyanoliseus patagonus mappable:1" ; Times: 3
+	Query: "terpsiphone" ; Times: 1
+	Query: "Garrulax leucolophus mappable:1" ; Times: 3
+	Query: "Vidua fischeri mappable:1" ; Times: 4
+	Query: "spelaeornis longicaudatus" ; Times: 1
+	Query: "Pycnonotus cafer mappable:1" ; Times: 4
+	Query: "ummz muscicapa dauurica skin" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "specificepithet:pistrinaria institutioncode:UMMZ" ; Times: 1
+	Query: "Pytilia melba mappable:1" ; Times: 4
+	Query: "Ciconiidae+Cameroon" ; Times: 1
+	Query: "Philentoma" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Grallaria gigantea" ; Times: 1
+	Query: "specificepithet:lugubris genus:quiscalus hasmass:1" ; Times: 1
+	Query: "Lamprotornis regius mappable:1" ; Times: 5
+	Query: "Poephila acuticauda mappable:1" ; Times: 4
+	Query: "Amazona festiva mappable:1" ; Times: 3
+	Query: "ummz muscicapa ferruginea skin" ; Times: 1
+	Query: "recordedby:audubon" ; Times: 1
+	Query: "Anas poecilorhyncha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barnardius zonarius mappable:1" ; Times: 2
+	Query: "Ardea cinerea" ; Times: 2
+	Query: "catalognumber:79402 institutioncode:UMMZ" ; Times: 1
+	Query: "Aix galericulata mappable:1" ; Times: 4
+	Query: "Sarkidiornis melanotos mappable:1" ; Times: 4
+	Query: "Aix sponsa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "ummz motacilla flava" ; Times: 1
+	Query: "genus:carduelis country:&#34;iran&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:99748 institutioncode:UMMZ" ; Times: 2
+	Query: "Psittacara leucophthalmus mappable:1" ; Times: 3
+	Query: "Muscicapa dauurica mappable:1" ; Times: 5
+	Query: "Anser cygnoid mappable:1" ; Times: 5
+	Query: "Columba livia wisconsin" ; Times: 1
+	Query: "Cacatua ophthalmica mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 4
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:lamberti genus:malurus hasmass:1" ; Times: 1
+	Query: "strix lucida" ; Times: 1
+	Query: "scientificname:&#34;tachyeres brachypterus&#34;" ; Times: 1
+	Query: "Chrysolophus amherstiae mappable:1" ; Times: 4
+	Query: "Sturnia sinensis mappable:1" ; Times: 6
+	Query: "Coturnix japonica mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Oxyura jamaicensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Ciconia abdimii mappable:1" ; Times: 4
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "specificepithet:novaehollandiae genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "ummz hierococcyx" ; Times: 1
+	Query: "progne modesta" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "lifestage:adult preparations:skel massing &gt;= 4000 massing &lt;= 6000 institutioncode:UMMZ" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "locality:Tepoto recordedby:beck" ; Times: 1
+	Query: "genus:Falco preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "catalognumber:77948 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:major genus:Podiceps hastissue:1" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 74
+	Query: "Menage" ; Times: 1
+	Query: "Tockus nasutus mappable:1" ; Times: 3
+	Query: "ummz motacilla cinerea skin" ; Times: 1
+	Query: "Brotogeris chiriri mappable:1" ; Times: 3
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "catalognumber:123219 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:regia genus:platalea hasmass:1" ; Times: 1
+	Query: "Threskiornis aethiopicus mappable:1" ; Times: 3
+	Query: "catalognumber:79403 institutioncode:UMMZ" ; Times: 1
+	Query: "Ploceus jacksoni mappable:1" ; Times: 4
+	Query: "specificepithet:columbarius genus:falco class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Cacatua goffiniana mappable:1" ; Times: 3
+	Query: "class:aves recordedby:*cory year &gt;= 1850 year &lt;= 1950" ; Times: 2
+	Query: "Aythya valisineria basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "bobolink" ; Times: 2
+	Query: "catalognumber:121030 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:sanctithomae genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "specificepithet:bistrigiceps genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "ummz lanius tigrinus skin" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "Anser rossii mappable:1" ; Times: 5
+	Query: "pipilo ocai ummz" ; Times: 1
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "prinia tenella" ; Times: 1
+	Query: "genus:Calidris class:Aves recordedby:Palsson" ; Times: 1
+	Query: "Crithagra mozambica mappable:1" ; Times: 5
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Chionis albus mappable:1" ; Times: 4
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "Somateria spectabilis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:spizella stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "genus:Meleagris lifestage:Adult preparations:Skel institutioncode:UMMZ" ; Times: 1
+	Query: "preparations:Skel catalognumber:136314 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "Bucorvus abyssinicus mappable:1" ; Times: 4
+	Query: "specificepithet:purpureus genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "delichon nipalense" ; Times: 2
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "Agapornis roseicollis mappable:1" ; Times: 3
+	Query: "wingspan vntype:specimen genus: Thryothorus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "sitta lilacea" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 3
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "Parnell" ; Times: 6
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "genus:Hirundo hastissue:1" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Estrilda melpoda mappable:1" ; Times: 4
+	Query: "Lophorina superba" ; Times: 1
+	Query: "crypturellus cinnamomeus chiapas" ; Times: 1
+	Query: "Platycercus eximius mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:rufopectus genus:Poliocephalus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.1953112460001,-90.2914159755))&lt;22242" ; Times: 4
+	Query: "pelagodroma marina" ; Times: 1
+	Query: "Psephotus haematonotus mappable:1" ; Times: 1
+	Query: "poecile kirmanensis" ; Times: 1
+	Query: "Anas crecca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Columbidae+Cameroon" ; Times: 2
+	Query: "Agapornis personatus mappable:1" ; Times: 3
+	Query: "Chlorostilbon canivetii" ; Times: 2
+	Query: "UMMZ 100000" ; Times: 1
+	Query: "peucedramus jaliscensis" ; Times: 1
+	Query: "progne subis hesperia" ; Times: 3
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "Onychorhynchus vntype:specimen mappable:1" ; Times: 1
+	Query: "ummz locustella certhiola" ; Times: 1
+	Query: "Scopus umbretta mappable:1" ; Times: 4
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "Serinus pusillus mappable:1" ; Times: 4
+	Query: "genus:Turdus class:Aves recordedby:Palsson" ; Times: 2
+	Query: "Anas fulvigula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Gulls" ; Times: 1
+	Query: "Pteronetta hartlaubii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Netta rufina basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Euplectes macroura mappable:1" ; Times: 5
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:humeralis genus:peucaea hasmass:1" ; Times: 1
+	Query: "turtle michigan" ; Times: 1
+	Query: "locality:marutea recordedby:beck" ; Times: 5
+	Query: "Rhyticeros plicatus mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(43.2917278770001,-93.674033713))&lt;9203" ; Times: 4
+	Query: "vntype:specimen specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Francolinus francolinus mappable:1" ; Times: 4
+	Query: "preparations:Skin institutioncode:UMMZ" ; Times: 2
+	Query: "Tinamus tao" ; Times: 1
+	Query: "catalognumber:118301 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Columba lifestage:Adult preparations:Skel" ; Times: 1
+	Query: "Todiramphus chloris mappable:1" ; Times: 3
+	Query: "Lophodytes cucullatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Geranoaetus polyosoma mappable:1" ; Times: 5
+	Query: "catalognumber:50673 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nipalense genus:delichon" ; Times: 7
+	Query: "ptyonoprogne obsoleta" ; Times: 4
+	Query: "ummz motacilla flava skel" ; Times: 1
+	Query: "ummz lanius cristatus skel" ; Times: 1
+	Query: "Corvus ruficollis mappable:1" ; Times: 4
+	Query: "Onychorhynchus mappable:1" ; Times: 3
+	Query: "stateprovince:&#34;Meghalaya&#34; country:&#34;India&#34; (Walter Koelz) year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "Buceros bicornis mappable:1" ; Times: 4
+	Query: "specificepithet:corvina genus:Sporophila" ; Times: 1
+	Query: "Callonetta leucophrys mappable:1" ; Times: 4
+	Query: "pipra fasciicauda" ; Times: 2
+	Query: "Burhinidae+Cameroon" ; Times: 1
+	Query: "Icterus pectoralis mappable:1" ; Times: 4
+	Query: "Euplectes franciscanus mappable:1" ; Times: 4
+	Query: "Acrocephalus stentoreus" ; Times: 2
+	Query: "dicrurus samarensis" ; Times: 6
+	Query: "catalognumber:116484 institutioncode:UMMZ" ; Times: 1
+	Query: "Cisticolidae Cameroon" ; Times: 4
+	Query: "Locustella major" ; Times: 1
+	Query: "distance(location,geopoint(42.3672883564,-71.3832157696148))&lt;2016" ; Times: 1
+	Query: "preparations:Skel catalognumber:154714 institutioncode:UMMZ" ; Times: 1
+	Query: "Balearica regulorum mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 4
+	Query: "183644" ; Times: 1
+	Query: "catalognumber:122760 institutioncode:UMMZ" ; Times: 1
+	Query: "Geopelia cuneata mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(44.7957518880001,-91.7466035155))&lt;14610" ; Times: 4
+	Query: "Phalacrocoracidae+Cameroon" ; Times: 1
+	Query: "birds Angola" ; Times: 2
+	Query: "genus:cecropis OR hirundo (cucullata OR abyssinica OR semirufa OR senegalensis OR daurica OR striolata OR badia) hastissue:1" ; Times: 1
+	Query: "specificepithet:gularis genus:paroaria hasmass:1" ; Times: 1
+	Query: "Urocissa erythrorhyncha mappable:1" ; Times: 3
+	Query: "Estrilda perreini mappable:1" ; Times: 4
+	Query: "Crinifer piscator mappable:1" ; Times: 4
+	Query: "Conuropsis carolinensis" ; Times: 5
+	Query: "Pipile cumanensis mappable:1" ; Times: 6
+	Query: "Psittacula alexandri mappable:1" ; Times: 3
+	Query: "specificepithet:funereus genus:Aegolius" ; Times: 1
+	Query: "Spatula versicolor mappable:1" ; Times: 5
+	Query: "75244" ; Times: 1
+	Query: "ummz clamator coromandus" ; Times: 1
+	Query: "specificepithet:anais genus:mino hasmass:1" ; Times: 1
+	Query: "institutioncode:ummz" ; Times: 4
+	Query: "Agapornis fischeri mappable:1" ; Times: 3
+	Query: "Cypseloides niger; New Mexico" ; Times: 1
+	Query: "Columba guinea mappable:1" ; Times: 4
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:dominicus genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "genus:melospiza haslength:1" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "preparations:Skel catalognumber:201786 institutioncode:UMMZ" ; Times: 2
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 352 (out of 1892 download events in this period)
+Total number of records downloaded: 114445
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 61
+	Country: United States ; Times: 180
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 42
+	Country: India ; Times: 13
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 12
+	Country: Japan ; Times: 1
+	Country: Brazil ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 11
+	Date: 2018-02-08 ; Times: 8
+	Date: 2018-02-03 ; Times: 6
+	Date: 2018-02-02 ; Times: 21
+	Date: 2018-02-01 ; Times: 17
+	Date: 2018-02-07 ; Times: 14
+	Date: 2018-02-06 ; Times: 42
+	Date: 2018-02-05 ; Times: 63
+	Date: 2018-02-04 ; Times: 5
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 16
+	Date: 2018-02-23 ; Times: 30
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-24 ; Times: 13
+	Date: 2018-02-27 ; Times: 16
+	Date: 2018-02-26 ; Times: 13
+	Date: 2018-02-28 ; Times: 6
+	Date: 2018-02-14 ; Times: 9
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 5
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 20
+	Date: 2018-02-12 ; Times: 9
+	Date: 2018-02-13 ; Times: 15
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Pycnonotidae+Cameroon" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:temminckii genus:calidris hasmass:1" ; Times: 1
+	Query: "Muscicapidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Liberia&#34;" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "specificepithet:certhia genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "specificepithet:plumifera genus:Geophaps" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Icterus hasmass:1" ; Times: 1
+	Query: "specificepithet:dowii genus:tangara hasmass:1" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 2
+	Query: "specificepithet:flavirostris genus:tockus hasmass:1" ; Times: 1
+	Query: "Poicephalus stomach" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:dendrocincla hasmass:1" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "specificepithet:schoenobaenus genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "specificepithet:krameri genus:psittacula hasmass:1" ; Times: 1
+	Query: "Acrocephalidae Cameroon" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:ferruginea genus:Calidris hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sanctithomae genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "Scopidae+Cameroon" ; Times: 1
+	Query: "specificepithet:picumnus genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Grallaria varia" ; Times: 1
+	Query: "specificepithet:atacamensis genus:cinclodes hasmass:1" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "specificepithet:nigricans genus:cercomacra hasmass:1" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tephrodornis virgatus" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Sierra Leone&#34;" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "specificepithet:himantopus genus:Calidris hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:coronata genus:paroaria hasmass:1" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "specificepithet:leucomelas genus:turdus hasmass:1" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "Malaconotidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:erythropleurus genus:Zosterops" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "class:Aves (Gilgit)" ; Times: 1
+	Query: "Anatidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 6
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:zosterops genus:Xanthomixis hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "michigan" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "Locustellidae+Cameroon" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "Oriolidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Hemipus hirundinaceus" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "Burhinidae+Cameroon" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 1
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:nigroviridis genus:tangara hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:melodia caurina genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Ciconiidae+Cameroon" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:henslowii institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:lugubris genus:quiscalus hasmass:1" ; Times: 1
+	Query: "specificepithet:fumigatus genus:turdus hasmass:1" ; Times: 1
+	Query: "specificepithet:passerinus genus:Veniliornis hasmass:1" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "Laniidae+Cameroon" ; Times: 1
+	Query: "Batis mixta" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "Musophagidae+Cameroon" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "specificepithet:ruficauda genus:peucaea hasmass:1" ; Times: 1
+	Query: "specificepithet:chiapensis genus:campylorhynchus hasmass:1" ; Times: 2
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "specificepithet:capitata genus:paroaria hasmass:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "Philentoma velata" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "specificepithet:rufinucha genus:campylorhynchus hasmass:1" ; Times: 2
+	Query: "Bourns" ; Times: 1
+	Query: "class:Aves country:&#34;Niger&#34;" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "amp michigan" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "Heliornithidae+Cameroon" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Viduidae+Cameroon" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "genus:cecropis hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Tajikistan&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Veniliornis hasmass:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "Sagittariidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:prasina genus:hylia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:subminuta genus:calidris hasmass:1" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "Scolopacidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia gouldii genus:melospiza" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "Cisticolidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Mali&#34;" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "specificepithet:melodia sanaka genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "specificepithet:lamberti genus:malurus hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "specificepithet:nigricans genus:Petrochelidon hasmass:1" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 2
+	Query: "Procnias albus" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "specificepithet:bistrigiceps genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "locality:Laguna county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:parulus genus:anairetes hasmass:1" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "puma" ; Times: 2
+	Query: "Sylviidae+Cameroon" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:malurus hasmass:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34;" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "Onychorhynchus vntype:specimen mappable:1" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Calidris hasmass:1" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:mariquensis genus:bradornis hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "specificepithet:flavirostris genus:anairetes hasmass:1" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "specificepithet:humeralis genus:peucaea hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "Tephrodornis sylvicola" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:carbo genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivacea genus:cyanomitra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "Rallidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:finschi genus:Amazona hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "Ramphastidae+Cameroon" ; Times: 1
+	Query: "Phalacrocoracidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Bangladesh&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:nitens genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "specificepithet:autumnalis genus:Amazona hasmass:1" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardalotus genus:xiphorhynchus hasmass:1" ; Times: 1
+	Query: "specificepithet:corvina genus:Sporophila" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:melodia maxima genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+
+
+End of report.
