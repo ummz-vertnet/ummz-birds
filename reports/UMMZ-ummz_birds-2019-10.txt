@@ -1,0 +1,1252 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1498
+Number of records retrieved in searches: 21337
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 27
+	Country: Brazil ; Times: 67
+	Country: Bangladesh ; Times: 1
+	Country: Unknown ; Times: 99
+	Country: France ; Times: 21
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 7
+	Country: Australia ; Times: 5
+	Country: Singapore ; Times: 9
+	Country: Czechia ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 13
+	Country: Hong Kong ; Times: 2
+	Country: Netherlands ; Times: 4
+	Country: Denmark ; Times: 13
+	Country: United States ; Times: 925
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Mexico ; Times: 56
+	Country: India ; Times: 97
+	Country: United Kingdom ; Times: 24
+	Country: Colombia ; Times: 7
+	Country: Paraguay ; Times: 96
+	Country: Kenya ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 40
+	Date: 2019-10-08 ; Times: 31
+	Date: 2019-10-21 ; Times: 47
+	Date: 2019-10-20 ; Times: 14
+	Date: 2019-10-27 ; Times: 33
+	Date: 2019-10-26 ; Times: 16
+	Date: 2019-10-25 ; Times: 16
+	Date: 2019-10-22 ; Times: 172
+	Date: 2019-10-01 ; Times: 24
+	Date: 2019-10-03 ; Times: 83
+	Date: 2019-10-02 ; Times: 45
+	Date: 2019-10-05 ; Times: 11
+	Date: 2019-10-04 ; Times: 32
+	Date: 2019-10-07 ; Times: 26
+	Date: 2019-10-06 ; Times: 44
+	Date: 2019-10-23 ; Times: 89
+	Date: 2019-10-24 ; Times: 66
+	Date: 2019-10-29 ; Times: 62
+	Date: 2019-10-18 ; Times: 47
+	Date: 2019-10-19 ; Times: 12
+	Date: 2019-10-12 ; Times: 29
+	Date: 2019-10-13 ; Times: 23
+	Date: 2019-10-10 ; Times: 86
+	Date: 2019-10-11 ; Times: 63
+	Date: 2019-10-16 ; Times: 44
+	Date: 2019-10-31 ; Times: 58
+	Date: 2019-10-14 ; Times: 38
+	Date: 2019-10-17 ; Times: 64
+	Date: 2019-10-15 ; Times: 68
+	Date: 2019-10-28 ; Times: 36
+	Date: 2019-10-30 ; Times: 79
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius melodus 2009" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "Certhiasomus stictolaemus" ; Times: 1
+	Query: "Charadrius melodus 2000" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 2
+	Query: "Charadrius melodus 2002" ; Times: 1
+	Query: "Charadrius melodus 2006" ; Times: 1
+	Query: "family:Rheidae sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "143822" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer family:Passeridae county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;usa&#34;" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "Linton AND 1907 NOT Alamitos" ; Times: 2
+	Query: "UMMZ skin Mexico Geothlypis poliocephala" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "genus:xenops country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "family:Alcedinidae Bismarck" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Brachyramphus marmoratus 1975" ; Times: 1
+	Query: "family:Struthionidae sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "&#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "specificepithet:ruber stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "genus:Asthenes family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "Priotelus roseigaster" ; Times: 9
+	Query: "Tinamiformes" ; Times: 1
+	Query: "UMMZ skin Mexico Cardinalis sinuatus" ; Times: 1
+	Query: "244769" ; Times: 1
+	Query: "Euptilotis" ; Times: 4
+	Query: "UMMZ capito" ; Times: 3
+	Query: "11188" ; Times: 1
+	Query: "Spinus tristis mappable:1" ; Times: 2
+	Query: "Mycteria americana 1978" ; Times: 1
+	Query: "Polioptila californica californica 2003" ; Times: 8
+	Query: "Vireo bellii pusillus 2014" ; Times: 1
+	Query: "125203" ; Times: 1
+	Query: "specificepithet:rufopicta genus:lagonosticta class:aves year &lt;= 2019" ; Times: 1
+	Query: "Vireo bellii pusillus 2018" ; Times: 1
+	Query: "Vireo bellii pusillus 2019" ; Times: 1
+	Query: "Charadrius melodus 2007" ; Times: 1
+	Query: "genus:Rhea preparations:skel institutioncode:UMMZ" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "specificepithet:capistrata genus:nesocharis class:aves" ; Times: 1
+	Query: "Priotelus temnurus" ; Times: 2
+	Query: "143742" ; Times: 1
+	Query: "family:Alcedinidae locality:Long" ; Times: 1
+	Query: "vntype:specimen specificepithet:DOMINICANA genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 5
+	Query: "UMMZ 116537" ; Times: 1
+	Query: "dendrocitta formosae" ; Times: 2
+	Query: "genus:ortygospiza class:aves year &lt;= 2019" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Grinnell NOT Harrison NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Linton AND 1907 NOT Alamitos NOT Riverside NOT Kern" ; Times: 1
+	Query: "genus:donacobius country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Halcyon country:india" ; Times: 1
+	Query: "genus:Poecile class:Aves year &gt;= 1985 year &lt;= 1985 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 80046" ; Times: 1
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "specificepithet:obsoleta family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "family:Alcedinidae winchelli country:philippines" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34;" ; Times: 1
+	Query: "genus:struthio sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 3
+	Query: "Penelope superciliaris mappable:1" ; Times: 1
+	Query: "genus:Rhea institutioncode:UMMZ" ; Times: 1
+	Query: "Dicaeum concolor Koelz" ; Times: 1
+	Query: "Sphenopsis frontalis" ; Times: 1
+	Query: "192928" ; Times: 2
+	Query: "specificepithet:phoenicoptera genus:pytilia class:aves" ; Times: 2
+	Query: "pitiayumi insularis vntype:specimen" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "specificepithet:flammeolus genus:Psiloscops" ; Times: 2
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "244792" ; Times: 1
+	Query: "vntype:specimen specificepithet:fastuosa genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:102994 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:empidonax country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Tyrannus verticalis AND Island" ; Times: 1
+	Query: "UMMZ skin Mexico Geothlypis nelsoni" ; Times: 1
+	Query: "Accipiter gentilis laingi mappable:1" ; Times: 1
+	Query: "specificepithet:aurea family:Psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "195456" ; Times: 1
+	Query: "catalognumber:143458 institutioncode:UMMZ" ; Times: 1
+	Query: "&#34;Deignan&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:frontale genus:Cinclidium year &gt;= 1940 year &lt;= 2000" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Larvivora komadori basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:233480 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:110056 institutioncode:UMMZ" ; Times: 1
+	Query: "Cinclidium frontale vntype:specimen" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Baja" ; Times: 1
+	Query: "setophaga discolor" ; Times: 1
+	Query: "OConnor genus:Bombycilla institutioncode:UMMZ" ; Times: 2
+	Query: "geospiza scandens" ; Times: 7
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "Cichladusa guttata" ; Times: 1
+	Query: "class:aves locality:tana river year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Grey Wolf" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Struthio" ; Times: 2
+	Query: "genus:setophaga country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "capito auratus" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Phacellodomus family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "UMMZ skin Mexico Cardinalis cardinalis" ; Times: 1
+	Query: "genus:drymornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;alberta&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Barbara Island" ; Times: 1
+	Query: "ummz 126298" ; Times: 1
+	Query: "Tringa glareola hasmass:1" ; Times: 2
+	Query: "genus:chamaeza country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Perdicula argoondah" ; Times: 3
+	Query: "stateprovince:&#34;*Madras*&#34;" ; Times: 1
+	Query: "florida Cornus" ; Times: 2
+	Query: "Coccyzus americanus 2019" ; Times: 3
+	Query: "class:aves locality:tana river" ; Times: 1
+	Query: "Podiceps nigricollis AND Guadalupe" ; Times: 2
+	Query: "genus:polioptila country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "manitoba hudsonicus poecile" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 1
+	Query: "Calliope tschebaiewi" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "UMMZ skin Mexico Setophaga graciae" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND &#34;Barbara Island&#34;" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "specificepithet:crissale genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "63118" ; Times: 1
+	Query: "stateprovince:&#34;Michigan&#34; institutioncode:UMMZ" ; Times: 5
+	Query: "Callipepla californica AND Catalina Island NOT Osburn NOT Wright" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "228084" ; Times: 1
+	Query: "specificepithet:badius family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:pallida genus:lonchura class:aves year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:culicivorus family:pARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Mycteria americana 2002" ; Times: 1
+	Query: "Compsothraupis loricata" ; Times: 1
+	Query: "specificepithet:rufosuperciliata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Centropus sinensis" ; Times: 1
+	Query: "family:Alcedinidae winchelli Basilan" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttata genus:Cichladusa year &gt;= 1940 year &lt;= 2000" ; Times: 1
+	Query: "passerina chiapensis" ; Times: 1
+	Query: "catalognumber:143677 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania" ; Times: 2
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "Myadestes AND Island" ; Times: 1
+	Query: "Hemispingus" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 2
+	Query: "Calidris canutus rufa 2011" ; Times: 1
+	Query: "specificepithet:CERTHIOIDes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "specificepithet:americana genus:Grus class:Aves continent:North America" ; Times: 2
+	Query: "Ceyx cyanopectus year &gt; 1985" ; Times: 1
+	Query: "-87.5 14.5" ; Times: 1
+	Query: "UMMZ Merops nubicus" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona NOT Colombia NOT Wiltshire" ; Times: 3
+	Query: "Loriculus philippensis" ; Times: 5
+	Query: "Coccyzus americanus 2017" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 1
+	Query: "Cercotrichas signata" ; Times: 5
+	Query: "UMMZ 88967" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 6
+	Query: "family:Alcedinidae locality:Santa Cruz" ; Times: 1
+	Query: "class:aves country:&#34;india&#34; &#34;Coturnix coturnix&#34;" ; Times: 2
+	Query: "buteo platypterus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gyrola genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves country:&#34;India&#34; coturnix" ; Times: 1
+	Query: "Linton AND Island AND 1907" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Michigan&#34; year &gt;= 2000 year &lt;= 2001 institutioncode:UMMZ" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island" ; Times: 2
+	Query: "Jehl AND Island" ; Times: 1
+	Query: "catalognumber:202753 institutioncode:UMMZ" ; Times: 1
+	Query: "Mesitornis" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "asio clamator" ; Times: 4
+	Query: "genus:theristicus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Nesospiza vntype:specimen institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 3
+	Query: "specificepithet:mongolus genus:Charadrius institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "catalognumber:143687 institutioncode:UMMZ" ; Times: 1
+	Query: "Cercotrichas signata vntype:specimen" ; Times: 1
+	Query: "specificepithet:platyrostris genus:dendrocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "UMMZ-86309" ; Times: 1
+	Query: "catalognumber:143653 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:leschenaulti genus:Merops institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen Ficedula sapphira" ; Times: 1
+	Query: "specificepithet:phrygia genus:Anthochaera" ; Times: 6
+	Query: "skin county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "genus:Cariama country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "67534" ; Times: 1
+	Query: "UMMZ skin Mexico Turdus assimilis" ; Times: 1
+	Query: "genus:botaurus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:sittasomus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "pitiayumi pulchra vntype:specimen" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Quiscalus quiscula connecticut" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona NOT Colombia" ; Times: 1
+	Query: "walter koelz sonivia" ; Times: 1
+	Query: "walter koelz year &gt;= 1941 year &lt;= 1941" ; Times: 1
+	Query: "Callipepla californica AND Island" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "Cyanocitta stelleri carlottae mappable:1" ; Times: 1
+	Query: "catalognumber:233481 institutioncode:UMMZ" ; Times: 1
+	Query: "Charadrius melodus 1975" ; Times: 1
+	Query: "Gavia stellata AND Island" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;CAQUETA&#34;" ; Times: 1
+	Query: "locality:muhaka country:&#34;kenya&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Flavirostris family:Rallidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Schistochlamys class:Aves country:&#34;brazil&#34;" ; Times: 2
+	Query: "Phalaenoptilus nuttallii AND Cruz" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominicana genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 1
+	Query: "genus:Pipra country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Mizoram" ; Times: 5
+	Query: "128383" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "Molo" ; Times: 3
+	Query: "stateprovince:*Madras*" ; Times: 1
+	Query: "Oenanthe chrysopygia vntype:specimen" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 3
+	Query: "Vireo bellii pusillus 2015" ; Times: 1
+	Query: "institutioncode:ummz &#34;Blarina brevicauda&#34;" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1955" ; Times: 1
+	Query: "Ardea herodias AND Rosa Island NOT Ecuador" ; Times: 1
+	Query: "recordedby:Brewer year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "93814" ; Times: 2
+	Query: "Piranga cooperi" ; Times: 1
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:alaudina family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2009" ; Times: 8
+	Query: "Puffinus opisthomelas AND Natividad NOT Anthony" ; Times: 1
+	Query: "vntype:specimen Saxicola sibilla" ; Times: 1
+	Query: "nothura nigroguttata" ; Times: 1
+	Query: "genus:Procnias country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "210746" ; Times: 1
+	Query: "ummz 155711" ; Times: 1
+	Query: "Ammodramus humeralis guyana" ; Times: 1
+	Query: "Tachornis phoenicobia" ; Times: 3
+	Query: "family:Alcedinidae Basilan winchelli" ; Times: 1
+	Query: "Calidris canutus rufa 2002" ; Times: 1
+	Query: "Calidris canutus rufa 2003" ; Times: 1
+	Query: "UMMZ skin Mexico Empidonax occidentalis" ; Times: 1
+	Query: "Calidris canutus rufa 2007" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "jacobi" ; Times: 1
+	Query: "Sternula antillarum browni 2015" ; Times: 1
+	Query: "Calidris canutus rufa 2008" ; Times: 1
+	Query: "Calidris canutus rufa 2009" ; Times: 1
+	Query: "specificepithet:gulgula genus:Alauda hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Pnoepyga" ; Times: 1
+	Query: "specificepithet:pectoralis genus:EUPHONIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cichladusa guttata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pitiayumi inornata vntype:specimen" ; Times: 2
+	Query: "234758" ; Times: 1
+	Query: "Carpodacus sibiricus" ; Times: 1
+	Query: "Bond AND Podiceps NOT frank" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 1
+	Query: "Butorides striata country:Solomon Islands" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "UMMZ skin Mexico Myioborus pictus" ; Times: 1
+	Query: "specificepithet:pyrrhonota family:hirundinidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Callipepla californica AND Baja" ; Times: 1
+	Query: "UMMZ skin Mexico Myioborus miniatus" ; Times: 1
+	Query: "class:Aves catalognumber:204024 institutioncode:UMMZ" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 1
+	Query: "Poecile gambeli Colorado Boulder" ; Times: 1
+	Query: "catalognumber:117875 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:terenura country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "family:Alcedinidae Long" ; Times: 1
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:TRIURUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "specificepithet:VIOLACEA genus:EUPHONIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "institutioncode:UMMZ" ; Times: 1
+	Query: "genus:euschistospiza class:aves year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:Peregrinus genus:Falco country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus family:tyrannidae" ; Times: 1
+	Query: "ummz 155605" ; Times: 1
+	Query: "Charadrius melodus 1999" ; Times: 1
+	Query: "Calidris canutus rufa 1972" ; Times: 1
+	Query: "torca" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "UMMZ 77215" ; Times: 1
+	Query: "catalognumber:143673 institutioncode:UMMZ" ; Times: 1
+	Query: "Aphelocoma coerulescens 2014" ; Times: 1
+	Query: "Brachyramphus marmoratus 2003" ; Times: 1
+	Query: "Brachyramphus marmoratus 2002" ; Times: 1
+	Query: "catalognumber:176024 institutioncode:UMMZ" ; Times: 1
+	Query: "Brachyramphus marmoratus 2007" ; Times: 1
+	Query: "Linton AND 1907 NOT Alamitos NOT Riverside NOT Kern NOT Madre NOT Beach" ; Times: 2
+	Query: "Brachyramphus marmoratus 2005" ; Times: 1
+	Query: "Pterocles India" ; Times: 4
+	Query: "family:Casuariidae sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "Brachyramphus marmoratus 2008" ; Times: 1
+	Query: "Vireo bellii pusillus 2009" ; Times: 1
+	Query: "genus:Rhea preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 1984 207171" ; Times: 1
+	Query: "specificepithet:nitidula genus:lagonosticta class:aves" ; Times: 1
+	Query: "Poecile carolinensis indiana" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "Calypte costae AND Baja" ; Times: 1
+	Query: "Calidris canutus rufa 2013" ; Times: 1
+	Query: "Coccyzus americanus 1991" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "Eremophila alpestris strigata 2008" ; Times: 1
+	Query: "Saxicola tectes vntype:specimen" ; Times: 1
+	Query: "class:aves coordinateuncertaintyinmeters&lt;=1000 stateprovince:california year:1976" ; Times: 1
+	Query: "Uropsila pacifica" ; Times: 2
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "ummz 80046" ; Times: 1
+	Query: "ummz 80040" ; Times: 1
+	Query: "Calidris canutus rufa 2014" ; Times: 1
+	Query: "Patagona gigas" ; Times: 3
+	Query: "catalognumber:202752 institutioncode:UMMZ" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "struthio" ; Times: 1
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Poecile carolinensis West Virginia extimus" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "200252" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "trogon caligatus" ; Times: 1
+	Query: "specificepithet:albescens genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "catalognumber:155038 institutioncode:ummz" ; Times: 1
+	Query: "244743" ; Times: 1
+	Query: "genus:Toxostoma class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Linton AND 1907" ; Times: 2
+	Query: "genus:piranga country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Aves locality:Salem year &gt;= 1945 year &lt;= 1949" ; Times: 2
+	Query: "genus:Thryomanes stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:pyrohypogaster" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 8 month &lt;= 8 institutioncode:UMMZ" ; Times: 1
+	Query: "Madras Mahendra" ; Times: 2
+	Query: "vntype:specimen genus:Cissopis class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "Eremophila alpestris strigata 2017" ; Times: 1
+	Query: "walter koelz year &gt;= 1942 year &lt;= 1942" ; Times: 1
+	Query: "Eumyias albicaudatus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Insecta" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "ummz 65302" ; Times: 1
+	Query: "UMMZ skin Mexico Piranga bidentata" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Michigan&#34; preparations:Skin institutioncode:UMMZ" ; Times: 1
+	Query: "genus:estrilda class:aves country:&#34;Nigeria&#34;" ; Times: 1
+	Query: "specificepithet:SCUTATUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Junco vulcani" ; Times: 4
+	Query: "genus:setophaga stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "colinus virginianus graysoni" ; Times: 1
+	Query: "genus:euschistospiza class:aves" ; Times: 3
+	Query: "catalognumber:202747 institutioncode:UMMZ" ; Times: 1
+	Query: "tinamus serratus" ; Times: 2
+	Query: "ummz 155668" ; Times: 1
+	Query: "Monticola cinclorhyncha vntype:specimen" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Falco sparverius stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "thryophilus oblitus" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona" ; Times: 1
+	Query: "setophaga virens year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "dendrocitta" ; Times: 1
+	Query: "genus:Pseudoseisura country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanocephala[ genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Calliope pectardens basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dorud" ; Times: 3
+	Query: "Miller AND BEnito" ; Times: 1
+	Query: "sapayoa" ; Times: 1
+	Query: "catalognumber:143674 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ skin Mexico Oreothlypis superciliosa" ; Times: 1
+	Query: "239882" ; Times: 1
+	Query: "Synthliboramphus scrippsi continent:North America" ; Times: 3
+	Query: "colinus virginianus taylori" ; Times: 1
+	Query: "Aphelocoma coerulescens 2012" ; Times: 1
+	Query: "Strix occidentalis lucida 1992" ; Times: 1
+	Query: "genus:CHLOROPHONIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "(Picoides arcticus) year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "UMMZ 123353" ; Times: 1
+	Query: "family:Alcedinidae locality:Long Island" ; Times: 1
+	Query: "UMMZ skin Mexico Turdus migratorius" ; Times: 2
+	Query: "180131" ; Times: 1
+	Query: "catalognumber:89015 institutioncode:UMMZ" ; Times: 3
+	Query: "catalognumber:143734 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Chiroxiphia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:rueppellii institutioncode:UMMZ" ; Times: 1
+	Query: "niltava grandis" ; Times: 5
+	Query: "genus:poecile stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tarsiger johnstoniae vntype:specimen" ; Times: 1
+	Query: "catalognumber:202751 institutioncode:UMMZ" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "catalognumber:155037 institutioncode:ummz" ; Times: 1
+	Query: "Piranga rubra AND Island" ; Times: 1
+	Query: "class:Aves locality:Cabazon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "UMMZ 163860" ; Times: 2
+	Query: "UMMZ 163862" ; Times: 2
+	Query: "catalognumber:134619 institutioncode:UMMZ" ; Times: 1
+	Query: "family:Alcedinidae Basilan" ; Times: 1
+	Query: "county:&#34;Preble&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Linton AND 1907 NOT Alamitos NOT Riverside" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:philippinus genus:Merops institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Vireo bellii pusillus 1988" ; Times: 1
+	Query: "procellaria aequinoctialis" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "ramphocelus limatus" ; Times: 1
+	Query: "Sphyrapicus ruber year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Coccyzus americanus 2009" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "Coccyzus americanus 2001" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "specificepithet:validus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "UMMZ Megalaima haemacephala" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 1
+	Query: "UMMZ 126298" ; Times: 1
+	Query: "parabuteo" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "genus:Rhea sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "UMMZ skin Mexico Cardellina rubrifrons" ; Times: 1
+	Query: "class:aves country:&#34;India&#34; &#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "catalognumber:143722 institutioncode:UMMZ" ; Times: 1
+	Query: "Corvus AND Cruz Island" ; Times: 1
+	Query: "Baeolophus inornatus California santa clara county" ; Times: 1
+	Query: "aimophila fusca" ; Times: 1
+	Query: "Empidornis semipartitus vntype:specimen" ; Times: 1
+	Query: "palm tree" ; Times: 1
+	Query: "gouldiae dabryii india" ; Times: 1
+	Query: "Calidris tenuirostris" ; Times: 2
+	Query: "specificepithet:flavogaster genus:elaenia institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ skin Mexico Setophaga petechia" ; Times: 1
+	Query: "Todiramphus alberti" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 42
+	Query: "Galerida malabarica Kerala" ; Times: 1
+	Query: "onocrotalus" ; Times: 1
+	Query: "genus:Certhidea institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ skin Mexico Empidonax affinis" ; Times: 1
+	Query: "Todiramphus saurophagus saurophagus" ; Times: 1
+	Query: "catalognumber:143716 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves catalognumber:241984 institutioncode:UMMZ" ; Times: 1
+	Query: "Urocissa erythrorhyncha" ; Times: 3
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Linton AND 1907 NOT Alamitos NOT Riverside NOT Kern NOT Madre" ; Times: 1
+	Query: "specificepithet:ruber genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alaudina country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Setophaga insularis vntype:specimen" ; Times: 1
+	Query: "specificepithet:FLAVEOLA family:pARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:trochilirostris country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "family:Alcedinidae winchelli nigrorum country:philippines" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Aegolius acadicus brooksi mappable:1" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:pTEROGLOSSUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "specificepithet:angustirostris genus:Lepidocolaptes country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "UMMZ harpactes" ; Times: 1
+	Query: "specificepithet:rufosuperciliata family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:245830 institutioncode:UMMZ" ; Times: 1
+	Query: "country:&#34;Paraguay&#34; year &gt;= 1940 year &lt;= 1941 month &gt;= 7 month &lt;= 8" ; Times: 2
+	Query: "catalognumber:94605 institutioncode:UMMZ" ; Times: 1
+	Query: "striata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "catalognumber:210627 institutioncode:UMMZ" ; Times: 1
+	Query: "Ardea herodias AND Barbara Island" ; Times: 1
+	Query: "class:aves locality:kerio country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Aves recordedby:Cabot" ; Times: 1
+	Query: "genus:DOLICHONYX family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Setophaga chrysoparia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34;" ; Times: 10
+	Query: "githagineus Bucanetes" ; Times: 2
+	Query: "Todiramphus sanctus new caledonia" ; Times: 1
+	Query: "genus:pYRODERUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Madras Koelz" ; Times: 2
+	Query: "aegithina nigrolutea" ; Times: 1
+	Query: "class:Aves recordedby:Loring" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1940 AND Stager" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene class:aves country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Alcedinidae pavuvu" ; Times: 3
+	Query: "Galerida malabarica" ; Times: 1
+	Query: "pyrohypogaster" ; Times: 1
+	Query: "genus:plegadis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:arremon country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Prinia cinereocapilla" ; Times: 3
+	Query: "catalognumber:234270 institutioncode:UMMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:melanopis genus:Schistochlamys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:lophotes family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 9
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "catalognumber:202750 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 85725" ; Times: 1
+	Query: "UMMZ 85724" ; Times: 2
+	Query: "class:aves country:&#34;india&#34; Coturnix coturnix" ; Times: 1
+	Query: "Certhidea" ; Times: 2
+	Query: "R. M. Norris AND Island" ; Times: 1
+	Query: "Mimus AND Guadalupe Island" ; Times: 1
+	Query: "catalognumber:143684 institutioncode:UMMZ" ; Times: 1
+	Query: "(Anhimidae) hastissue:1" ; Times: 1
+	Query: "Oreotrochilus leucopleurus mappable:1" ; Times: 2
+	Query: "128373" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona NOT Colombia NOT Wiltshire NOT Sefton" ; Times: 1
+	Query: "mindanensis mindanao" ; Times: 1
+	Query: "specificepithet:ruber genus:Phacellodomus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sapayoa" ; Times: 2
+	Query: "62920" ; Times: 1
+	Query: "Campylorhynchus rufinucha vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:sclerurus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "199088" ; Times: 1
+	Query: "Bond AND Podiceps" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; &#34;coturnix coturnix&#34;" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "Strix occidentalis lucida 2009" ; Times: 1
+	Query: "Saxicola rubicola" ; Times: 1
+	Query: "Tringa stagnatilis hasmass:1" ; Times: 2
+	Query: "Strix occidentalis lucida 2007" ; Times: 1
+	Query: "244728" ; Times: 1
+	Query: "Strix occidentalis lucida 2003" ; Times: 1
+	Query: "specificepithet:capistrata genus:nesocharis class:aves year &lt;= 2019" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Calidris canutus rufa 2015" ; Times: 1
+	Query: "genus:asthenes family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Madras&#34;" ; Times: 2
+	Query: "Calidris canutus rufa 2016" ; Times: 1
+	Query: "Calidris canutus rufa 2019" ; Times: 1
+	Query: "specificepithet:fucata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:papa country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 3
+	Query: "UMMZ skin Mexico Pheucticus melanocephalus" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "specificepithet:orientalis genus:Merops institutioncode:UMMZ" ; Times: 1
+	Query: "genus:mesembrinibis country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "69978" ; Times: 1
+	Query: "Coccyzus americanus 2018" ; Times: 1
+	Query: "Pinarochroa sordida vntype:specimen" ; Times: 1
+	Query: "specificepithet:PICUMNUS genus:DENDROCOLAPTES country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Poecile carolinensis West Virginia" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Agropsar sturninus" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 9
+	Query: "Charadrius melodus 1984" ; Times: 1
+	Query: "mangle Rhizophora" ; Times: 1
+	Query: "Charadrius melodus 1986" ; Times: 1
+	Query: "anairetes parulus" ; Times: 1
+	Query: "Charadrius melodus 1980" ; Times: 1
+	Query: "187306" ; Times: 1
+	Query: "synallaxis fruticicola" ; Times: 1
+	Query: "Corvus corax AND Clemente Island" ; Times: 2
+	Query: "Mus musculus 2005" ; Times: 2
+	Query: "genus:Schoeniophylax country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "specificepithet:rufum genus:philydor country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:175828" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "hymenoptera" ; Times: 1
+	Query: "Tringa totanus hasmass:1" ; Times: 2
+	Query: "Phalaenoptilus nuttallii AND &#34;Cruz&#34;" ; Times: 2
+	Query: "gbifdatasetid:be5507b9-7abf-4b69-afe1-5ca2b7561734" ; Times: 7
+	Query: "Aphelocoma coerulescens 2003" ; Times: 1
+	Query: "Aphelocoma coerulescens 2004" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "Aphelocoma coerulescens 2006" ; Times: 1
+	Query: "Aphelocoma coerulescens 2007" ; Times: 1
+	Query: "vntype:specimen Heteroxenicus stellatus" ; Times: 1
+	Query: "Aphelocoma coerulescens 2009" ; Times: 1
+	Query: "Enicurus immaculatus vntype:specimen" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "genus:ardeotis australia" ; Times: 1
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "genus:geospiza institutioncode:UMMZ" ; Times: 2
+	Query: "Coccyzus americanus 1983" ; Times: 1
+	Query: "Coccyzus americanus 1982" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrorhynchos genus:Corvus continent:Asia hastissue:1" ; Times: 1
+	Query: "178304" ; Times: 2
+	Query: "UMMZ skin Mexico Setophaga pitiayumi" ; Times: 1
+	Query: "Coccyzus americanus 1986" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "specificepithet:picumnus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 2002" ; Times: 1
+	Query: "UMMZ Trogon surrucura" ; Times: 1
+	Query: "colinus virginianus minor" ; Times: 1
+	Query: "geositta frobeni" ; Times: 2
+	Query: "catalognumber:209066 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:symposiachrus country:&#34;solomon islands&#34;" ; Times: 1
+	Query: "Nystalus radiatus" ; Times: 1
+	Query: "vntype:specimen genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "genus:Polioptila class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Todiramphus saurophagus" ; Times: 14
+	Query: "Aphelocoma coerulescens 2005" ; Times: 1
+	Query: "Mycteria americana 1988" ; Times: 1
+	Query: "Phoebastria albatrus AND Island NOT Japan" ; Times: 1
+	Query: "specificepithet:fasciata genus:amadina class:aves year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Mimus AND ISland AND Baja" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Madras&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Phacellodomus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 10
+	Query: "141323" ; Times: 1
+	Query: "catalognumber:89017 institutioncode:UMMZ" ; Times: 4
+	Query: "catalognumber:206893" ; Times: 1
+	Query: "catalognumber:206892" ; Times: 3
+	Query: "Chloroceryle aenea year &gt; 1985 NOT Nature NOT CLO" ; Times: 2
+	Query: "specificepithet:major genus:xiphocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 2018" ; Times: 1
+	Query: "Brachyramphus marmoratus 2019" ; Times: 1
+	Query: "selasphorus sasin sedentarius" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 1
+	Query: "specificepithet:afer genus:ptilostomus" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 1
+	Query: "Brachyramphus marmoratus 2010" ; Times: 1
+	Query: "UMMZ skin Mexico Piranga flava" ; Times: 1
+	Query: "Poecile rufescens California Marin County" ; Times: 1
+	Query: "winchelli country:philippines" ; Times: 1
+	Query: "Calidris canutus rufa 2001" ; Times: 1
+	Query: "UMMZ Priotelus roseigaster" ; Times: 1
+	Query: "specificepithet:leucoblephara family:pARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Larus canus AND Island" ; Times: 1
+	Query: "Larus atlanticus continent:South America" ; Times: 3
+	Query: "Sternula antillarum browni 2019" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "Coccyzus americanus 2002" ; Times: 1
+	Query: "Poecile carolinensis travis texas" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "country:&#34;Solomon Islands&#34; (sanfordi) hastissue:1" ; Times: 1
+	Query: "genus:Melozone institutioncode:UMMZ" ; Times: 1
+	Query: "phodilus" ; Times: 1
+	Query: "Brachyramphus marmoratus 1989" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "143722" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "setophaga coronata year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "Hypopyrrhus" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 3
+	Query: "stateprovince:&#34;California&#34; catalognumber:160983" ; Times: 1
+	Query: "vntype:specimen specificepithet:varia genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Synthliboramphus craveri continent:North America" ; Times: 3
+	Query: "catalognumber:143731 institutioncode:UMMZ" ; Times: 1
+	Query: "colinus virginianus maculatus" ; Times: 1
+	Query: "catalognumber:168004 institutioncode:UMMZ" ; Times: 1
+	Query: "Coccyzus americanus 1987" ; Times: 1
+	Query: "Hapalocrex flaviventer" ; Times: 1
+	Query: "Eremophila alpestris strigata 2014" ; Times: 1
+	Query: "ummz 164889" ; Times: 1
+	Query: "aterrima" ; Times: 1
+	Query: "Calidris pygmaea" ; Times: 14
+	Query: "Cyornis poliogenys vntype:specimen" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Harrison NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Luscinia phaenicuroides" ; Times: 1
+	Query: "Calidris canutus rufa 1983" ; Times: 1
+	Query: "UMMZ Melanerpes lewis" ; Times: 1
+	Query: "141513" ; Times: 1
+	Query: "141514" ; Times: 1
+	Query: "Eremophila alpestris strigata 2019" ; Times: 1
+	Query: "Calidris canutus rufa 1985" ; Times: 1
+	Query: "catalognumber:134618 institutioncode:UMMZ" ; Times: 2
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "lophostrix cristata" ; Times: 2
+	Query: "Poecile gambeli alberta" ; Times: 1
+	Query: "recordedby:Brewer" ; Times: 1
+	Query: "Spheniscus" ; Times: 2
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 4
+	Query: "colinus virginianus insignis" ; Times: 1
+	Query: "Puffinus opisthomelas" ; Times: 4
+	Query: "genus:hylophilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:longirostris genus:systellura" ; Times: 1
+	Query: "catalognumber:129682 institutioncode:ummz" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "walter koelz" ; Times: 2
+	Query: "graminicola bengalensis" ; Times: 2
+	Query: "Baeolophus wollweberi Chiricahua" ; Times: 1
+	Query: "Tapera naevia" ; Times: 2
+	Query: "catalognumber:129683 institutioncode:ummz" ; Times: 1
+	Query: "7247 tyrannus" ; Times: 1
+	Query: "Cinnyris osea" ; Times: 3
+	Query: "Larvivora cyane" ; Times: 1
+	Query: "UMMZ skin Mexico Piranga erythrocephala" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Wright" ; Times: 1
+	Query: "specificepithet:flavigaster genus:hyliota country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:emblema class:aves" ; Times: 2
+	Query: "genus:LOCHMIAS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "cardinalis affinis" ; Times: 5
+	Query: "Mycteria americana 2019" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "176443" ; Times: 2
+	Query: "Mycteria americana 2013" ; Times: 1
+	Query: "Mycteria americana 2012" ; Times: 1
+	Query: "catalognumber:143669 institutioncode:UMMZ" ; Times: 1
+	Query: "Mycteria americana 2010" ; Times: 1
+	Query: "UMMZ 3373" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 1
+	Query: "Charadrius melodus 2018" ; Times: 1
+	Query: "rubra melanauris vntype:specimen" ; Times: 1
+	Query: "Charadrius melodus 2013" ; Times: 1
+	Query: "Charadrius melodus 2012" ; Times: 1
+	Query: "244746" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Charadrius melodus 2014" ; Times: 1
+	Query: "specificepithet:ajaja country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "prinia cinereocapilla" ; Times: 1
+	Query: "catalognumber:143658 institutioncode:UMMZ" ; Times: 1
+	Query: "Bubulcus ibis AND CRuz" ; Times: 1
+	Query: "specificepithet:nitidula genus:lagonosticta class:aves year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:fuscus genus:xiphorhynchus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "Egretta tricolor AND Island" ; Times: 1
+	Query: "specificepithet:frontalis genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:tanneri genus:troglodytes" ; Times: 2
+	Query: "specificepithet:RIPARIA family:hirundinidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "poephila cincta" ; Times: 7
+	Query: "Baeolophus inornatus California alameda county" ; Times: 1
+	Query: "class:Aves locality:Banning county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:albiventer family:hirundinidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "ara militaris" ; Times: 4
+	Query: "Grus americana mappable:1" ; Times: 1
+	Query: "pongo institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen institutioncode:UMMZ hastissue:1" ; Times: 2
+	Query: "Larus californicus AND Cruz" ; Times: 1
+	Query: "Strix occidentalis caurina 2007" ; Times: 1
+	Query: "family:estrildidae class:aves year &gt;= 1985 year &lt;= 2019 institutioncode:UMMZ" ; Times: 1
+	Query: "cyrtonyx ocellatus" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 4
+	Query: "Strix occidentalis caurina 2008" ; Times: 1
+	Query: "Strix occidentalis caurina 2009" ; Times: 1
+	Query: "specificepithet:modesta genus:neochmia class:aves" ; Times: 1
+	Query: "UMMZ Trogon elegans canescens" ; Times: 2
+	Query: "specificepithet:fasciatus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "ploceus megarhynchus" ; Times: 2
+	Query: "Polioptila californica californica 2015" ; Times: 8
+	Query: "orochelidon" ; Times: 2
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Polioptila californica californica 2019" ; Times: 9
+	Query: "Zosterops country:&#34;USA&#34;" ; Times: 2
+	Query: "specificepithet:brissonii country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Zonotrichia querula mappable:1" ; Times: 1
+	Query: "Passer ammodendri" ; Times: 1
+	Query: "specificepithet:rectirostris family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:nesocharis class:aves year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:amboinensis genus:macropygia hasmass:1" ; Times: 1
+	Query: "Phodilus badius" ; Times: 1
+	Query: "vntype:specimen specificepithet:VELIA genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "gouldiae dabryii" ; Times: 1
+	Query: "Corvus corax AND Clemente" ; Times: 1
+	Query: "catalognumber:143651 institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:ummz" ; Times: 2
+	Query: "puffinus nativitatis" ; Times: 1
+	Query: "Centropus senegalensis" ; Times: 1
+	Query: "catalognumber:143659 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz myioborus miniatus" ; Times: 1
+	Query: "specificepithet:pyrrhophia family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cantorchilus superciliaris" ; Times: 1
+	Query: "ummz 127133" ; Times: 1
+	Query: "Gray Wolf" ; Times: 2
+	Query: "Coccyzus americanus 1977" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Michigan&#34; preparations:Skin year &gt;= 2000 year &lt;= 2001 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:143730 institutioncode:UMMZ" ; Times: 1
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "135675" ; Times: 1
+	Query: "saxicola macrorhyncha" ; Times: 1
+	Query: "Pilherodius pileatus" ; Times: 1
+	Query: "catalognumber:110057 institutioncode:UMMZ" ; Times: 1
+	Query: "Eremophila alpestris strigata 2009" ; Times: 1
+	Query: "Anas acuta AND Catalina" ; Times: 1
+	Query: "genus:nesocharis class:aves" ; Times: 1
+	Query: "arcticus minnesota" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:hylorchilus" ; Times: 1
+	Query: "176633" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "genus:Ardeotis hastissue:1" ; Times: 1
+	Query: "vntype:specimen Saxicoloides fulicatus" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "magpie wing" ; Times: 2
+	Query: "usnm 527" ; Times: 1
+	Query: "corvus macrorhynchos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Rana palmipes mappable:1" ; Times: 1
+	Query: "UMMZ Merops ornatus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad" ; Times: 3
+	Query: "genus:SITTASOMUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 2008" ; Times: 1
+	Query: "Coccyzus americanus 1985" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "specificepithet:atricapillus genus:philydor country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Zosterops japonicus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "locality:El Yagual" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 4
+	Query: "mimus polyglottos county:&#34;Riverside&#34;" ; Times: 1
+	Query: "amazona vinacea" ; Times: 1
+	Query: "family:estrildidae class:aves year &gt;= 1985 year &lt;= 2019 institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Cardellina pusilla year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "white footed mouse" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 4
+	Query: "Strix occidentalis lucida 2019" ; Times: 1
+	Query: "Strix occidentalis lucida 2018" ; Times: 1
+	Query: "oriolus oriolus india" ; Times: 3
+	Query: "specificepithet:annumbi family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "Strix occidentalis lucida 2016" ; Times: 1
+	Query: "Strix occidentalis lucida 2014" ; Times: 1
+	Query: "colinus virginianus ridgwayi" ; Times: 1
+	Query: "class:Aves stateprovince:Tamil" ; Times: 1
+	Query: "Loriculus exilis" ; Times: 1
+	Query: "cardinalis littoralis" ; Times: 1
+	Query: "Batrachostomus" ; Times: 1
+	Query: "catalognumber:143735 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ficedula nigrorufa vntype:specimen" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "Podilymbus podiceps AND Baja" ; Times: 1
+	Query: "Strix occidentalis caurina 2019" ; Times: 1
+	Query: "Tangara fastuosa mappable:1" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "Geothlypis tolmiei year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:seledon genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1988" ; Times: 1
+	Query: "Saxicola jerdoni vntype:specimen" ; Times: 1
+	Query: "stateprovince:Madras" ; Times: 1
+	Query: "specificepithet:cristatus family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "class:Aves country:&#34;India&#34; coturnix" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapillus genus:Schistochlamys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dasycrotapha speciosa" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "Mimus AND Catalina" ; Times: 1
+	Query: "Pinarornis plumosus vntype:specimen" ; Times: 1
+	Query: "catalognumber:94606 institutioncode:UMMZ" ; Times: 2
+	Query: "236655" ; Times: 1
+	Query: "egg vntype:specimen genus:capito" ; Times: 1
+	Query: "colinus virginianus atriceps" ; Times: 1
+	Query: "Charadrius melodus 1998" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "catalognumber:160983" ; Times: 1
+	Query: "Mus musculus 2019" ; Times: 2
+	Query: "120011" ; Times: 1
+	Query: "UMMZ skin Mexico Cardellina rubra" ; Times: 1
+	Query: "catalognumber:143678 institutioncode:UMMZ" ; Times: 1
+	Query: "Tringa brevipes hasmass:1" ; Times: 2
+	Query: "family:Alcedinidae New Caledonia" ; Times: 2
+	Query: "catalognumber:215082 institutioncode:UMMZ" ; Times: 1
+	Query: "Calidris canutus rufa 1975" ; Times: 1
+	Query: "Aeronautes AND Catalina" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 1
+	Query: "catalognumber:202749 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:155039 institutioncode:ummz" ; Times: 5
+	Query: "Aphelocoma coerulescens 2019" ; Times: 1
+	Query: "Brachyramphus marmoratus 2013" ; Times: 1
+	Query: "Paroaria dominicana mappable:1" ; Times: 1
+	Query: "Callipepla AND Clemente" ; Times: 4
+	Query: "catalognumber:143679 institutioncode:UMMZ" ; Times: 1
+	Query: "213213" ; Times: 2
+	Query: "Syrmaticus humiae" ; Times: 1
+	Query: "genus:Ardeotis australis" ; Times: 2
+	Query: "colinus virginianus coyolcos" ; Times: 1
+	Query: "143710" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "catalognumber:169004 institutioncode:UMMZ" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "Poecile Texas. Brazos County" ; Times: 1
+	Query: "specificepithet:platurus genus:Prioniturus" ; Times: 2
+	Query: "UMMZ 120369" ; Times: 1
+	Query: "Larus atlanticus continent:America" ; Times: 1
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen catalognumber:245830 institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "microtus pensylvanicus" ; Times: 1
+	Query: "genus:Accipiter country:&#34;Japan&#34; year &gt;= 1980" ; Times: 1
+	Query: "178836" ; Times: 2
+	Query: "specificepithet:calendula genus:regulus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "cardinalis seftoni" ; Times: 1
+	Query: "Niltava vivida vntype:specimen" ; Times: 1
+	Query: "specificepithet:tolmiei stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "specificepithet:nivalis stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "139695" ; Times: 2
+	Query: "Hemiprocne mystacea" ; Times: 1
+	Query: "Geothlypis nelsoni" ; Times: 2
+	Query: "110218" ; Times: 1
+	Query: "UMMZ Chrysocolaptes lucidus" ; Times: 1
+	Query: "specificepithet:schulzi family:picidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Leiothlypis crissalis" ; Times: 2
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "Charadrius melodus 2011" ; Times: 1
+	Query: "specificepithet:solitarius family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; year &gt;= 1940 year &lt;= 1940 institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Camarhynchus institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 118042" ; Times: 1
+	Query: "genus:dendrocincla country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Charadrius collaris mappable:1" ; Times: 1
+	Query: "párabuteo" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania country:&#34;brazil&#34;" ; Times: 3
+	Query: "legatus" ; Times: 1
+	Query: "Leiothlypis ruficapilla washington" ; Times: 1
+	Query: "genus:euschistospiza class:aves year &lt;= 2019" ; Times: 1
+	Query: "colinus virginianus cubanensis" ; Times: 1
+	Query: "specificepithet:ruficollis family:hirundinidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Vireo bellii pusillus 2003" ; Times: 1
+	Query: "Ceyx cyanopectus" ; Times: 1
+	Query: "Poecile carolinensis georgia" ; Times: 1
+	Query: "Urocissa flavirostris" ; Times: 2
+	Query: "leiothlypis crissalis" ; Times: 1
+	Query: "Jehl AND Island NOT Jersey NOT Ocean" ; Times: 1
+	Query: "71340" ; Times: 1
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "131983" ; Times: 1
+	Query: "vntype:specimen specificepithet:velia genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Arremon virenticeps" ; Times: 1
+	Query: "hypsipetes leucocephalus" ; Times: 4
+	Query: "52049" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;alberta&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:xiphocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Polioptila californica californica 1988" ; Times: 9
+	Query: "Tringa ochropus hasmass:1" ; Times: 2
+	Query: "specificepithet:CHRYSOPTERUS family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:longirostris genus:systellura hasmass:1" ; Times: 1
+	Query: "catharus ustulatus year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "specificepithet:pictum genus:emblema class:aves" ; Times: 2
+	Query: "Brachyramphus marmoratus 2009" ; Times: 1
+	Query: "Phoebastria albatrus AND Island" ; Times: 1
+	Query: "Dicaeum concolor" ; Times: 5
+	Query: "Trogon elegans canescens" ; Times: 2
+	Query: "186599" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "genus:Drymornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Luscinia phaenicuroides vntype:specimen" ; Times: 2
+	Query: "70530" ; Times: 1
+	Query: "Kashmir Locustella major" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 4
+	Query: "catalognumber:143726 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:leucomelas country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:AUTOMOLUS family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cyornis rubeculoides vntype:specimen" ; Times: 1
+	Query: "Mycteria americana 2008" ; Times: 1
+	Query: "Calidris canutus rufa 1992" ; Times: 1
+	Query: "Koelz" ; Times: 2
+	Query: "colinus virginianus godmani" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 3
+	Query: "specificepithet:ALBICOLLIS genus:TURDUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1940" ; Times: 3
+	Query: "specificepithet:rivularis family:pARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Passerculus sandwichensis AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "catalognumber:143735. institutioncode:UMMZ" ; Times: 1
+	Query: "anthus rubescens institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "geothlypis philadelphia year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Dromaius sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "UMMZ Picus chlorolophus" ; Times: 1
+	Query: "Brachyramphus marmoratus 2004" ; Times: 1
+	Query: "173976" ; Times: 1
+	Query: "236340" ; Times: 1
+	Query: "vntype:specimen Muscicapa ruficauda" ; Times: 1
+	Query: "Calliope tschebaiewi vntype:specimen" ; Times: 1
+	Query: "Sternula antillarum browni 2003" ; Times: 1
+	Query: "UMMZ skin Mexico Peucedramus taeniatus" ; Times: 1
+	Query: "Coccyzus americanus 1999" ; Times: 1
+	Query: "Catharus guttatus connecticut" ; Times: 1
+	Query: "Corvus AND Clemente" ; Times: 1
+	Query: "specificepithet:spixi genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "specificepithet:tanneri genus:troglodytes recordnumber:*" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "vntype:specimen (DRD) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mycteria americana 2009" ; Times: 1
+	Query: "Sternula antillarum browni 2009" ; Times: 1
+	Query: "dendrocitta frontalis" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Mycteria americana 2003" ; Times: 1
+	Query: "vntype:specimen catalognumber:245900 institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 12
+	Query: "Stercorariidae continent:America North" ; Times: 1
+	Query: "genus:Pseudoseisura family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 147 (out of 1308 download events in this period)
+Total number of records downloaded: 73504
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 105
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Peru ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 28
+	Date: 2019-10-02 ; Times: 5
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 14
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 7
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-16 ; Times: 6
+	Date: 2019-10-31 ; Times: 4
+	Date: 2019-10-17 ; Times: 20
+	Date: 2019-10-15 ; Times: 5
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "Setophaga chrysoparia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34;" ; Times: 3
+	Query: "colinus virginianus floridanus" ; Times: 1
+	Query: "UMMZ skin Mexico Geothlypis poliocephala" ; Times: 1
+	Query: "UMMZ skin Mexico Geothlypis nelsoni" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "UMMZ skin Mexico Empidonax occidentalis" ; Times: 1
+	Query: "genus:Passer montanus hastissue:1" ; Times: 1
+	Query: "Certhidea" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa recordedby:Williams" ; Times: 1
+	Query: "UMMZ skin Mexico Cardinalis sinuatus" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Pnoepyga" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "UMMZ skin Mexico Piranga erythrocephala" ; Times: 1
+	Query: "UMMZ skin Mexico Turdus assimilis" ; Times: 1
+	Query: "class:Aves locality:Banning county:&#34;Riverside&#34;" ; Times: 1
+	Query: "UMMZ skin Mexico Myioborus pictus" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; &#34;coturnix coturnix&#34;" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 3
+	Query: "UMMZ skin Mexico Myioborus miniatus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Falco sparverius stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "colinus virginianus godmani" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "UMMZ skin Mexico Pheucticus melanocephalus" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "Tangara" ; Times: 2
+	Query: "diglossa" ; Times: 1
+	Query: "family:estrildidae class:aves year &gt;= 1985 year &lt;= 2019 institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "vntype:specimen genus:emberiza country:&#34;Korea&#34;" ; Times: 2
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "colinus virginianus ridgwayi" ; Times: 1
+	Query: "anairetes parulus" ; Times: 1
+	Query: "Uropsila pacifica" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "setophaga virens" ; Times: 2
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "UMMZ skin Mexico Peucedramus taeniatus" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "colinus virginianus" ; Times: 1
+	Query: "UMMZ skin Mexico Cardinalis cardinalis" ; Times: 1
+	Query: "UMMZ skin Mexico Setophaga pitiayumi" ; Times: 1
+	Query: "Geothlypis rostrata" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "colinus virginianus minor" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "colinus virginianus atriceps" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Michigan&#34; preparations:Skin institutioncode:UMMZ" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "colinus virginianus graysoni" ; Times: 1
+	Query: "UMMZ skin Mexico Cardellina rubra" ; Times: 1
+	Query: "Madras Koelz" ; Times: 1
+	Query: "specificepithet:crissale genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Camarhynchus" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;CAQUETA&#34;" ; Times: 1
+	Query: "colinus virginianus coyolcos" ; Times: 1
+	Query: "UMMZ skin Mexico Piranga flava" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+	Query: "UMMZ skin Mexico Oreothlypis superciliosa" ; Times: 1
+	Query: "Hemispingus" ; Times: 1
+	Query: "UMMZ skin Mexico Turdus migratorius" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "asio clamator" ; Times: 1
+	Query: "Geothlypis beldingi" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "Geothlypis nelsoni" ; Times: 2
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus maculatus" ; Times: 1
+	Query: "class:Aves locality:Cabazon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Halcyon country:india" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "colinus virginianus cubanensis" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 4
+	Query: "class:aves country:&#34;india&#34; &#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "colinus virginianus taylori" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34;" ; Times: 1
+	Query: "colinus virginianus insignis" ; Times: 1
+	Query: "UMMZ skin Mexico Cardellina rubrifrons" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "UMMZ skin Mexico Setophaga petechia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Michigan&#34; preparations:Skin year &gt;= 2000 year &lt;= 2001 institutioncode:UMMZ" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "window class:Aves" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "UMMZ skin Mexico Setophaga graciae" ; Times: 1
+	Query: "UMMZ skin Mexico Empidonax affinis" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "UMMZ skin Mexico Piranga bidentata" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 1
+
+
+End of report.
