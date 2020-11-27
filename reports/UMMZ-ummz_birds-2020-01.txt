@@ -1,0 +1,1493 @@
+Report for Institution Code UMMZ, Resource ummz_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2221
+Number of records retrieved in searches: 12374
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: Canada ; Times: 18
+	Country: Unknown ; Times: 42
+	Country: Panama ; Times: 1
+	Country: France ; Times: 27
+	Country: Peru ; Times: 35
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 4
+	Country: Cuba ; Times: 12
+	Country: Germany ; Times: 10
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Denmark ; Times: 13
+	Country: United States ; Times: 1927
+	Country: Sweden ; Times: 3
+	Country: Guadeloupe ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 20
+	Country: United Kingdom ; Times: 40
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 35
+	Date: 2020-01-03 ; Times: 47
+	Date: 2020-01-02 ; Times: 26
+	Date: 2020-01-01 ; Times: 19
+	Date: 2020-01-07 ; Times: 33
+	Date: 2020-01-06 ; Times: 36
+	Date: 2020-01-05 ; Times: 16
+	Date: 2020-01-04 ; Times: 13
+	Date: 2020-01-21 ; Times: 30
+	Date: 2020-01-20 ; Times: 39
+	Date: 2020-01-09 ; Times: 113
+	Date: 2020-01-08 ; Times: 32
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-24 ; Times: 41
+	Date: 2020-01-27 ; Times: 28
+	Date: 2020-01-26 ; Times: 28
+	Date: 2020-01-29 ; Times: 75
+	Date: 2020-01-28 ; Times: 71
+	Date: 2020-01-18 ; Times: 8
+	Date: 2020-01-19 ; Times: 11
+	Date: 2020-01-23 ; Times: 38
+	Date: 2020-01-14 ; Times: 67
+	Date: 2020-01-15 ; Times: 1139
+	Date: 2020-01-30 ; Times: 55
+	Date: 2020-01-17 ; Times: 11
+	Date: 2020-01-10 ; Times: 59
+	Date: 2020-01-11 ; Times: 22
+	Date: 2020-01-12 ; Times: 7
+	Date: 2020-01-13 ; Times: 49
+	Date: 2020-01-31 ; Times: 37
+	Date: 2020-01-16 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves institutioncode:ummz catalognumber:130247" ; Times: 2
+	Query: "genus:Numenius stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "petechia ruficapilla skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74007" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74006" ; Times: 2
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "241212" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:223642" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74009" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74008" ; Times: 2
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:210551" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Chapin" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74634" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243816" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74010" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Goodman" ; Times: 1
+	Query: "Myiarchus nuttingi skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:152650" ; Times: 2
+	Query: "petechia melanoptera skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "specificepithet:philadelphicus genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:151876" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209376" ; Times: 2
+	Query: "179163" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154965" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209372" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209373" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223914" ; Times: 2
+	Query: "Dryocopus lineatus" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:244525" ; Times: 2
+	Query: "field musuem" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "UMMZ 191194" ; Times: 2
+	Query: "catalognumber:158050 institutioncode:UMMZ" ; Times: 1
+	Query: "Phylloscopus tytleri" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:219243" ; Times: 2
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "strix occidentalis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154939" ; Times: 2
+	Query: "vntype:specimen specificepithet:concretus genus:Cyornis class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "242016" ; Times: 1
+	Query: "241323" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "class:Aves institutioncode:ummz catalognumber:203141" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:245825" ; Times: 2
+	Query: "ummz aves parulidae coronata skel OR skeleton" ; Times: 1
+	Query: "foulehaio" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year = 1990 hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:85370" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156025" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:85274" ; Times: 2
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:231092" ; Times: 2
+	Query: "genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228854" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:135444" ; Times: 2
+	Query: "Curruca curruca althaea himachal" ; Times: 1
+	Query: "asthenes dorbignyi" ; Times: 1
+	Query: "puffinus assimilis" ; Times: 2
+	Query: "Tyrannus caudifasciatus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "vntype:specimen genus:chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:228074" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:136406" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153409" ; Times: 2
+	Query: "243428" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 5
+	Query: "Mycteria americana" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:207567" ; Times: 2
+	Query: "242294" ; Times: 1
+	Query: "242520" ; Times: 1
+	Query: "vntype:specimen genus:Seicercus class:Aves hastissue:1" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "UMMZ Myiarchus tuberculifer skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "241042" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:201943" ; Times: 2
+	Query: "179864" ; Times: 1
+	Query: "Thryomanes AND Clemente Island" ; Times: 2
+	Query: "genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "&#34;James Bond&#34;" ; Times: 2
+	Query: "243811" ; Times: 1
+	Query: "petechia dugesi" ; Times: 1
+	Query: "locality:&#34;Santa Rosa&#34; county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 2
+	Query: "206276" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Griepentrog basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154927" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "nestor notabilis" ; Times: 6
+	Query: "catalognumber:54729 institutioncode:UMMZ" ; Times: 1
+	Query: "Psittacara wagleri" ; Times: 7
+	Query: "240927" ; Times: 1
+	Query: "240926" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:207863" ; Times: 2
+	Query: "specificepithet:cantillans genus:mirafra" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:dowell basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "242062" ; Times: 1
+	Query: "h nichols" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:201938" ; Times: 2
+	Query: "236594" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:201934" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:201935" ; Times: 2
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:239642" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:152889" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:202696" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224790" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Good" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:75450" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:150951" ; Times: 2
+	Query: "&#34;WING CHORD&#34; specificepithet:platyrhynchos genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245343" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243756" ; Times: 2
+	Query: "109716" ; Times: 1
+	Query: "Melanitta deglandi hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153288" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154811" ; Times: 2
+	Query: "catalognumber:224920 institutioncode:UMMZ" ; Times: 2
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241867" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242031" ; Times: 2
+	Query: "Baryphthengus martii" ; Times: 10
+	Query: "class:Aves institutioncode:ummz catalognumber:209371" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153286" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153287" ; Times: 2
+	Query: "catalognumber:134710" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:152694" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 10
+	Query: "242445" ; Times: 1
+	Query: "240728" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242878" ; Times: 2
+	Query: "class:aves recordedby:smith franklin" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1915" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209015" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243405" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:233890" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154993" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:201729" ; Times: 2
+	Query: "Otus sunia" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159264" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241342" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159278" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159277" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159276" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159275" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159274" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159273" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159272" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159271" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:107174" ; Times: 3
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "institutioncode:UMMZ Melospiza melodia skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:156431" ; Times: 2
+	Query: "228864" ; Times: 1
+	Query: "241818" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159261" ; Times: 2
+	Query: "206685" ; Times: 1
+	Query: "Oceanites oceanicus hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153755" ; Times: 2
+	Query: "126807" ; Times: 1
+	Query: "UMMZ 200235" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154973" ; Times: 2
+	Query: "Phaenicophaeus curvirostris" ; Times: 1
+	Query: "204019" ; Times: 1
+	Query: "244076" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:206197" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154975" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154974" ; Times: 2
+	Query: "catalognumber:205534 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154931" ; Times: 2
+	Query: "preparations:skeleton OR skel petechia albicollis" ; Times: 1
+	Query: "class:aves recordedby:Akeley" ; Times: 5
+	Query: "class:Aves institutioncode:ummz catalognumber:155012" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155011" ; Times: 2
+	Query: "Tangara argyrofenges" ; Times: 7
+	Query: "class:Aves institutioncode:ummz catalognumber:155015" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155014" ; Times: 2
+	Query: "Thryomanes AND Catalina Island AND 1938" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:227856" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227855" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227854" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159008" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243395" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159004" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159005" ; Times: 2
+	Query: "specificepithet:arnotti genus:Myrmecocichla family:Muscicapidae class:Aves continent:Africa" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159007" ; Times: 2
+	Query: "specificepithet:coronata class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:159002" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159003" ; Times: 2
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "Megascops atricapilla" ; Times: 2
+	Query: "192726" ; Times: 1
+	Query: "(Aix sponsa) hassex:1 hasmass:1" ; Times: 1
+	Query: "recordedby:bancroft" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:201051" ; Times: 2
+	Query: "institutioncode:UMMZ Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:205685 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153763" ; Times: 2
+	Query: "UMMZ 156533" ; Times: 2
+	Query: "skeleton vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ birds 187549" ; Times: 1
+	Query: "&#34;wing chord&#34; specificepithet:sponsa genus:aix continent:North America hasmass:1" ; Times: 1
+	Query: "tissue vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:136383" ; Times: 2
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "UMMZ 132507" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:233246" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Robjent" ; Times: 1
+	Query: "specificepithet:philadelphicus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:222322" ; Times: 2
+	Query: "specificepithet:cantillans genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:200999" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:200998" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222320" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222321" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222326" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:244120" ; Times: 2
+	Query: "242647" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159682" ; Times: 2
+	Query: "UMMZ Tyrannus melancholicus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159680" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:brown basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159686" ; Times: 2
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "187549 UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155225" ; Times: 2
+	Query: "189327" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:85373" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228800" ; Times: 2
+	Query: "54378" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "john semple" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:107441" ; Times: 3
+	Query: "Thryomanes AND Cruz Island AND 1914" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154812" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "234811" ; Times: 1
+	Query: "242625" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242921" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242719" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151198" ; Times: 2
+	Query: "226490" ; Times: 1
+	Query: "224806" ; Times: 1
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "169605" ; Times: 1
+	Query: "ummz aves catharus frantzii skel OR skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:151196" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151197" ; Times: 2
+	Query: "genus:Lophotriorchis" ; Times: 1
+	Query: "243416" ; Times: 1
+	Query: "preparations:skeleton OR skel petechia aurifrons" ; Times: 1
+	Query: "243414" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223697" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223696" ; Times: 2
+	Query: "preparations:skeleton OR skel petechia babad" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 8
+	Query: "242413" ; Times: 1
+	Query: "Guadalupe AND Thryomanes" ; Times: 1
+	Query: "genus:regulus class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ trogon caligatus concinnus" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:198371" ; Times: 2
+	Query: "canadensis nebraska" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:cacicus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "institutioncode:ummz catalognumber:107006" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:202306" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:157739" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:202304" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:202305" ; Times: 2
+	Query: "Cedros AND Thryomanes NOT Banks NOT Brown NOT Tose NOT Tafall NOT Lamb" ; Times: 1
+	Query: "242091" ; Times: 1
+	Query: "Myadestes genibarbis vntype:specimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154963" ; Times: 2
+	Query: "Dulus dominicus" ; Times: 1
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 12
+	Query: "class:Aves institutioncode:ummz catalognumber:239101" ; Times: 2
+	Query: "242099" ; Times: 1
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34; (d)" ; Times: 1
+	Query: "petechia bartholemica skel" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:132025" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227566" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242405" ; Times: 2
+	Query: "243462" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "240912" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154966" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;colombia&#34;" ; Times: 1
+	Query: "holochlorus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245970" ; Times: 2
+	Query: "ummz aves empidonax skel OR skeleton" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "Dryocopus lineatus egg" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:155999" ; Times: 2
+	Query: "240918" ; Times: 2
+	Query: "227121" ; Times: 1
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1935" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Fenwick" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:119161" ; Times: 3
+	Query: "specificepithet:melanolophus genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159259" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224850" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155993" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159258" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "241995" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:234241" ; Times: 2
+	Query: "specificepithet:carolinensis class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "109191" ; Times: 1
+	Query: "curruca Himachal" ; Times: 9
+	Query: "specificepithet:villosus stateprovince:&#34;Michigan&#34; month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "family:Otididae hasmass:1 haslength:1" ; Times: 1
+	Query: "Polioptila albiloris vntype:specimen stateprovince:&#34;Yucatan&#34;" ; Times: 1
+	Query: "Myiarchus tuberculifer skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "UMMZ Empidonax skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242100" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:newberry basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224253" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153413" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151199" ; Times: 2
+	Query: "semple" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153414" ; Times: 2
+	Query: "105377" ; Times: 1
+	Query: "specificepithet:calendula class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "Seicercus vntype:specimen (whistleri OR burkii)" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 1993 hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153795" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:130272" ; Times: 2
+	Query: "Cedros AND Thryomanes AND Anthony NOT Banks NOT Brown NOT Tose NOT Tafall NOT Lamb" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154835" ; Times: 2
+	Query: "159877" ; Times: 1
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 1
+	Query: "enicognathus" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 3
+	Query: "Cedros AND Thryomanes" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:228528" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228529" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241237" ; Times: 2
+	Query: "atlapetes chiriqui" ; Times: 1
+	Query: "115966" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74606" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222325" ; Times: 2
+	Query: "canadensis nebraska aves" ; Times: 1
+	Query: "Ciconia abdimii" ; Times: 2
+	Query: "UMMZ merops philippinus" ; Times: 1
+	Query: "Aethopyga gouldiae dabryii" ; Times: 2
+	Query: "UMMZ petechia skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155007" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74608" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241239" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241238" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:118064" ; Times: 3
+	Query: "241462" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:156895" ; Times: 2
+	Query: "UMMZ Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:albicollis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "Vireo plumbeus montanus" ; Times: 1
+	Query: "lagunas steere" ; Times: 2
+	Query: "catalognumber:224509 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154902" ; Times: 2
+	Query: "institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223862" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223861" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:245721" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159679" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;ecuador&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:203370" ; Times: 2
+	Query: "Eupherusa egregia" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:203372" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:203373" ; Times: 2
+	Query: "241334" ; Times: 1
+	Query: "petechia eoa skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "UMMZ 131525" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:75446" ; Times: 2
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "124065" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224539" ; Times: 2
+	Query: "241899" ; Times: 1
+	Query: "111121" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224518" ; Times: 2
+	Query: "rhynchospiza dabbenei" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245029" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:204757" ; Times: 2
+	Query: "Grus americana" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:75449" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:85362" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:99589" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156015" ; Times: 2
+	Query: "UMMZ birds 185996" ; Times: 1
+	Query: "226456" ; Times: 1
+	Query: "226455" ; Times: 1
+	Query: "UMMZ Tyrannus caudifasciatus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "226452" ; Times: 1
+	Query: "Anthony AND Thryomanes AND Island" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; year &gt;= 1951 year &lt;= 1951" ; Times: 1
+	Query: "116798" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153844" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:231564" ; Times: 2
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:223643" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223640" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223641" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:220342" ; Times: 2
+	Query: "Gabrielson" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:219244" ; Times: 2
+	Query: "Goodman genus:Fulica institutioncode:UMMZ" ; Times: 1
+	Query: "242853" ; Times: 1
+	Query: "ummz aves myadestes townsendi skel OR skeleton" ; Times: 1
+	Query: "Sporophila crassirostris vntype:specimen" ; Times: 1
+	Query: "UMMZ Tyrannus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "ummz aves parulidae goldmani" ; Times: 1
+	Query: "vntype:specimen genus:Prinia class:Aves hastissue:1" ; Times: 1
+	Query: "Patagona gigas" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:203863" ; Times: 2
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "amazilia hoffmanni" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "ummz aves parulidae coronata" ; Times: 2
+	Query: "aves catharus occidentalis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 7
+	Query: "178136" ; Times: 1
+	Query: "Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "128596" ; Times: 1
+	Query: "UMMZ 131551" ; Times: 1
+	Query: "Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "UMMZ 132576" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ACUTA genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:134054" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:134052" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:134053" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:134050" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:134051" ; Times: 2
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:UMMZ" ; Times: 1
+	Query: "Tyrannus melancholicus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:virens class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:205088" ; Times: 2
+	Query: "Thryomanes AND Clemente Island AND 1938" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:234242" ; Times: 2
+	Query: "Thryomanes AND San Clemente Island" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242979" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242978" ; Times: 2
+	Query: "ummz aves parulidae trichas melanops" ; Times: 1
+	Query: "specificepithet:solitarius class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:205251" ; Times: 2
+	Query: "UMMZ Tyrannus skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "nymphicus hollandicus" ; Times: 2
+	Query: "225865" ; Times: 1
+	Query: "206605" ; Times: 1
+	Query: "UMMZ Tyrannus dominicensis skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157524" ; Times: 2
+	Query: "psilopsiagon" ; Times: 7
+	Query: "perisoreus nebraska aves" ; Times: 1
+	Query: "229265" ; Times: 1
+	Query: "catalognumber:52408 institutioncode:UMMZ" ; Times: 1
+	Query: "megascops atricapilla" ; Times: 8
+	Query: "dulus" ; Times: 1
+	Query: "agamia agami" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154988" ; Times: 2
+	Query: "Cedros AND Thryomanes NOT Brown NOT Tose NOT Tafall NOT Lamb" ; Times: 1
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:232749" ; Times: 2
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74204" ; Times: 2
+	Query: "O.58135" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:75447" ; Times: 2
+	Query: "catalognumber:121354 institutioncode:UMMZ" ; Times: 2
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:coromanda class:Aves hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:72241" ; Times: 2
+	Query: "Quiscalus quiscula vntype:specimen stateprovince:&#34;Maryland&#34; institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:236022" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:245375" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155361" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:233955" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "Chlorostilbon bracei" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228713" ; Times: 2
+	Query: "grus rubicunda" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:242026" ; Times: 2
+	Query: "picoides stricklandi year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "passerculus sandwichensis beldingi" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "skin-66297" ; Times: 1
+	Query: "catalognumber:224997 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154983" ; Times: 2
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157695" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:99441" ; Times: 2
+	Query: "231996" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "Porphyrio martinicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:flavicollis genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243411" ; Times: 2
+	Query: "catalognumber:224251 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243412" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74054" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74055" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:198370" ; Times: 2
+	Query: "leiothlypis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157507" ; Times: 2
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74053" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154461" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154460" ; Times: 2
+	Query: "niltava grandis" ; Times: 1
+	Query: "3710 specificepithet:acuta genus:Anas year &gt;= 1937 year &lt;= 1937 institutioncode:UMMZ" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "michigan Cistothorus palustris" ; Times: 1
+	Query: "243420" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "&#34;wing chord&#34; AND &#34;adult&#34; specificepithet:sponsa genus:aix haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:218213" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:214066" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:214067" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:214068" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153424" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153425" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153426" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:99443" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:244573" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:suckley basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242594" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:201215" ; Times: 2
+	Query: "Thryomanes AND Cedros" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:244574" ; Times: 2
+	Query: "vireo griseus hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242593" ; Times: 2
+	Query: "ummz aves catharus occidentalis skel OR skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157694" ; Times: 2
+	Query: "212414" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:206893" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:157188" ; Times: 2
+	Query: "UMMZ coronata auduboni skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Percival" ; Times: 1
+	Query: "turdus poliocephalus mayonensis" ; Times: 1
+	Query: "241276" ; Times: 1
+	Query: "petechia xanthotera preparations:Skel" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245383" ; Times: 2
+	Query: "catalognumber:127109 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:205893 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155411" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155027" ; Times: 2
+	Query: "UMMZ coronata auduboni" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155022" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155021" ; Times: 2
+	Query: "UMMZ 191184" ; Times: 5
+	Query: "horsfieldii" ; Times: 1
+	Query: "hankinson" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta class:Aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:99248" ; Times: 2
+	Query: "ummz 241424" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:201104" ; Times: 2
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius" ; Times: 2
+	Query: "226416" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "class:Aves institutioncode:ummz catalognumber:212641" ; Times: 2
+	Query: "241872" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:135414" ; Times: 2
+	Query: "155619" ; Times: 1
+	Query: "UMMZ Myiarchus nuttingi skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245653" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:218979" ; Times: 2
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:85424" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74057" ; Times: 2
+	Query: "holotype class:aves continent:africa hastypestatus:1" ; Times: 4
+	Query: "british columbia 1883" ; Times: 1
+	Query: "habia rubica" ; Times: 2
+	Query: "85834" ; Times: 1
+	Query: "melanerpes formicivorus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Polioptila caerulea vntype:specimen stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:222337" ; Times: 2
+	Query: "vntype:specimen genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "thamnophilus amazonicus" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:UMMZ Passerculus sandwichensis skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Myadestes genibarbis" ; Times: 2
+	Query: "UMMZ merops ornatus" ; Times: 1
+	Query: "Cardellina OR Ergaticus versicolor hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157615" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:233250" ; Times: 2
+	Query: "Melanerpes aurifrons AND Oklahoma" ; Times: 2
+	Query: "Thamnophilus amazonicus" ; Times: 5
+	Query: "Thryomanes AND Catalina Island" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:216599" ; Times: 2
+	Query: "larry brown" ; Times: 3
+	Query: "100760" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "genus:podargus class:aves country:&#34;new guinea&#34;" ; Times: 1
+	Query: "institutioncode:UMMZ Passerculus sandwichensis OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:olivaceus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:245976" ; Times: 2
+	Query: "226468" ; Times: 1
+	Query: "Merops persicus" ; Times: 3
+	Query: "97174" ; Times: 1
+	Query: "226464" ; Times: 1
+	Query: "226463" ; Times: 1
+	Query: "226460" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:151186" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245083" ; Times: 2
+	Query: "aves empidonax affinis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 2
+	Query: "UMMZ Chondestes skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:238909" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:204420" ; Times: 2
+	Query: "&#34;sea otter&#34;" ; Times: 1
+	Query: "Cedros AND Thryomanes NOT Tose NOT Tafall NOT Banks" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:75370" ; Times: 2
+	Query: "148446" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:232172" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223915" ; Times: 2
+	Query: "canadensis 1876" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:232171" ; Times: 2
+	Query: "skel OR skeleton specificepithet:melodia class:Aves institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:119356" ; Times: 2
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155996" ; Times: 2
+	Query: "Burhinus senegalensis" ; Times: 3
+	Query: "genus:Melaenornis institutioncode:UMMZ" ; Times: 1
+	Query: "setophaga fusca" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:241354" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155997" ; Times: 2
+	Query: "Seicercus whistleri vntype:specimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:241382" ; Times: 2
+	Query: "241839" ; Times: 1
+	Query: "catalognumber:107095 institutioncode:UMMZ" ; Times: 1
+	Query: "242554" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154919" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:99270" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242577" ; Times: 2
+	Query: "domesticus Passer" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:205062" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:237897" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205060" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205061" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:murie basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:209194" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209195" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:203368" ; Times: 2
+	Query: "SIO 15-36" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:130165" ; Times: 2
+	Query: "52543" ; Times: 1
+	Query: "locality:WCTV institutioncode:UMMZ" ; Times: 2
+	Query: "205936" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:152388" ; Times: 2
+	Query: "Dryocopus lineatus eggs" ; Times: 1
+	Query: "Psittacara leucophthalmus" ; Times: 7
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:107025" ; Times: 4
+	Query: "eastern michigan university" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:220876" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:107026" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:244518" ; Times: 2
+	Query: "specificepithet:villosus genus:Picoides hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:241848" ; Times: 2
+	Query: "pterodroma kermadec" ; Times: 4
+	Query: "class:Aves institutioncode:ummz catalognumber:243585" ; Times: 2
+	Query: "specificepithet:cooperii genus:accipiter stateprovince:&#34;Indiana&#34; year &gt;= 1980" ; Times: 1
+	Query: "UMMZ Tyrannus crassirostris skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "petechia Venezuela preparations:Skel" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1931" ; Times: 1
+	Query: "touit" ; Times: 2
+	Query: "242034" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:73842" ; Times: 2
+	Query: "specificepithet:varius class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:154912" ; Times: 2
+	Query: "Icterus prosthemelas vntype:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "&#34;WING CHORD&#34; specificepithet:ACUTA genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228533" ; Times: 2
+	Query: "specificepithet:hyemalis class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:233206" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:130266" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154986" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154984" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154985" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243754" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74618" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74619" ; Times: 2
+	Query: "petechia cienagae preparations:Skel" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242592" ; Times: 2
+	Query: "Pomatorhinus vntype:specimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153427" ; Times: 2
+	Query: "preparations:skel petechia bartholemica" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74615" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242607" ; Times: 2
+	Query: "62878" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242605" ; Times: 2
+	Query: "13990" ; Times: 1
+	Query: "UMMZ petechia aestiva skel" ; Times: 1
+	Query: "class:aves country:&#34;Mexico&#34; AND (&#34;toe&#34;) hastissue:1" ; Times: 2
+	Query: "212409" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:99538" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:220588" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:220589" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155994" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155995" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155992" ; Times: 2
+	Query: "vntype:specimen order:procellariiformes institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:203369" ; Times: 2
+	Query: "haematotis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:234543" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227571" ; Times: 2
+	Query: "224522" ; Times: 1
+	Query: "216997" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155998" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:157182" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:212606" ; Times: 2
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:201236" ; Times: 2
+	Query: "Neochen" ; Times: 1
+	Query: "specificepithet:serrirostris" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:206198" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151821" ; Times: 2
+	Query: "Cardellina versicolor hastissue:1 country:Mexico" ; Times: 1
+	Query: "ARGYA SQUAMICEPS" ; Times: 1
+	Query: "gbifdatasetid:be5507b9-7abf-4b69-afe1-5ca2b7561734" ; Times: 10
+	Query: "class:Aves institutioncode:ummz catalognumber:231737" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:85318" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156001" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156000" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156003" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156002" ; Times: 2
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:206894" ; Times: 2
+	Query: "27833 aves" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245035" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:201235" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:206895" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242486" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:152668" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:119338" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:119339" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:119336" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:119337" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:240996" ; Times: 2
+	Query: "UMMZ 103549" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:240993" ; Times: 2
+	Query: "62875" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:244371" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:204229" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209382" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159001" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155986" ; Times: 2
+	Query: "Mexico Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:243416" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155990" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:cantwell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;british columbia&#34; year &gt;= 1883 year &lt;= 1884" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:244926" ; Times: 2
+	Query: "specificepithet:satrapa class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:136420" ; Times: 2
+	Query: "Hubel Frederick" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:231741" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:218176" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:85466" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:134048" ; Times: 2
+	Query: "Anthreptes institutioncode:UMMZ" ; Times: 1
+	Query: "110205" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:228820" ; Times: 2
+	Query: "Thryomanes AND Cruz Island" ; Times: 1
+	Query: "Dendrocopos kizuki" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242863" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:134047" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242417" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:70285" ; Times: 2
+	Query: "Nesoctites" ; Times: 3
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154940" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:239407" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227882" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156004" ; Times: 2
+	Query: "Choroní pass" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:236222" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:238542" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241304" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:153415" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:anthony basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:203371" ; Times: 2
+	Query: "Sinosuthora webbiana" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:198354" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:204418" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155991" ; Times: 2
+	Query: "Tyrannus savana skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:241606" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74215" ; Times: 2
+	Query: "UMMZ Myiarchus skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "tongue family:nectariniidae" ; Times: 2
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:209014" ; Times: 2
+	Query: "petechia Venezuela" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224807" ; Times: 2
+	Query: "catalognumber:224529 institutioncode:UMMZ" ; Times: 2
+	Query: "UMMZ 53661" ; Times: 1
+	Query: "egg vntype:specimen (antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245033" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:158276" ; Times: 2
+	Query: "aves catharus frantzii skel OR skeleton country:Mexico" ; Times: 1
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:244101" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242540" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:158069" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:woodcock basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "petechia babad preparations:Skel" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:207235" ; Times: 2
+	Query: "Burhinus indicus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153500" ; Times: 2
+	Query: "160370" ; Times: 1
+	Query: "Thryomanes AND Santa Rosa Island" ; Times: 1
+	Query: "226429" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74448" ; Times: 2
+	Query: "cotinga" ; Times: 1
+	Query: "226488" ; Times: 2
+	Query: "UMMZ 156441" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209414" ; Times: 2
+	Query: "125740" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224497" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:75445" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227895" ; Times: 2
+	Query: "camptorhynchus" ; Times: 1
+	Query: "catalognumber:124689 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154497" ; Times: 2
+	Query: "185802" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:231562" ; Times: 2
+	Query: "Polioptila albiventris vntype:specimen" ; Times: 1
+	Query: "Thryomanes AND Guadalupe" ; Times: 1
+	Query: "UMMZ Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243060" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243061" ; Times: 2
+	Query: "116269" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:156522" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156523" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156520" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156521" ; Times: 2
+	Query: "genus:Helicolestes" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155028" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156524" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:156525" ; Times: 2
+	Query: "12353" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157508" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:219051" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "242533" ; Times: 1
+	Query: "scientificname:Andigena hypoglauca " ; Times: 1
+	Query: "UMMZ &#34;Tyrannus tyrannus&#34; skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154405" ; Times: 2
+	Query: "claravis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:203327" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154954" ; Times: 2
+	Query: "239275" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154959" ; Times: 2
+	Query: "ummz aves troglodytes aedon skel OR skeleton" ; Times: 1
+	Query: "UMMZ 200869" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:221624" ; Times: 2
+	Query: "241204" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:85546" ; Times: 2
+	Query: "aves parulidae goldmani" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:85017" ; Times: 2
+	Query: "pionus menstruus" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:85541" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151864" ; Times: 2
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Skin" ; Times: 1
+	Query: "Anthony AND Thryomanes" ; Times: 2
+	Query: "specificepithet:calendula genus:Regulus institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "239375" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:209379" ; Times: 2
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:peck basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:241236" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:212605" ; Times: 2
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "catalognumber:124696 institutioncode:UMMZ" ; Times: 3
+	Query: "UMMZ merops leschenaulti leschenaulti" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Clancey" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154926" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:202307" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154921" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151587" ; Times: 2
+	Query: "241862" ; Times: 1
+	Query: "Myiarchus ferox skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154928" ; Times: 2
+	Query: "241868" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker basisofrecord:PreservedSpecimen" ; Times: 9
+	Query: "class:Aves institutioncode:ummz catalognumber:207796" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:207797" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:207794" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:207795" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:207655" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:john braly basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:207798" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:152389" ; Times: 2
+	Query: "apteryx" ; Times: 3
+	Query: "catalognumber:88426 institutioncode:UMMZ" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1914 NOT Holmgren" ; Times: 1
+	Query: "UMMZ 160588" ; Times: 2
+	Query: "UMMZ Myiarchus swainsoni skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "ummz aves vireo skel OR skeleton" ; Times: 1
+	Query: "picoides arcticus hastissue:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UMMZ" ; Times: 1
+	Query: "Gallinago andina" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:205215" ; Times: 2
+	Query: "petechia albicollis preparations:Skel" ; Times: 1
+	Query: "Polioptila nelsoni vntype:specimen" ; Times: 2
+	Query: "Krakatoa" ; Times: 2
+	Query: "200956 UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:210434" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:210433" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223108" ; Times: 2
+	Query: "beagle" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:222293" ; Times: 2
+	Query: "institutioncode:ummz" ; Times: 2
+	Query: "&#34;wing chord&#34; AND &#34;adult&#34; specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:81434 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:222294" ; Times: 2
+	Query: "specificepithet:fusca class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "ummz aves parulidae coronata auduboni" ; Times: 1
+	Query: "catalognumber:81435 institutioncode:UMMZ" ; Times: 3
+	Query: "135125 UMMZ" ; Times: 1
+	Query: "243430" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:240679" ; Times: 2
+	Query: "Cedros AND Thryomanes NOT Tose NOT Tafall NOT Lamb" ; Times: 1
+	Query: "family:Eurylaimidae country:&#34;Philippines&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Prosobonia" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:240673" ; Times: 2
+	Query: "Larus michahellis" ; Times: 1
+	Query: "242124" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 2
+	Query: "recordedby:Storer institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:americana genus:grus" ; Times: 1
+	Query: "241291" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:218493" ; Times: 2
+	Query: "Storer genus:Podilymbus institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:116184" ; Times: 3
+	Query: "vntype:specimen (Aix sponsa) hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245689" ; Times: 2
+	Query: "catalognumber:224247 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:218498" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74208" ; Times: 2
+	Query: "Vermivora bachmanii" ; Times: 12
+	Query: "specificepithet:canadensis class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:240640" ; Times: 2
+	Query: "Geositta cunicularia" ; Times: 1
+	Query: "catalognumber:107905 institutioncode:UMMZ" ; Times: 2
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "turdus mayonensis" ; Times: 8
+	Query: "Turdus EUNOMUS India" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:240642" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205992" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 8
+	Query: "class:Aves institutioncode:ummz catalognumber:136399" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205991" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:218081" ; Times: 2
+	Query: "116799" ; Times: 1
+	Query: "UMMZ 117346" ; Times: 1
+	Query: "207097" ; Times: 1
+	Query: "242544" ; Times: 1
+	Query: "catalognumber:235835 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ harpactes fasciatus malabaricus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:150949" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:74210" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159269" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:231474" ; Times: 2
+	Query: "Anas poecilorhyncha hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:99268" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:99269" ; Times: 2
+	Query: "242059" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245359" ; Times: 2
+	Query: "h. nichols" ; Times: 5
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:135828" ; Times: 2
+	Query: "ummz aves empidonax affinis skel OR skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:236042" ; Times: 2
+	Query: "226472" ; Times: 1
+	Query: "Sitta nagaensis" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241493" ; Times: 2
+	Query: "Quiscalus quiscula vntype:specimen institutioncode:UMMZ" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:74148" ; Times: 2
+	Query: "orchid" ; Times: 3
+	Query: "oceanites oceanicus" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224541" ; Times: 2
+	Query: "ummz 169208" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224543" ; Times: 2
+	Query: "institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224545" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224546" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224547" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242046" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:217935" ; Times: 2
+	Query: "catalognumber:224530 institutioncode:UMMZ" ; Times: 2
+	Query: "eupsittula pertinax" ; Times: 1
+	Query: "specificepithet:albicollis class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:245826" ; Times: 2
+	Query: "catalognumber:205713 institutioncode:UMMZ" ; Times: 2
+	Query: "drepanornis bruijnii" ; Times: 3
+	Query: "119592" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159270" ; Times: 2
+	Query: "curruca himachal" ; Times: 2
+	Query: "15-2654" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224492" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155880" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228069" ; Times: 2
+	Query: "UMMZ petechia skel" ; Times: 1
+	Query: "ummz aves vireo huttoni skel OR skeleton" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:224498" ; Times: 2
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides year &gt;= 1985 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:74034" ; Times: 2
+	Query: "specificepithet:longirostris genus:Rallus hastissue:1" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159268" ; Times: 2
+	Query: "143785" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:232220" ; Times: 2
+	Query: "skel OR skeleton specificepithet:sandwichensis class:Aves year &gt;= 1980 year &lt;= 2019 institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159265" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227932" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159267" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159260" ; Times: 2
+	Query: "institutioncode:UMMZ Icterus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159262" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159263" ; Times: 2
+	Query: "180098" ; Times: 1
+	Query: "ummz aves myadestes occidentalis skel OR skeleton" ; Times: 1
+	Query: "institutioncode:UMMZ Melospiza melodia OR skeleton OR Skel OR Skeleton" ; Times: 2
+	Query: "genus:junco class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:159062" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:159063" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209381" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:209380" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154968" ; Times: 2
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:203358" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222336" ; Times: 2
+	Query: "catalognumber:98973 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Roberts" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155987" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:244699" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:155989" ; Times: 2
+	Query: "colinus virginianus atriceps" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154962" ; Times: 2
+	Query: "164673" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:154964" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:203357" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:206186" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154967" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:152698" ; Times: 2
+	Query: "196663" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:222149" ; Times: 2
+	Query: "196664" ; Times: 1
+	Query: "131525 UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155002" ; Times: 2
+	Query: "petechia aurifrons preparations:Skel" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "Tyrannus crassirostris skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155006" ; Times: 2
+	Query: "specificepithet:villosus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves institutioncode:ummz catalognumber:227844" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:218503" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227846" ; Times: 2
+	Query: "genus:Spizaetus hastissue:1" ; Times: 2
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242033" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:243441" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:118136" ; Times: 3
+	Query: "UMMZ goldmani skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:205258" ; Times: 2
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:223706" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223705" ; Times: 2
+	Query: "UMMZ Tyrannus savana skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "226439" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:241030" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205252" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205255" ; Times: 2
+	Query: "Burhinus bistriatus" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205256" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:151817" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223638" ; Times: 2
+	Query: "melanerpes portoricensis" ; Times: 4
+	Query: "Cedros AND Thryomanes NOT Tose" ; Times: 1
+	Query: "240727" ; Times: 1
+	Query: "102707" ; Times: 1
+	Query: "Scotocercidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:231475" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:220326" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:244413" ; Times: 2
+	Query: "ummz 226236" ; Times: 1
+	Query: "UMMZ petechia aestiva partial" ; Times: 1
+	Query: "catalognumber:126129 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222319" ; Times: 2
+	Query: "UMMZ Tyrannus verticalis skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:157666" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:222314" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:205386" ; Times: 2
+	Query: "Sarkidiornis" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228812" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228813" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:85232" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:228811" ; Times: 2
+	Query: "159630" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:223639" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Payne" ; Times: 1
+	Query: "eugenes fulgens hastissue:1 country:Mexico" ; Times: 1
+	Query: "224905" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:119357" ; Times: 2
+	Query: "catalognumber:224131 institutioncode:UMMZ" ; Times: 2
+	Query: "Cedros AND Thryomanes NOT Tose NOT Tafall" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:218980" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:207887" ; Times: 2
+	Query: "242270" ; Times: 1
+	Query: "Quiscalus vntype:specimen institutioncode:UMMZ" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:206190" ; Times: 2
+	Query: "226479" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242914" ; Times: 2
+	Query: "petechia paraguanae preparations:Skel" ; Times: 1
+	Query: "241097" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:107006" ; Times: 5
+	Query: "226649" ; Times: 1
+	Query: "philydor rufum" ; Times: 1
+	Query: "hasmass:1 Aves India" ; Times: 1
+	Query: "uria lomvia greenland" ; Times: 1
+	Query: "catalognumber:206308 institutioncode:UMMZ" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:220037" ; Times: 2
+	Query: "UMMZ petechia bartholemica Skel OR skel" ; Times: 1
+	Query: "Eulampis jugularis" ; Times: 4
+	Query: "Tyrannus cubensis" ; Times: 2
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "UMMZ 200956" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UMMZ Tyrannus tyrannus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "catalognumber:224883 institutioncode:UMMZ" ; Times: 2
+	Query: "240995" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242098" ; Times: 2
+	Query: "41874" ; Times: 1
+	Query: "locality:orange lake institutioncode:UMMZ" ; Times: 1
+	Query: "242012" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:242092" ; Times: 2
+	Query: "UMMZ Myiarchus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "UMMZ Myiarchus ferox skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:235112" ; Times: 2
+	Query: "242010" ; Times: 1
+	Query: "ectopistes" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241613" ; Times: 2
+	Query: "Calidris pygmaea" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "Myiarchus swainsoni skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:227024" ; Times: 2
+	Query: "Cercomacra melanaria mappable:1" ; Times: 2
+	Query: "Tyrannus couchii skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:81433 institutioncode:UMMZ" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:85016" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:85361" ; Times: 2
+	Query: "specificepithet:nivalis genus:Montifringilla hastissue:1" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:218180" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:154961" ; Times: 2
+	Query: "catalognumber:127157 institutioncode:UMMZ" ; Times: 2
+	Query: "UMMZ 134747" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:237240" ; Times: 2
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224544" ; Times: 2
+	Query: "genus:Vanellus vntype:specimen hastissue:1" ; Times: 1
+	Query: "UMMZ Tyrannus couchii skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:233100" ; Times: 2
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "class:Aves institutioncode:ummz catalognumber:233101" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224540" ; Times: 2
+	Query: "specificepithet:solitarius genus:vireo class:Aves stateprovince:&#34;Michigan&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "sterna minnesota" ; Times: 1
+	Query: "petechia chrysendeta preparations:Skel" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:228075" ; Times: 2
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "212417" ; Times: 1
+	Query: "ummz aves parulidae coronata auduboni skel OR skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:155879" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:224542" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:200587" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:99437" ; Times: 2
+	Query: "numenius borealis" ; Times: 5
+	Query: "class:Aves institutioncode:ummz catalognumber:224519" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242273" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:242485" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:201026" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:241312" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:200577" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:245722" ; Times: 2
+	Query: "ummz aves parulidae auduboni skel OR skeleton" ; Times: 1
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus month &gt;= 5 month &lt;= 9 hastissue:1" ; Times: 1
+	Query: "236340" ; Times: 1
+	Query: "catalognumber:225168 institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:fasciata genus:rallina country:&#34;philippines&#34;" ; Times: 2
+	Query: "sclerurus caudacutus" ; Times: 7
+	Query: "specificepithet:eurhythmus genus:ixobrychus country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:guira genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "140174" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:136398" ; Times: 2
+	Query: "Troglodytes rufociliatus vntype:specimen stateprovince:&#34;Chiapas&#34;" ; Times: 2
+	Query: "skel OR skeleton specificepithet:sandwichensis class:Aves institutioncode:UMMZ hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:110000" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153407" ; Times: 2
+	Query: "chaetops" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:72848" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:204419" ; Times: 2
+	Query: "class:Aves institutioncode:ummz catalognumber:227853" ; Times: 2
+	Query: "cape may warbler" ; Times: 2
+	Query: "UMMZ Tyrannus forficatus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves institutioncode:ummz catalognumber:153408" ; Times: 2
+	Query: "87894" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 142 (out of 1584 download events in this period)
+Total number of records downloaded: 43665
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Denmark ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 31
+	Country: United States ; Times: 78
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 33
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-08 ; Times: 6
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-24 ; Times: 12
+	Date: 2020-01-27 ; Times: 15
+	Date: 2020-01-26 ; Times: 6
+	Date: 2020-01-29 ; Times: 10
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-31 ; Times: 5
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves continent:Africa recordedby:Fenwick" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Goodman" ; Times: 1
+	Query: "specificepithet:arnotti genus:Myrmecocichla family:Muscicapidae class:Aves continent:Africa" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "&#34;wing chord&#34; AND &#34;adult&#34; specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1990 hastissue:1" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "egg vntype:specimen (antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Moses" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "enicognathus" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Irwin" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "turdus mayonensis" ; Times: 1
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "touit" ; Times: 1
+	Query: "institutioncode:UMMZ Melospiza melodia OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "melanerpes formicivorus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Chiapas&#34; hastissue:1" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:White" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "eupsittula pertinax" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:aves county:&#34;cochise&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+	Query: "Cardellina versicolor hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Good" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Northern" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Percival" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "psilopsiagon" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 1995 hastissue:1" ; Times: 1
+	Query: "Seicercus vntype:specimen (whistleri OR burkii)" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Someren" ; Times: 1
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oaxaca&#34; hastissue:1" ; Times: 1
+	Query: "Cardellina OR Ergaticus versicolor hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Ansorge" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "drepanornis bruijnii" ; Times: 2
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Archer" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Roberts" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Payne" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Chapin" ; Times: 1
+	Query: "eugenes fulgens hastissue:1 country:Mexico" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 2
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1991 year &lt;= 2000 hastissue:1" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Loveridge" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Robjent" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Clancey" ; Times: 1
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 2
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 1
+	Query: "xanthopsar flavus" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Glen" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Heinrich" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "Tyrannus cubensis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+
+
+End of report.
